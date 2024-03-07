@@ -1,0 +1,2994 @@
+[
+  {
+    "network": "smartchain",
+    "address": "0x0034719300501B06E10Ebb1D07ea5967301F0941",
+    "name": "Governance xAlgo",
+    "symbol": "xALGO",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0034719300501B06E10Ebb1D07ea5967301F0941.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93",
+    "name": "xYSL token",
+    "symbol": "xYSL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x016CF83732f1468150D87dCC5BdF67730B3934D3",
+    "name": "AirNFT Token",
+    "symbol": "AIRT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x016CF83732f1468150D87dCC5BdF67730B3934D3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+    "name": "BSC Wrapped Jupiter",
+    "symbol": "bwJUP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0255af6c9f86F6B0543357baCefA262A2664f80F",
+    "name": "Immutable",
+    "symbol": "DARA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0255af6c9f86F6B0543357baCefA262A2664f80F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07",
+    "name": "ZCore Finance",
+    "symbol": "ZEFI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x04C747b40Be4D535fC83D09939fb0f626F32800B",
+    "name": "ITAM",
+    "symbol": "ITAM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x04C747b40Be4D535fC83D09939fb0f626F32800B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x04F73A09e2eb410205BE256054794fB452f0D245",
+    "name": "DxSale.Network",
+    "symbol": "SALE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x04F73A09e2eb410205BE256054794fB452f0D245.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x050787DE0cF5Da03D9387b344334D51cAE5DD0Fd",
+    "name": "PEACOCKCOIN",
+    "symbol": "PEKC",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x050787DE0cF5Da03D9387b344334D51cAE5DD0Fd.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x05B339B0A346bF01f851ddE47a5d485c34FE220c",
+    "name": "Astronaut",
+    "symbol": "NAUT",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x05B339B0A346bF01f851ddE47a5d485c34FE220c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+    "name": "Lista USD",
+    "symbol": "lisUSD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x07af67b392B7A202fAD8E0FBc64C34F33102165B",
+    "name": "Aquagoat",
+    "symbol": "AQUAGOAT",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x07af67b392B7A202fAD8E0FBc64C34F33102165B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0864c156b3C5F69824564dEC60c629aE6401bf2a",
+    "name": "Streamr",
+    "symbol": "DATA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0864c156b3C5F69824564dEC60c629aE6401bf2a.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "name": "PancakeSwap Token",
+    "symbol": "Cake",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "name": "Cosmos Token",
+    "symbol": "ATOM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0F9E4D49f25de22c2202aF916B681FBB3790497B",
+    "name": "Perlin",
+    "symbol": "PERL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0F9E4D49f25de22c2202aF916B681FBB3790497B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
+    "name": "bDollar Share",
+    "symbol": "sBDO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79",
+    "name": "MoonMoon",
+    "symbol": "MOONMOON",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0fEAdcC3824E7F3c12f40E324a60c23cA51627fc",
+    "name": "WardenSwap Token",
+    "symbol": "Warden",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0fEAdcC3824E7F3c12f40E324a60c23cA51627fc.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x111111111117dC0aa78b770fA6A738034120C302.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x12e34cDf6A031a10FE241864c32fB03a4FDaD739",
+    "name": "FREE coin BSC",
+    "symbol": "FREE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x12e34cDf6A031a10FE241864c32fB03a4FDaD739.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1311b352467d2B5c296881BaDEA82850bcd8f886",
+    "name": "TOOLS",
+    "symbol": "TOOLS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1311b352467d2B5c296881BaDEA82850bcd8f886.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x13958e1eb63dFB8540Eaf6ed7DcbBc1A60FD52AF",
+    "name": "Frenchie",
+    "symbol": "FREN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x13958e1eb63dFB8540Eaf6ed7DcbBc1A60FD52AF.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x14b1166aB53A237c8cEaeE2BBc4BbCa200cb7da8",
+    "name": "SparkPoint",
+    "symbol": "bSRK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x14b1166aB53A237c8cEaeE2BBc4BbCa200cb7da8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x14c358b573a4cE45364a3DBD84BBb4Dae87af034",
+    "name": "DungeonSwap Token",
+    "symbol": "DND",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x14c358b573a4cE45364a3DBD84BBb4Dae87af034.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x151B1e2635A717bcDc836ECd6FbB62B674FE3E1D",
+    "name": "Venus XVS",
+    "symbol": "vXVS",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x151B1e2635A717bcDc836ECd6FbB62B674FE3E1D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1610bc33319e9398de5f57B33a5b184c806aD217",
+    "name": "Venus DOT",
+    "symbol": "vDOT",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1610bc33319e9398de5f57B33a5b184c806aD217.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2",
+    "name": "pTokens CGG",
+    "symbol": "CGG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x182c763a4b2Fbd18C9B5f2D18102a0dDd9D5DF26",
+    "name": "HOGL Finance",
+    "symbol": "HOGL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x182c763a4b2Fbd18C9B5f2D18102a0dDd9D5DF26.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
+    "name": "bDollar",
+    "symbol": "BDO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+    "name": "Zcash Token",
+    "symbol": "ZEC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1C545E9943CFd1b41E60a7917465911fa00Fc28C",
+    "name": "Polaris",
+    "symbol": "POLAR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1C545E9943CFd1b41E60a7917465911fa00Fc28C.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+    "name": "XRP Token",
+    "symbol": "XRP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1F7216fdB338247512Ec99715587bb97BBf96eae",
+    "name": "Badger Sett Badger",
+    "symbol": "bBADGER",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1F7216fdB338247512Ec99715587bb97BBf96eae.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+    "name": "Liquid Staking BNB",
+    "symbol": "BNBx",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A",
+    "name": "Fuel Token",
+    "symbol": "Fuel",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "name": "Ethereum Token",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
+    "name": "Alien Worlds Trilium",
+    "symbol": "TLM",
+    "decimals": 4,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2222227E22102Fe3322098e4CBfE18cFebD57c95.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+    "name": "Sheesha Finance",
+    "symbol": "SHEESHA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2406dCe4dA5aB125A18295f4fB9FD36a0f7879A2",
+    "name": "Coinspaid",
+    "symbol": "CPD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2406dCe4dA5aB125A18295f4fB9FD36a0f7879A2.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
+    "name": "Binance Beacon ETH",
+    "symbol": "BETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x256D1fCE1b1221e8398f65F9B36033CE50B2D497",
+    "name": "Alvey Chain",
+    "symbol": "wALV",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x256D1fCE1b1221e8398f65F9B36033CE50B2D497.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+    "name": "CumRocket",
+    "symbol": "CUMMIES",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x29a63F4B209C29B4DC47f06FFA896F32667DAD2C",
+    "name": "PURSE TOKEN",
+    "symbol": "PURSE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x29a63F4B209C29B4DC47f06FFA896F32667DAD2C.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2A1d286ed5edAD78BeFD6E0d8BEb38791e8cD69d",
+    "name": "Climb Token Finance",
+    "symbol": "CLIMB",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2A1d286ed5edAD78BeFD6E0d8BEb38791e8cD69d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
+    "name": "ElonGate",
+    "symbol": "ElonGate",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2A9718defF471f3Bb91FA0ECEAB14154F150a385.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2B72867c32CF673F7b02d208B26889fEd353B1f8",
+    "name": "Magic Square",
+    "symbol": "SQR",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2B72867c32CF673F7b02d208B26889fEd353B1f8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
+    "name": "SPACE ID",
+    "symbol": "ID",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2dfF88A56767223A5529eA5960Da7A3F5f766406.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2f7b4C618Dc8E0bBA648E54cDADce3D8361f9816",
+    "name": "NFTL Token",
+    "symbol": "NFTL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2f7b4C618Dc8E0bBA648E54cDADce3D8361f9816.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2fF3d0F6990a40261c66E1ff2017aCBc282EB6d0",
+    "name": "Venus SXP",
+    "symbol": "vSXP",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x2fF3d0F6990a40261c66E1ff2017aCBc282EB6d0.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30",
+    "name": "Bsc-Peg INSUR Token",
+    "symbol": "INSUR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x31b9773f225408129a90788EF013Bd449e283865",
+    "name": "Porn",
+    "symbol": "PORN",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x31b9773f225408129a90788EF013Bd449e283865.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+    "name": "Mobox",
+    "symbol": "MBOX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D",
+    "name": "JULb",
+    "symbol": "JULb",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x334b3eCB4DCa3593BCCC3c7EBD1A1C1d1780FBF1",
+    "name": "Venus DAI",
+    "symbol": "vDAI",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x334b3eCB4DCa3593BCCC3c7EBD1A1C1d1780FBF1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x347E430b7Cd1235E216be58ffA13394e5009E6e2",
+    "name": "GAIA Everworld",
+    "symbol": "GAIA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x347E430b7Cd1235E216be58ffA13394e5009E6e2.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x35e869B7456462b81cdB5e6e42434bD27f3F788c",
+    "name": "Midas Dollar",
+    "symbol": "MDO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x35e869B7456462b81cdB5e6e42434bD27f3F788c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x361C60b7c2828fCAb80988d00D1D542c83387b50",
+    "name": "DFI (DefiChain)",
+    "symbol": "DFI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x361C60b7c2828fCAb80988d00D1D542c83387b50.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x373E768f79c820aA441540d254dCA6d045c6d25b",
+    "name": "DeRace Token",
+    "symbol": "DERC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x373E768f79c820aA441540d254dCA6d045c6d25b.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x375483CfA7Fc18F6b455E005D835A8335FbdbB1f",
+    "name": "Eclipse",
+    "symbol": "ECP",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x375483CfA7Fc18F6b455E005D835A8335FbdbB1f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x380624A4a7e69dB1cA07deEcF764025FC224D056",
+    "name": "SafeBTC",
+    "symbol": "SAFEBTC",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x380624A4a7e69dB1cA07deEcF764025FC224D056.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3910db0600eA925F63C36DdB1351aB6E2c6eb102",
+    "name": "Spartan Protocol Token V2",
+    "symbol": "SPARTA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3910db0600eA925F63C36DdB1351aB6E2c6eb102.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2",
+    "name": "SafeStar",
+    "symbol": "SAFESTAR",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3C00F8FCc8791fa78DAA4A480095Ec7D475781e2.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+    "name": "Cardano Token",
+    "symbol": "ADA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
+    "name": "Moonpot",
+    "symbol": "POTS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3Fcca8648651E5b974DD6d3e50F61567779772A8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88",
+    "name": "SafeMars",
+    "symbol": "SAFEMARS",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA",
+    "name": "SAITO",
+    "symbol": "SAITO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x3d6545b08693daE087E957cb1180ee38B9e3c25E.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x411Ec510c85C9e56271bF4E10364Ffa909E685D9",
+    "name": "Moniwar",
+    "symbol": "MOWA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x411Ec510c85C9e56271bF4E10364Ffa909E685D9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4197C6EF3879a08cD51e5560da5064B773aa1d29",
+    "name": "ACryptoS",
+    "symbol": "ACS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4197C6EF3879a08cD51e5560da5064B773aa1d29.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
+    "name": "SafeMoon",
+    "symbol": "SFM",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+    "name": "Nerve",
+    "symbol": "NRV",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x431e0cD023a32532BF3969CddFc002c00E98429d",
+    "name": "Chainport.io-Peg XCAD Token",
+    "symbol": "XCAD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x431e0cD023a32532BF3969CddFc002c00E98429d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+    "name": "Litecoin Token",
+    "symbol": "LTC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x444A0E0c139Cac67e8f9be945C6Dfe01A2766ED1",
+    "name": "Gemstone Token",
+    "symbol": "GST",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x444A0E0c139Cac67e8f9be945C6Dfe01A2766ED1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+    "name": "TokenFi",
+    "symbol": "TOKEN",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4507cEf57C46789eF8d1a19EA45f4216bae2B528.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4691937a7508860F876c9c0a2a617E7d9E945D4B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+    "name": "Everdome",
+    "symbol": "DOME",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x475bFaa1848591ae0E6aB69600f48d828f61a80E.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x477bC8d23c634C154061869478bce96BE6045D12",
+    "name": "SeedifyFund",
+    "symbol": "SFUND",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x477bC8d23c634C154061869478bce96BE6045D12.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x48077400FAF11183c043Feb5184a13ea628Bb0DB",
+    "name": "Coinzix Token",
+    "symbol": "ZIX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x48077400FAF11183c043Feb5184a13ea628Bb0DB.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+    "name": "Trust Wallet",
+    "symbol": "TWT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
+    "name": "Kalmar Token",
+    "symbol": "KALM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4BA0057f784858a48fe351445C672FF2a3d43515.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+    "name": "VAI Stablecoin",
+    "symbol": "VAI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4DA996C5Fe84755C80e108cf96Fe705174c5e36A",
+    "name": "WOWswap",
+    "symbol": "WOW",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4DA996C5Fe84755C80e108cf96Fe705174c5e36A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4E7Ae924FD9a5D60b56BE486b2900efE0c6a9CA7",
+    "name": "Lottery Token",
+    "symbol": "LOT",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4E7Ae924FD9a5D60b56BE486b2900efE0c6a9CA7.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4EF285c8cbe52267c022c39da98b97ca4b7e2fF9",
+    "name": "pTokens ORE [via ChainPort.io]",
+    "symbol": "ORE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4EF285c8cbe52267c022c39da98b97ca4b7e2fF9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4F47A0d15c1E53F3d94c069C7D16977c29F9CB6B",
+    "name": "Ramen Token",
+    "symbol": "Ramen",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4F47A0d15c1E53F3d94c069C7D16977c29F9CB6B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4a080377f83D669D7bB83B3184a8A5E61B500608",
+    "name": "XEND",
+    "symbol": "XEND",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4a080377f83D669D7bB83B3184a8A5E61B500608.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f",
+    "name": "MagicCraft",
+    "symbol": "MCRT",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4d2d32d8652058Bf98c772953E1Df5c5c85D9F45",
+    "name": "DAO Maker",
+    "symbol": "DAO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4d2d32d8652058Bf98c772953E1Df5c5c85D9F45.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4d4e595d643dc61EA7FCbF12e4b1AAA39f9975B8",
+    "name": "Pet Token",
+    "symbol": "PET",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4d4e595d643dc61EA7FCbF12e4b1AAA39f9975B8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4e6415a5727ea08aAE4580057187923aeC331227",
+    "name": "Refinable",
+    "symbol": "FINE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4e6415a5727ea08aAE4580057187923aeC331227.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4e8a9D0BF525d78fd9E0c88710099f227F6924cf",
+    "name": "LunarHighway",
+    "symbol": "LUNAR",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4e8a9D0BF525d78fd9E0c88710099f227F6924cf.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4ef29F3B804C316bA8bA464A765C601Fc092a2e9",
+    "name": "Quantum Assets Token",
+    "symbol": "QA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4ef29F3B804C316bA8bA464A765C601Fc092a2e9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4f0ed527e8A95ecAA132Af214dFd41F30b361600",
+    "name": "vSWAP.fi",
+    "symbol": "vBSWAP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x4f0ed527e8A95ecAA132Af214dFd41F30b361600.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x50D809c74e0B8e49e7B4c65BB3109AbE3Ff4C1C1",
+    "name": "Cub Finance",
+    "symbol": "CUB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x50D809c74e0B8e49e7B4c65BB3109AbE3Ff4C1C1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x51BA0b044d96C3aBfcA52B64D733603CCC4F0d4D",
+    "name": "SUPER-ERC20",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x51BA0b044d96C3aBfcA52B64D733603CCC4F0d4D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x522348779DCb2911539e76A1042aA922F9C47Ee3",
+    "name": "bomb.money",
+    "symbol": "BOMB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x522348779DCb2911539e76A1042aA922F9C47Ee3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x52419258E3fa44DEAc7E670eaDD4c892B480A805",
+    "name": "StarShip",
+    "symbol": "STARSHIP",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x52419258E3fa44DEAc7E670eaDD4c892B480A805.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827",
+    "name": "Ankr Staked BNB",
+    "symbol": "ankrBNB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x52d86850bc8207b520340B7E39cDaF22561b9E56",
+    "name": "Swirl.Cash",
+    "symbol": "SWIRL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x52d86850bc8207b520340B7E39cDaF22561b9E56.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+    "name": "BabySwap Token",
+    "symbol": "BABY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x547CBE0f0c25085e7015Aa6939b28402EB0CcDAC",
+    "name": "Elastic BNB",
+    "symbol": "XBN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x547CBE0f0c25085e7015Aa6939b28402EB0CcDAC.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x55671114d774ee99D653D6C12460c780a67f1D18",
+    "name": "Pacoca",
+    "symbol": "PACOCA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x55671114d774ee99D653D6C12460c780a67f1D18.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f",
+    "name": "Exeedme",
+    "symbol": "XED",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+    "name": "EOS Token",
+    "symbol": "EOS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+    "name": "SOLANA",
+    "symbol": "SOL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x57A5297F2cB2c0AaC9D554660acd6D385Ab50c6B",
+    "name": "Venus LTC",
+    "symbol": "vLTC",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x57A5297F2cB2c0AaC9D554660acd6D385Ab50c6B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x58d372A8db7696C0C066F25c9eAF2AF6F147B726",
+    "name": "Tsukiverse: Galactic Adventures",
+    "symbol": "TSUGA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x58d372A8db7696C0C066F25c9eAF2AF6F147B726.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5986D5c77c65e5801a5cAa4fAE80089f870A71dA",
+    "name": "Badger Sett Digg",
+    "symbol": "bDIGG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5986D5c77c65e5801a5cAa4fAE80089f870A71dA.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700",
+    "name": "BSCPAD.com",
+    "symbol": "BSCPAD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5A41F637C3f7553dBa6dDC2D3cA92641096577ea",
+    "name": "JulSwap",
+    "symbol": "JulD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5A41F637C3f7553dBa6dDC2D3cA92641096577ea.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5BCcFbd33873A5498F8406146868eDdd5E998962",
+    "name": "pDollar",
+    "symbol": "PDO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5BCcFbd33873A5498F8406146868eDdd5E998962.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5F0388EBc2B94FA8E123F404b79cCF5f40b29176",
+    "name": "Venus BCH",
+    "symbol": "vBCH",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5F0388EBc2B94FA8E123F404b79cCF5f40b29176.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389",
+    "name": "ACryptoS(I)",
+    "symbol": "ACSI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5cd50Aae14E14B3fdF3fF13c7A40e8cf5ae8b0A5",
+    "name": "zSeedToken",
+    "symbol": "zSEED",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5cd50Aae14E14B3fdF3fF13c7A40e8cf5ae8b0A5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd",
+    "name": "HyperAlloy",
+    "symbol": "ALLOY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
+    "name": "Highstreet Token",
+    "symbol": "HIGH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x602bA546A7B06e0FC7f58fD27EB6996eCC824689",
+    "name": "PinkSale",
+    "symbol": "PINKSALE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x602bA546A7B06e0FC7f58fD27EB6996eCC824689.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x60322971a672B81BccE5947706D22c19dAeCf6Fb",
+    "name": "MarsDAO",
+    "symbol": "MDAO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x60322971a672B81BccE5947706D22c19dAeCf6Fb.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "name": "ApeSwapFinance Banana",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6421531AF54C7B14Ea805719035EBf1e3661c44A",
+    "name": "BEP20 LEO",
+    "symbol": "bLEO",
+    "decimals": 3,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6421531AF54C7B14Ea805719035EBf1e3661c44A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x650b940a1033B8A1b1873f78730FcFC73ec11f1f",
+    "name": "Venus LINK",
+    "symbol": "vLINK",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x650b940a1033B8A1b1873f78730FcFC73ec11f1f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
+    "name": "The Force Token",
+    "symbol": "FOR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x66109633715d2110ddA791E64a7B2afadb517aBB",
+    "name": "Game Coin [via ChainPort.io]",
+    "symbol": "GAME",
+    "decimals": 5,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x66109633715d2110ddA791E64a7B2afadb517aBB.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+    "name": "ARIVA",
+    "symbol": "ARV",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6679eB24F59dFe111864AEc72B443d1Da666B360.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x67d012F731c23F0313CEA1186d0121779c77fcFE",
+    "name": "APOyield SOULS",
+    "symbol": "SOUL",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x67d012F731c23F0313CEA1186d0121779c77fcFE.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+    "name": "Feeder.finance",
+    "symbol": "FEED",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x68E374F856bF25468D365E539b700b648Bf94B67",
+    "name": "Mist",
+    "symbol": "MIST",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x68E374F856bF25468D365E539b700b648Bf94B67.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6911F552842236bd9E8ea8DDBB3fb414e2C5FA9d",
+    "name": "Synapse Network",
+    "symbol": "SNP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6911F552842236bd9E8ea8DDBB3fb414e2C5FA9d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+    "name": "SpacePi Token",
+    "symbol": "SpacePi",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6Ae9701B9c423F40d54556C9a443409D79cE170a",
+    "name": "Polka City",
+    "symbol": "POLC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6Ae9701B9c423F40d54556C9a443409D79cE170a.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6D949f9297A522c0f97C232CC209a67Bd7CfA471",
+    "name": "Moon Rat Token",
+    "symbol": "MRAT",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6D949f9297A522c0f97C232CC209a67Bd7CfA471.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6b51231c43B1604815313801dB5E9E614914d6e4",
+    "name": "SafeGalaxy",
+    "symbol": "SAFEGALAXY",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6b51231c43B1604815313801dB5E9E614914d6e4.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
+    "name": "AdEx Network",
+    "symbol": "ADX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6d23970ce32Cb0F1929bECE7C56D71319e1b4F01",
+    "name": "Multi Functional Environmental Token",
+    "symbol": "MFET",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6d23970ce32Cb0F1929bECE7C56D71319e1b4F01.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6dc3d0D6EC970BF5522611D8eFF127145D02b675",
+    "name": "Revolotto",
+    "symbol": "RVL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6dc3d0D6EC970BF5522611D8eFF127145D02b675.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
+    "name": "Billion Happiness",
+    "symbol": "BHC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6feFd97F328342a8A840546A55FDcfEe7542F9A8",
+    "name": "BitBase",
+    "symbol": "BTBS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "name": "Polkadot Token",
+    "symbol": "DOT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "name": "BTCB Token",
+    "symbol": "BTCB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+    "name": "Axie Infinity Shard",
+    "symbol": "AXS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
+    "name": "UNFI",
+    "symbol": "UNFI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x72B7D61E8fC8cF971960DD9cfA59B8C829D91991",
+    "name": "AQUA",
+    "symbol": "AQUA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x72B7D61E8fC8cF971960DD9cfA59B8C829D91991.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x747D74dB20cc422F39ab54EDB2A3Ce21f3C98AF1",
+    "name": "Crypto Gaming United",
+    "symbol": "CGU",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x747D74dB20cc422F39ab54EDB2A3Ce21f3C98AF1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x74926B3d118a63F6958922d3DC05eB9C6E6E00c6",
+    "name": "DOGGY",
+    "symbol": "DOGGY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x74926B3d118a63F6958922d3DC05eB9C6E6E00c6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF",
+    "name": "DeFireX on BSC",
+    "symbol": "DFX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x75D107De2217FFe2cD574A1b3297C70C8FAfD159",
+    "name": "TryHards",
+    "symbol": "TRY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x75D107De2217FFe2cD574A1b3297C70C8FAfD159.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617",
+    "name": "Bolide",
+    "symbol": "BLID",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+    "name": "Wrapped TON Coin",
+    "symbol": "TONCOIN",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x76A797A59Ba2C17726896976B7B3747BfD1d220f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x77087aB5Df23cFB52449A188e80e9096201c2097",
+    "name": "hi Dollar",
+    "symbol": "HI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x77087aB5Df23cFB52449A188e80e9096201c2097.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
+    "name": "StandardBTCHashrateToken",
+    "symbol": "BTCST",
+    "decimals": 17,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x78650B139471520656b9E7aA7A5e9276814a38e9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x799e1Cf88A236e42b4A87c544A22A94aE95A6910",
+    "name": "MContent",
+    "symbol": "MCONTENT",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x799e1Cf88A236e42b4A87c544A22A94aE95A6910.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
+    "name": "yieldwatch",
+    "symbol": "WATCH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7D89c67d3c4E72E8c5c64BE201dC225F99d16aCa",
+    "name": "Revoluzion",
+    "symbol": "RVZ",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7D89c67d3c4E72E8c5c64BE201dC225F99d16aCa.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+    "name": "GoMining Token",
+    "symbol": "GMT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7Ee7F14427cC41D6dB17829eb57Dc74A26796b9D",
+    "name": "MoonRise",
+    "symbol": "MOONRISE",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7Ee7F14427cC41D6dB17829eb57Dc74A26796b9D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7af173F350D916358AF3e218Bdf2178494Beb748",
+    "name": "UniTrade",
+    "symbol": "TRADE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7af173F350D916358AF3e218Bdf2178494Beb748.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
+    "name": "iMe Lab",
+    "symbol": "LIME",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+    "name": "SYL",
+    "symbol": "SYL",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7e624FA0E1c4AbFD309cC15719b7E2580887f570",
+    "name": "PolkastarterToken",
+    "symbol": "POLS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7e624FA0E1c4AbFD309cC15719b7E2580887f570.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7f479d78380Ad00341fdD7322fE8AEf766e29e5A",
+    "name": "Whirl Finance",
+    "symbol": "WHIRL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7f479d78380Ad00341fdD7322fE8AEf766e29e5A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x810EE35443639348aDbbC467b33310d2AB43c168",
+    "name": "Cyclone Protocol",
+    "symbol": "CYC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x810EE35443639348aDbbC467b33310d2AB43c168.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x81E4d494b85A24a58a6BA45c9B418b32a4E039de",
+    "name": "Moon Token",
+    "symbol": "MOONTOKEN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x81E4d494b85A24a58a6BA45c9B418b32a4E039de.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+    "name": "Altura",
+    "symbol": "ALU",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8263CD1601FE73C066bf49cc09841f35348e3be0.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
+    "name": "REVV",
+    "symbol": "REVV",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x833F307aC507D47309fD8CDD1F835BeF8D702a93.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x83B79F74F225E8F9a29fC67CB1678e7909d7D73d",
+    "name": "Avatly",
+    "symbol": "AVA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x83B79F74F225E8F9a29fC67CB1678e7909d7D73d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x843D4a358471547f51534e3e51fae91cb4Dc3F28",
+    "name": "loser coin",
+    "symbol": "lowb",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x843D4a358471547f51534e3e51fae91cb4Dc3F28.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x84e9a6F9D240FdD33801f7135908BfA16866939A",
+    "name": "GAMEE",
+    "symbol": "GMEE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x84e9a6F9D240FdD33801f7135908BfA16866939A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8519EA49c997f50cefFa444d240fB655e89248Aa",
+    "name": "RAMP DEFI",
+    "symbol": "RAMP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8519EA49c997f50cefFa444d240fB655e89248Aa.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8597ba143AC509189E89aaB3BA28d661A5dD9830",
+    "name": "VANCAT Token",
+    "symbol": "VANCAT",
+    "decimals": 0,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8597ba143AC509189E89aaB3BA28d661A5dD9830.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x85c128eE1feEb39A59490c720A9C563554B51D33",
+    "name": "MoMo KEY",
+    "symbol": "KEY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x85c128eE1feEb39A59490c720A9C563554B51D33.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28",
+    "name": "Octans",
+    "symbol": "OCTA",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x872a34Ebb2d54Af86827810EeBC7b9dC6B2144aA",
+    "name": "RocketVaultRocketX",
+    "symbol": "RVF",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x872a34Ebb2d54Af86827810EeBC7b9dC6B2144aA.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B",
+    "name": "Venus BTC",
+    "symbol": "vBTC",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+    "name": "Pig Token",
+    "symbol": "PIG",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8850D2c68c632E3B258e612abAA8FadA7E6958E5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x88D7e9B65dC24Cf54f5eDEF929225FC3E1580C25",
+    "name": "JumpToken",
+    "symbol": "JMPT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x88D7e9B65dC24Cf54f5eDEF929225FC3E1580C25.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x89Af13A10b32F1b2f8d1588f93027F69B6F4E27e",
+    "name": "GameFi",
+    "symbol": "GAFI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x89Af13A10b32F1b2f8d1588f93027F69B6F4E27e.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8C784C49097Dcc637b93232e15810D53871992BF",
+    "name": "Monster Slayer Cash",
+    "symbol": "MSC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8C784C49097Dcc637b93232e15810D53871992BF.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+    "name": "AlpacaToken",
+    "symbol": "ALPACA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8F49733210700D38098d7375C221c7d02F700cc8",
+    "name": "Pallapay",
+    "symbol": "PALLA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8F49733210700D38098d7375C221c7d02F700cc8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8b303d5BbfBbf46F1a4d9741E491e06986894e18",
+    "name": "Woonkly Power",
+    "symbol": "WOOP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8b303d5BbfBbf46F1a4d9741E491e06986894e18.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442",
+    "name": "ETHPAD.network",
+    "symbol": "ETHPAD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf",
+    "name": "TFT on BSC",
+    "symbol": "TFT",
+    "decimals": 7,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "name": "Bitcoin Cash Token",
+    "symbol": "BCH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4",
+    "name": "Portuma",
+    "symbol": "POR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19",
+    "name": "OwlDAO token",
+    "symbol": "OWL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15",
+    "name": "Legion Token",
+    "symbol": "LGX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9096B4309224d751FCB43d7eB178dcFFc122aD15.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
+    "name": "Singularity Dao",
+    "symbol": "SDAO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x90e767A68a7d707B74D569C8E79f9bBb79b98a8b",
+    "name": "Fatfi Protocol",
+    "symbol": "FAT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x90e767A68a7d707B74D569C8E79f9bBb79b98a8b.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9131066022B909C65eDD1aaf7fF213dACF4E86d0",
+    "name": "META-UTOPIA LAND",
+    "symbol": "LAND",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9131066022B909C65eDD1aaf7fF213dACF4E86d0.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+    "name": "Tardigrades.Finance",
+    "symbol": "TRDG",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+    "name": "Helmet.insure Governance Token",
+    "symbol": "Helmet",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+    "name": "Merit Circle",
+    "symbol": "MC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x94F559aE621F1c810F31a6a620Ad7376776fe09E",
+    "name": "Soup",
+    "symbol": "SOUP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x94F559aE621F1c810F31a6a620Ad7376776fe09E.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x95c78222B3D6e262426483D42CfA53685A67Ab9D",
+    "name": "Venus BUSD",
+    "symbol": "vBUSD",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x95c78222B3D6e262426483D42CfA53685A67Ab9D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "name": "Biswap",
+    "symbol": "BSW",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a",
+    "name": "Poly-Peg COOK",
+    "symbol": "COOK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+    "name": "IoTeX Network",
+    "symbol": "IOTX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x96Dd399F9c3AFda1F194182F71600F1B65946501",
+    "name": "Contentos",
+    "symbol": "COS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x96Dd399F9c3AFda1F194182F71600F1B65946501.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x972207A639CC1B374B893cc33Fa251b55CEB7c07",
+    "name": "Venus BETH",
+    "symbol": "vBETH",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x972207A639CC1B374B893cc33Fa251b55CEB7c07.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x97a30C692eCe9C317235d48287d23d358170FC40",
+    "name": "CryptEx Token",
+    "symbol": "CRX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x97a30C692eCe9C317235d48287d23d358170FC40.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9806aec346064183b5cE441313231DFf89811f7A",
+    "name": "YieldPanda.finance",
+    "symbol": "yPANDA",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9806aec346064183b5cE441313231DFf89811f7A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a",
+    "name": "Matador Token",
+    "symbol": "MTDR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322",
+    "name": "WeWay Token",
+    "symbol": "WWY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9Ac983826058b8a9C7Aa1C9171441191232E8404.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+    "name": "MDX Token",
+    "symbol": "MDX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9C65AB58d8d978DB963e63f2bfB7121627e3a739.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9D986A3f147212327Dd658F712d5264a73a1fdB0",
+    "name": "Landshare Token",
+    "symbol": "LAND",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9D986A3f147212327Dd658F712d5264a73a1fdB0.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+    "name": "Multichain",
+    "symbol": "MULTI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9a3321E1aCD3B9F6debEE5e042dD2411A1742002",
+    "name": "PIGS Token",
+    "symbol": "AFP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9a3321E1aCD3B9F6debEE5e042dD2411A1742002.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9c67638c4Fa06FD47fB8900fC7F932f7EAB589De",
+    "name": "ARKER",
+    "symbol": "ARKER",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9c67638c4Fa06FD47fB8900fC7F932f7EAB589De.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+    "name": "Tokocrypto Token",
+    "symbol": "TKO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9f589e3eabe42ebC94A44727b3f3531C0c877809.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9fD87aEfe02441B123c3c32466cD9dB4c578618f",
+    "name": "Thetan Gem",
+    "symbol": "THG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x9fD87aEfe02441B123c3c32466cD9dB4c578618f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA07c5b74C9B40447a954e1466938b865b6BBea36",
+    "name": "Venus BNB",
+    "symbol": "vBNB",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xA07c5b74C9B40447a954e1466938b865b6BBea36.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+    "name": "Automata",
+    "symbol": "ATA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xA2120b9e674d3fC3875f415A7DF52e382F141225.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
+    "name": "Pitbull",
+    "symbol": "PIT",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+    "name": "FC Santos Fan Token",
+    "symbol": "SANTOS",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA719b8aB7EA7AF0DDb4358719a34631bb79d15Dc",
+    "name": "Ferrum Network Token",
+    "symbol": "FRM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xA719b8aB7EA7AF0DDb4358719a34631bb79d15Dc.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA72a0564d0e887123112e6A4DC1abA7611Ad861d",
+    "name": "FEB Token",
+    "symbol": "FEB",
+    "decimals": 0,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xA72a0564d0e887123112e6A4DC1abA7611Ad861d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
+    "name": "CertiK Token",
+    "symbol": "CTK",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+    "name": "ALICE",
+    "symbol": "ALICE",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xAC51066d7bEC65Dc4589368da368b212745d63E8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAC83271abB4ec95386f08aD2b904a46C61777cef",
+    "name": "NFTrade Token [via ChainPort.io]",
+    "symbol": "NFTD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xAC83271abB4ec95386f08aD2b904a46C61777cef.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "name": "Fantom",
+    "symbol": "FTM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xAD29AbB318791D579433D831ed122aFeAf29dcfe.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+    "name": "Wombat Token",
+    "symbol": "WOM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAD86d0E9764ba90DDD68747D64BFfBd79879a238",
+    "name": "PAID Network",
+    "symbol": "PAID",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xAD86d0E9764ba90DDD68747D64BFfBd79879a238.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAD90c05BC51672eEdfeE36E58b3ff1A78bbC146d",
+    "name": "XSPACE",
+    "symbol": "XSPACE",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xAD90c05BC51672eEdfeE36E58b3ff1A78bbC146d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC",
+    "name": "PULI INU",
+    "symbol": "PULI",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+    "name": "Burger Swap",
+    "symbol": "BURGER",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+    "name": "Bogged Finance",
+    "symbol": "BOG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xB09FE1613fE03E7361319d2a43eDc17422f36B09.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+    "name": "StargateToken",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xB0F2939A1c0e43683E5954c9Fe142F7df9F8D967",
+    "name": "Gen Token",
+    "symbol": "GEN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xB0F2939A1c0e43683E5954c9Fe142F7df9F8D967.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xB248a295732e0225acd3337607cc01068e3b9c10",
+    "name": "Venus XRP",
+    "symbol": "vXRP",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xB248a295732e0225acd3337607cc01068e3b9c10.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xB346c52874c7023dF183068c39478C3b7B2515bC",
+    "name": "PNL",
+    "symbol": "TruePNL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xB346c52874c7023dF183068c39478C3b7B2515bC.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+    "name": "Level Token",
+    "symbol": "LVL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xB72a20C7B8BD666f80AC053B0f4de20a787080F5",
+    "name": "Media Licensing Token",
+    "symbol": "MLT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xB72a20C7B8BD666f80AC053B0f4de20a787080F5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xBBCA42c60b5290F2c48871A596492F93fF0Ddc82",
+    "name": "Domi",
+    "symbol": "DOMI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xBBCA42c60b5290F2c48871A596492F93fF0Ddc82.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xBC7370641ddCF16A27eeA11230Af4a9F247B61F9",
+    "name": "XANA",
+    "symbol": "XETA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xBC7370641ddCF16A27eeA11230Af4a9F247B61F9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+    "name": "Wrapped MTRG on BSC by Meter.io",
+    "symbol": "MTRG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
+    "name": "Beta Token",
+    "symbol": "BETA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75",
+    "name": "Juggernaut DeFi",
+    "symbol": "JGN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+    "name": "EverRise",
+    "symbol": "RISE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xC17c30e98541188614dF99239cABD40280810cA3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC3387E4285e9F80A7cFDf02B4ac6cdF2476A528A",
+    "name": "Bedrock",
+    "symbol": "ROCK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xC3387E4285e9F80A7cFDf02B4ac6cdF2476A528A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC632F90affeC7121120275610BF17Df9963F181c",
+    "name": "DEBT",
+    "symbol": "DEBT",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xC632F90affeC7121120275610BF17Df9963F181c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+    "name": "Bunny Token",
+    "symbol": "BUNNY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
+    "name": "FistToken",
+    "symbol": "FIST",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xCC42724C6683B7E57334c4E856f4c9965ED682bD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xCe5814eFfF15D53EFd8025B9F2006D4d7D640b9B",
+    "name": "MoonStar",
+    "symbol": "MOONSTAR",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xCe5814eFfF15D53EFd8025B9F2006D4d7D640b9B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD1102332a213E21faF78B69C03572031F3552c33",
+    "name": "Bat True Dollar",
+    "symbol": "BTD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xD1102332a213E21faF78B69C03572031F3552c33.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
+    "name": "YEL Token",
+    "symbol": "YEL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xD3b71117E6C1558c1553305b44988cd944e97300.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+    "name": "Metahero",
+    "symbol": "HERO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD41C4805A9A3128f9F7A7074Da25965371Ba50d5",
+    "name": "Coinscope",
+    "symbol": "COINSCOPE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xD41C4805A9A3128f9F7A7074Da25965371Ba50d5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+    "name": "SafePal Token",
+    "symbol": "SFP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
+    "name": "CryptoMines Eternal",
+    "symbol": "ETERNAL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xD44FD09d74cd13838F137B590497595d6b3FEeA4.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+    "name": "RichQUACK.com",
+    "symbol": "QUACK",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xD74b782E05AA25c50e7330Af541d46E18f36661C.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
+    "name": "AMPL secured by Meter Passport",
+    "symbol": "AMPL",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xDacC0417ADD48B63CbeFb77Efbe4a3801aAd51BA",
+    "name": "BITZEN",
+    "symbol": "BZEN",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xDacC0417ADD48B63CbeFb77Efbe4a3801aAd51BA.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xDfd7b0dD7Bf1012DfDf3307a964c36b972300Ac8",
+    "name": "Wonderman Token",
+    "symbol": "WNDR",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xDfd7b0dD7Bf1012DfDf3307a964c36b972300Ac8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "name": "BakeryToken",
+    "symbol": "BAKE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
+    "name": "BELT Token",
+    "symbol": "BELT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE38950f71E2D2Fc4cA9dC9C3625d82560b0A5d8F",
+    "name": "NELO Metaverse",
+    "symbol": "NELO",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xE38950f71E2D2Fc4cA9dC9C3625d82560b0A5d8F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE4c797d43631F4d660EC67B5CB0B78Ef5c902532",
+    "name": "Monsters Clan Token",
+    "symbol": "MONS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xE4c797d43631F4d660EC67B5CB0B78Ef5c902532.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE9C803F48dFFE50180Bd5B01dC04DA939E3445Fc",
+    "name": "Velas",
+    "symbol": "VLX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xE9C803F48dFFE50180Bd5B01dC04DA939E3445Fc.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE9Cd2668FB580c96b035B6d081E5753f23FE7f46",
+    "name": "AMAUROT",
+    "symbol": "AMA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xE9Cd2668FB580c96b035B6d081E5753f23FE7f46.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE9D7023f2132D55cbd4Ee1f78273CB7a3e74F10A",
+    "name": "DarkEnergyCrystals",
+    "symbol": "DEC",
+    "decimals": 3,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xE9D7023f2132D55cbd4Ee1f78273CB7a3e74F10A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
+    "name": "TokenPocket Token",
+    "symbol": "TPT",
+    "decimals": 4,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xECa41281c24451168a37211F0bc2b8645AF45092.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca",
+    "name": "Fair Safe",
+    "symbol": "FSAFE",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xEF7d50069406A2F5A53806f7250A6c0f17AD9dCD",
+    "name": "beFITTER Token",
+    "symbol": "FIU",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xEF7d50069406A2F5A53806f7250A6c0f17AD9dCD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xEa51801b8F5B88543DdaD3D1727400c15b209D8f",
+    "name": "Inuko Coin",
+    "symbol": "INUKO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xEa51801b8F5B88543DdaD3D1727400c15b209D8f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF2c96E402c9199682d5dED26D3771c6B192c01af",
+    "name": "Scallop",
+    "symbol": "SCLP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF2c96E402c9199682d5dED26D3771c6B192c01af.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
+    "name": "FaraCrystal",
+    "symbol": "FARA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF606bd19b1E61574ED625d9ea96C841D4E247A32",
+    "name": "Guardian",
+    "symbol": "GUARD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF606bd19b1E61574ED625d9ea96C841D4E247A32.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF750A26EB0aCf95556e8529E72eD530f3b60f348",
+    "name": "GreenTrust",
+    "symbol": "GNT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF750A26EB0aCf95556e8529E72eD530f3b60f348.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF7844CB890F4C339c497aeAb599aBDc3c874B67A",
+    "name": "NFTArt.Finance",
+    "symbol": "NFTART",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF7844CB890F4C339c497aeAb599aBDc3c874B67A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF78D2e7936F5Fe18308A3B2951A93b6c4a41F5e2",
+    "name": "MANTRA DAO",
+    "symbol": "OM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF78D2e7936F5Fe18308A3B2951A93b6c4a41F5e2.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+    "name": "Goose Golden Egg",
+    "symbol": "EGG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF98b660AdF2ed7d9d9D9dAACC2fb0CAce4F21835",
+    "name": "Symbiosis",
+    "symbol": "SIS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF98b660AdF2ed7d9d9D9dAACC2fb0CAce4F21835.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xFAd8E46123D7b4e77496491769C167FF894d2ACB",
+    "name": "FOX",
+    "symbol": "FOX",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xFAd8E46123D7b4e77496491769C167FF894d2ACB.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xFB52FC1f90Dd2B070B9Cf7ad68ac3d68905643fa",
+    "name": "Sea Token",
+    "symbol": "SEA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xFB52FC1f90Dd2B070B9Cf7ad68ac3d68905643fa.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xFB981ED9A92377CA4d75D924b9CA06df163924fd",
+    "name": "Superalgos",
+    "symbol": "SA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xFB981ED9A92377CA4d75D924b9CA06df163924fd.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+    "name": "Ontology Token",
+    "symbol": "ONT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
+    "name": "Capsule Coin",
+    "symbol": "CAPS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa045E37a0D1dd3A45fefb8803D22457abc0A728a",
+    "name": "Grizzly Honey",
+    "symbol": "GHNY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa045E37a0D1dd3A45fefb8803D22457abc0A728a.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+    "name": "AUTOv2",
+    "symbol": "AUTO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa184088a740c695E156F91f5cC086a06bb78b827.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
+    "name": "Wrapped Binance Beacon ETH",
+    "symbol": "wBETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa2E3356610840701BDf5611a53974510Ae27E2e1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa477a79a118A84A0d371A53c8F46f8CE883EC1dD",
+    "name": "BBS [via ChainPort.io]",
+    "symbol": "BBS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa477a79a118A84A0d371A53c8F46f8CE883EC1dD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa4838122c683f732289805FC3C207Febd55BabDD",
+    "name": "\bTrias Token",
+    "symbol": "TRIAS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa4838122c683f732289805FC3C207Febd55BabDD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa83Bfcf9E252Adf1F39937984A4E113Eda6E445b",
+    "name": "Plant Empires Token",
+    "symbol": "PEFI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa83Bfcf9E252Adf1F39937984A4E113Eda6E445b.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa865197A84E780957422237B5D152772654341F3",
+    "name": "OpenLeverage",
+    "symbol": "OLE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa865197A84E780957422237B5D152772654341F3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa86d305A36cDB815af991834B46aD3d7FbB38523",
+    "name": "BR34P",
+    "symbol": "BR34P",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa86d305A36cDB815af991834B46aD3d7FbB38523.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa96658cd0D04a8fdCDc30D1156CC65BbFC7591eD",
+    "name": "Sushiba",
+    "symbol": "SUSHIBA",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa96658cd0D04a8fdCDc30D1156CC65BbFC7591eD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
+    "name": "WaultSwap",
+    "symbol": "WEX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xaCE3574B8b054E074473a9Bd002e5dC6dd3dfF1B",
+    "name": "RBX",
+    "symbol": "RBX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xaCE3574B8b054E074473a9Bd002e5dC6dd3dfF1B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+    "name": "Coin98",
+    "symbol": "C98",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+    "name": "MacaronSwap Token",
+    "symbol": "MCRN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xacb2d47827C9813AE26De80965845D80935afd0B.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xb001f1E7c8bda414aC7Cf7Ecba5469fE8d24B6de",
+    "name": "UnirisToken",
+    "symbol": "UCO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xb001f1E7c8bda414aC7Cf7Ecba5469fE8d24B6de.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xb3Cb6d2f8f2FDe203a022201C81a96c167607F15",
+    "name": "GAMMA",
+    "symbol": "GAMMA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xb3Cb6d2f8f2FDe203a022201C81a96c167607F15.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xb3a6381070B1a15169DEA646166EC0699fDAeA79",
+    "name": "CyberDragon Gold",
+    "symbol": "Gold",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xb3a6381070B1a15169DEA646166EC0699fDAeA79.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
+    "name": "pTokens TLOS",
+    "symbol": "TLOS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xb6C53431608E626AC81a9776ac3e999c5556717c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xb6b91269413b6B99242B1c0Bc611031529999999",
+    "name": "CALO",
+    "symbol": "CALO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xb6b91269413b6B99242B1c0Bc611031529999999.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xb93ba7DC61ECFced69067151FC00C41cA369A797",
+    "name": "WenMoon Token",
+    "symbol": "WENMOON",
+    "decimals": 7,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xb93ba7DC61ECFced69067151FC00C41cA369A797.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xbD83010eB60F12112908774998F65761cf9f6f9a",
+    "name": "Mogul Stars",
+    "symbol": "STARS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xbD83010eB60F12112908774998F65761cf9f6f9a.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+    "name": "Elrond",
+    "symbol": "EGLD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xbcb24AFb019BE7E93EA9C43B7E22Bb55D5B7f45D",
+    "name": "BSCS Token",
+    "symbol": "BSCS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xbcb24AFb019BE7E93EA9C43B7E22Bb55D5B7f45D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xbcbdecf8e76A5C32Dba69De16985882ace1678c6",
+    "name": "Revenue Coin",
+    "symbol": "RVC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xbcbdecf8e76A5C32Dba69De16985882ace1678c6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
+    "name": "PolyCrowns",
+    "symbol": "pCWS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xc029A12e4A002c6858878FD9D3cc74E227cc2DDa",
+    "name": "Velorex",
+    "symbol": "VEX",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xc029A12e4A002c6858878FD9D3cc74E227cc2DDa.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xc10358f062663448a3489fC258139944534592ac",
+    "name": "Blockchain Monster Coin",
+    "symbol": "BCMC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xc10358f062663448a3489fC258139944534592ac.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD",
+    "name": "Lunar",
+    "symbol": "LNR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xc5E6689C9c8B02be7C49912Ef19e79cF24977f03",
+    "name": "AlpaToken",
+    "symbol": "ALPA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xc5E6689C9c8B02be7C49912Ef19e79cF24977f03.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xc6DdDB5bc6E61e0841C54f3e723Ae1f3A807260b",
+    "name": "Aurox Token",
+    "symbol": "URUS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xc6DdDB5bc6E61e0841C54f3e723Ae1f3A807260b.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
+    "name": "Baby Doge Coin",
+    "symbol": "BabyDoge",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xc748673057861a797275CD8A068AbB95A902e8de.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xc7981767f644C7F8e483DAbDc413e8a371b83079",
+    "name": "Liquidus",
+    "symbol": "LIQ",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xc7981767f644C7F8e483DAbDc413e8a371b83079.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xcE186ad6430E2Fe494a22C9eDbD4c68794a28B35",
+    "name": "LoopNetwork",
+    "symbol": "LOOP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xcE186ad6430E2Fe494a22C9eDbD4c68794a28B35.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+    "name": "Venus",
+    "symbol": "XVS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xce5347fdd503f25f8428151A274544A5bD1Bd8cA",
+    "name": "Unified",
+    "symbol": "UNIF",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xce5347fdd503f25f8428151A274544A5bD1Bd8cA.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
+    "name": "Adshares",
+    "symbol": "ADS",
+    "decimals": 11,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd17479997F34dd9156Deef8F95A52D81D265be9c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd2DdFba7bb12f6e70c2AAB6B6bf9EdaEf42ed22F",
+    "name": "UBUToken",
+    "symbol": "UBU",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd2DdFba7bb12f6e70c2AAB6B6bf9EdaEf42ed22F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd306c124282880858a634E7396383aE58d37c79c",
+    "name": "WastedLands",
+    "symbol": "WAL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd306c124282880858a634E7396383aE58d37c79c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd32d01A43c869EdcD1117C640fBDcfCFD97d9d65",
+    "name": "Nominex",
+    "symbol": "NMX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd32d01A43c869EdcD1117C640fBDcfCFD97d9d65.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd4fBc57B6233F268E7FbA3b66E62719D74deecBc",
+    "name": "Modefi",
+    "symbol": "MOD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd4fBc57B6233F268E7FbA3b66E62719D74deecBc.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB",
+    "name": "Kangal",
+    "symbol": "bKANGAL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd6fDDe76B8C1C45B33790cc8751D5b88984c44ec",
+    "name": "StrikeX",
+    "symbol": "STRX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd6fDDe76B8C1C45B33790cc8751D5b88984c44ec.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd72aA9e1cDDC2F6D6e0444580002170fbA1f8eED",
+    "name": "Moeda Loyalty Points",
+    "symbol": "MDA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd72aA9e1cDDC2F6D6e0444580002170fbA1f8eED.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd88ca08d8eec1E9E09562213Ae83A7853ebB5d28",
+    "name": "xWIN Token",
+    "symbol": "XWIN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd88ca08d8eec1E9E09562213Ae83A7853ebB5d28.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53",
+    "name": "AIR",
+    "symbol": "AIR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd983AB71a284d6371908420d8Ac6407ca943F810",
+    "name": "Ultron",
+    "symbol": "ULX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd983AB71a284d6371908420d8Ac6407ca943F810.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd9dE2B1973E57Dc9DBA90c35d6Cd940ae4A3CBe1",
+    "name": "Milo Inu",
+    "symbol": "MILO",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xd9dE2B1973E57Dc9DBA90c35d6Cd940ae4A3CBe1.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xdA20C8a5c3B1AB48e31ba6e43f0F2830E50218D8",
+    "name": "Bingus Token",
+    "symbol": "BINGUS",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xdA20C8a5c3B1AB48e31ba6e43f0F2830E50218D8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
+    "name": "NFTB",
+    "symbol": "NFTB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xde3dbBE30cfa9F437b293294d1fD64B26045C71A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+    "name": "CEEK",
+    "symbol": "CEEK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe0f7c8682F865B417AEB80BF237025b4cB5EbaEF",
+    "name": "SatoshiSwap",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe0f7c8682F865B417AEB80BF237025b4cB5EbaEF.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe1DB3d1eE5CfE5C6333BE96e6421f9Bd5b85c987",
+    "name": "SAFESPACE",
+    "symbol": "SAFESPACE",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe1DB3d1eE5CfE5C6333BE96e6421f9Bd5b85c987.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+    "name": "Wrapped Banano",
+    "symbol": "wBAN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
+    "name": "Froyo",
+    "symbol": "Froyo",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe3E1FabEaBD48491bD6902B0c32FDEee8D2Ff12b",
+    "name": "UNICORN Token",
+    "symbol": "UNICORN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe3E1FabEaBD48491bD6902B0c32FDEee8D2Ff12b.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+    "name": "Project Galaxy",
+    "symbol": "GAL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe5a09784b16E1065C37dF14c6e2f06fDcE317a1b",
+    "name": "Kai Inu",
+    "symbol": "KaiInu",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe5a09784b16E1065C37dF14c6e2f06fDcE317a1b.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5",
+    "name": "Deri",
+    "symbol": "DERI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe7c9C6bc87B86f9E5b57072F907EE6460B593924",
+    "name": "TOWER",
+    "symbol": "TOWER",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe7c9C6bc87B86f9E5b57072F907EE6460B593924.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D",
+    "name": "Binance ABBC",
+    "symbol": "BABBC",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe8670901E86818745b28C8b30B17986958fCe8Cc",
+    "name": "Citadel.one",
+    "symbol": "XCT",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe8670901E86818745b28C8b30B17986958fCe8Cc.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
+    "name": "Hokkaido Inu",
+    "symbol": "HOKK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe9c64384dEb0C2bF06D991A8D708c77eb545E3d5",
+    "name": "Ridotto",
+    "symbol": "RDT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xe9c64384dEb0C2bF06D991A8D708c77eb545E3d5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xeB953eDA0DC65e3246f43DC8fa13f35623bDd5eD",
+    "name": "Rainicorn",
+    "symbol": "RAINI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xeB953eDA0DC65e3246f43DC8fa13f35623bDd5eD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xeBC76079Da0c245faE7225b58a57A54809b40618",
+    "name": "BNBPay",
+    "symbol": "BPAY",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xeBC76079Da0c245faE7225b58a57A54809b40618.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9",
+    "name": "NUM Token [via ChainPort.io]",
+    "symbol": "NUM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D",
+    "name": "HappinessToken",
+    "symbol": "HPS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+    "name": "Elk",
+    "symbol": "ELK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xecA88125a5ADbe82614ffC12D0DB554E2e2867C8",
+    "name": "Venus USDC",
+    "symbol": "vUSDC",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xecA88125a5ADbe82614ffC12D0DB554E2e2867C8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf018Aea0A08A5D88674f0837bdAC27Ab89824deE",
+    "name": "MMG Token",
+    "symbol": "MMG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf018Aea0A08A5D88674f0837bdAC27Ab89824deE.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf0E406c49C63AbF358030A299C0E00118C4C6BA5",
+    "name": "NerveNetwork",
+    "symbol": "NVT",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf0E406c49C63AbF358030A299C0E00118C4C6BA5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+    "name": "IceToken",
+    "symbol": "ICE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf16e81dce15B08F326220742020379B855B87DF9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C",
+    "name": "DEEPSPACE",
+    "symbol": "DPS",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf48f91df403976060cC05dBbf8A0901b09fdeFd4",
+    "name": "Minu",
+    "symbol": "MINU",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf48f91df403976060cC05dBbf8A0901b09fdeFd4.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf4BEa2c219Eb95C6745983B68185C7340c319D9E",
+    "name": "Fairspin Token",
+    "symbol": "TFS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf4BEa2c219Eb95C6745983B68185C7340c319D9E.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf508fCD89b8bd15579dc79A6827cB4686A3592c8",
+    "name": "Venus ETH",
+    "symbol": "vETH",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf508fCD89b8bd15579dc79A6827cB4686A3592c8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf625069dce62dF95b4910f83446954B871F0Fc4f",
+    "name": "Amazy Move Token",
+    "symbol": "AMT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf625069dce62dF95b4910f83446954B871F0Fc4f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
+    "name": "Radiant",
+    "symbol": "RDNT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+    "name": "Berry Tributes",
+    "symbol": "BRY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf8E026dC4C0860771f691EcFFBbdfe2fa51c77CF",
+    "name": "BGOV Token",
+    "symbol": "BGOV",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf8E026dC4C0860771f691EcFFBbdfe2fa51c77CF.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf91d58b5aE142DAcC749f58A49FCBac340Cb0343",
+    "name": "Venus FIL",
+    "symbol": "vFIL",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xf91d58b5aE142DAcC749f58A49FCBac340Cb0343.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c",
+    "name": "renBTC",
+    "symbol": "renBTC",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xfD5840Cd36d94D7229439859C0112a4185BC0255",
+    "name": "Venus USDT",
+    "symbol": "vUSDT",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xfD5840Cd36d94D7229439859C0112a4185BC0255.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6",
+    "name": "Virtual Reality Game World",
+    "symbol": "VRGW",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
+    "name": "Vita Inu",
+    "symbol": "VINU",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xffEecbf8D7267757c2dc3d13D730E97E15BfdF7F",
+    "name": "BoringDAO",
+    "symbol": "BORING",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xffEecbf8D7267757c2dc3d13D730E97E15BfdF7F.png"
+  }
+]

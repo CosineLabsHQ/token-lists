@@ -1,0 +1,362 @@
+[
+  {
+    "network": "arbitrum",
+    "address": "0x079504b86d38119F859c4194765029F692b7B7aa",
+    "name": "Lyra Token",
+    "symbol": "LYRA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x079504b86d38119F859c4194765029F692b7B7aa.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+    "name": "VelaToken",
+    "symbol": "VELA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x088cd8f5eF3652623c22D48b1605DCfE860Cd704.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x123389C2f0e9194d9bA98c21E63c375B67614108",
+    "name": "EthereumMax",
+    "symbol": "EMAX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x123389C2f0e9194d9bA98c21E63c375B67614108.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+    "name": "Radiant",
+    "symbol": "RDNT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x3082CC23568eA640225c2467653dB90e9250AaA0.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "name": "USDV",
+    "symbol": "USDV",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x323665443CEf804A3b5206103304BD4872EA4253.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+    "name": "Dopex Rebate Token",
+    "symbol": "rDPX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x32Eb7902D4134bf98A28b963D26de779AF92A212.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "name": "JoeToken",
+    "symbol": "JOE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x417a1aFD44250314BffB11ff68E989775e990ab6",
+    "name": "Volta Protocol Token",
+    "symbol": "VOLTA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x417a1aFD44250314BffB11ff68E989775e990ab6.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x55fF62567f09906A85183b866dF84bf599a4bf70",
+    "name": "Kromatika",
+    "symbol": "KROM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x55fF62567f09906A85183b866dF84bf599a4bf70.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+    "name": "Neptune Mutual",
+    "symbol": "NPM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+    "name": "Connext",
+    "symbol": "NEXT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x5979D7b546E38E414F7E9822514be443A4800529.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x64343594Ab9b56e99087BfA6F2335Db24c2d1F17",
+    "name": "Vesta Stable",
+    "symbol": "VST",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x64343594Ab9b56e99087BfA6F2335Db24c2d1F17.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+    "name": "StargateToken",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x6694340fc020c5E6B96567843da2df01b2CE1eb6.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+    "name": "Dopex Governance Token",
+    "symbol": "DPX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+    "name": "Saddle DAO",
+    "symbol": "SDL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x75C9bC761d88f70156DAf83aa010E84680baF131.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f",
+    "name": "Liquid",
+    "symbol": "LIQD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x965F298E4ade51C0b0bB24e3369deB6C7D5b3951",
+    "name": "AutoDCA",
+    "symbol": "DCA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x965F298E4ade51C0b0bB24e3369deB6C7D5b3951.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x9E758B8a98a42d612b3D38B66a22074DC03D7370",
+    "name": "Symbiosis",
+    "symbol": "SIS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x9E758B8a98a42d612b3D38B66a22074DC03D7370.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456",
+    "name": "Reunit Token",
+    "symbol": "REUNI",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+    "name": "Level Token",
+    "symbol": "LVL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xB766039cc6DB368759C1E56B79AFfE831d0Cc507.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+    "name": "STAR",
+    "symbol": "STAR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xC19669A405067927865B40Ea045a2baabbbe57f5.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe",
+    "name": "Mycelium",
+    "symbol": "MYC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xD5eBD23D5eb968c2efbA2B03F27Ee61718609A71",
+    "name": "Unbound",
+    "symbol": "UNB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xD5eBD23D5eb968c2efbA2B03F27Ee61718609A71.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xD74f5255D557944cf7Dd0E45FF521520002D5748",
+    "name": "Sperax USD",
+    "symbol": "USDs",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xD74f5255D557944cf7Dd0E45FF521520002D5748.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+    "name": "WINR",
+    "symbol": "WINR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xaf88d065e77c8cC2239327C5EDb3A432268e5831.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xc628534100180582E43271448098cb2c185795BD",
+    "name": "Flashstake",
+    "symbol": "FLASH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xc628534100180582E43271448098cb2c185795BD.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xcAB86F6Fb6d1C2cBeeB97854A0C023446A075Fe3",
+    "name": "deBridge Ether",
+    "symbol": "deETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xcAB86F6Fb6d1C2cBeeB97854A0C023446A075Fe3.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xcFe3FBc98D80f7Eca0bC76cD1F406A19dD425896",
+    "name": "Scalara NFT Index",
+    "symbol": "NFTI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xcFe3FBc98D80f7Eca0bC76cD1F406A19dD425896.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xdA51015b73cE11F77A115Bb1b8a7049e02dDEcf0",
+    "name": "Neutra Token",
+    "symbol": "NEU",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xdA51015b73cE11F77A115Bb1b8a7049e02dDEcf0.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "name": "USD+",
+    "symbol": "USD+",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+    "name": "Elk",
+    "symbol": "ELK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8",
+    "name": "DAI+",
+    "symbol": "DAI+",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xf0a562BEe81f674E0c5486C9716060f4cD5Ef944",
+    "name": "Unbound Dollar",
+    "symbol": "UND",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xf0a562BEe81f674E0c5486C9716060f4cD5Ef944.png"
+  },
+  {
+    "network": "arbitrum",
+    "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+    "name": "GMX",
+    "symbol": "GMX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.png"
+  }
+]

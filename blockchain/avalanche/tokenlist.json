@@ -1,0 +1,578 @@
+[
+  {
+    "network": "avalanche",
+    "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
+    "name": "Wrapped MEMO",
+    "symbol": "wMEMO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
+    "name": "Blizz.Finance Protocol Token",
+    "symbol": "BLZZ",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+    "name": "Dragon Crypto Aurum",
+    "symbol": "DCAU",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+    "name": "YUSD Stablecoin",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x111111111111ed1D73f860F57b2798b683f2d325.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "name": "Bitcoin",
+    "symbol": "BTC.b",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x18706c65b12595EDB43643214EacDb4F618DD166",
+    "name": "BAYMAX",
+    "symbol": "BAY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x18706c65b12595EDB43643214EacDb4F618DD166.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed",
+    "name": "AVME",
+    "symbol": "AVME",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
+    "name": "VNX Franc",
+    "symbol": "VCHF",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
+    "name": "Platypus",
+    "symbol": "PTP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x22d4002028f537599bE9f666d1c4Fa138522f9c8.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x240248628B7B6850352764C5dFa50D1592A033A8",
+    "name": "POPSToken",
+    "symbol": "POPS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x28690ec942671aC8d9Bc442B667EC338eDE6dFd3",
+    "name": "deBridge USD Coin",
+    "symbol": "deUSDC",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x28690ec942671aC8d9Bc442B667EC338eDE6dFd3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "name": "StargateToken",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+    "name": "Staked AVAX",
+    "symbol": "sAVAX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
+    "name": "Governance OHM",
+    "symbol": "gOHM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x321E7092a180BB43555132ec53AaA65a5bF84251.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x395908aeb53d33A9B8ac35e148E9805D34A555D3",
+    "name": "frozenwalrus.finance",
+    "symbol": "WLRS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x395908aeb53d33A9B8ac35e148E9805D34A555D3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+    "name": "SHIBAVAX",
+    "symbol": "SHIBX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+    "name": "Defrost Finance Token",
+    "symbol": "MELT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+    "name": "YetiSwap",
+    "symbol": "YTS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x488F73cddDA1DE3664775fFd91623637383D6404.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x4Bfc90322dD638F81F034517359BD447f8E0235a",
+    "name": "New Order",
+    "symbol": "NEWO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x4Bfc90322dD638F81F034517359BD447f8E0235a.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+    "name": "LydiaFinance Token",
+    "symbol": "LYD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+    "name": "Avalanche INSUR Token",
+    "symbol": "INSUR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+    "name": "Yak Token",
+    "symbol": "YAK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+    "name": "Pangolin",
+    "symbol": "PNG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x60781C2586D68229fde47564546784ab3fACA982.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+    "name": "GMX",
+    "symbol": "GMX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+    "name": "Husky",
+    "symbol": "HUSKY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+    "name": "GoGoPool Protocol",
+    "symbol": "GGP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
+    "name": "SmarterCoin",
+    "symbol": "SMRTr",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x6D923f688C7FF287dc3A5943CAeefc994F97b290.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+    "name": "Spore.Finance",
+    "symbol": "SPORE",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "name": "JoeToken",
+    "symbol": "JOE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x75739a693459f33B1FBcC02099eea3eBCF150cBe",
+    "name": "ElasticSwap Tic Token",
+    "symbol": "TIC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x75739a693459f33B1FBcC02099eea3eBCF150cBe.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b",
+    "name": "VNX Euro",
+    "symbol": "VEUR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+    "name": "Avaware",
+    "symbol": "AVE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+    "name": "VersoToken",
+    "symbol": "VSO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+    "name": "BENQI",
+    "symbol": "QI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+    "name": "THOR v2",
+    "symbol": "THOR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+    "name": "Oh! Finance",
+    "symbol": "OH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x938FE3788222A74924E062120E7BFac829c719Fb",
+    "name": "Ape In",
+    "symbol": "APEIN",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x938FE3788222A74924E062120E7BFac829c719Fb.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+    "name": "DeFiYieldProtocol",
+    "symbol": "DYP",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "name": "TetherToken",
+    "symbol": "USDt",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF",
+    "name": "NFTrade Token [via ChainPort.io]",
+    "symbol": "NFTD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+    "name": "GoGoPool Liquid Staking Token",
+    "symbol": "ggAVAX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
+    "name": "CRA",
+    "symbol": "CRA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
+    "name": "Boo Finance Token",
+    "symbol": "BOOFI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+    "name": "Bogged Finance",
+    "symbol": "BOG",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xB09FE1613fE03E7361319d2a43eDc17422f36B09.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+    "name": "EverRise",
+    "symbol": "RISE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xC17c30e98541188614dF99239cABD40280810cA3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+    "name": "Snowball",
+    "symbol": "SNOB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xC38f41A296A4493Ff429F1238e030924A1542e50.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+    "name": "Euro Coin",
+    "symbol": "EURC",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xDFE521292EcE2A4f44242efBcD66Bc594CA9714B",
+    "name": "Aave Avalanche Market WAVAX",
+    "symbol": "avWAVAX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xDFE521292EcE2A4f44242efBcD66Bc594CA9714B.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
+    "name": "HonToken",
+    "symbol": "HON",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xF14f4CE569cB3679E99d5059909E23B07bd2F387",
+    "name": "NXUSD",
+    "symbol": "NXUSD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xF14f4CE569cB3679E99d5059909E23B07bd2F387.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
+    "name": "Wrapped SOL",
+    "symbol": "SOL",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xFc6Da929c031162841370af240dEc19099861d3B",
+    "name": "Domi",
+    "symbol": "DOMI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xFc6Da929c031162841370af240dEc19099861d3B.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+    "name": "chikn feed",
+    "symbol": "FEED",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xab592d197ACc575D16C3346f4EB70C703F308D1E.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xb262a485d98D8e19175818D47453e7812cA255A8",
+    "name": "Bingo",
+    "symbol": "BINGO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xb262a485d98D8e19175818D47453e7812cA255A8.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
+    "name": "Kalao Token",
+    "symbol": "KLO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+    "name": "ROCO",
+    "symbol": "ROCO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xb418417374fcA27bb54169D3C777492e6Fe17Ee7",
+    "name": "DUA",
+    "symbol": "DUA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xb418417374fcA27bb54169D3C777492e6Fe17Ee7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B",
+    "name": "Chronicum",
+    "symbol": "CHRO",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+    "name": "Ankr Staked AVAX",
+    "symbol": "ankrAVAX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xc3344870d52688874b06d844E0C36cc39FC727F6.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+    "name": "Tether USD",
+    "symbol": "USDT.e",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xcF8419A615c57511807236751c0AF38Db4ba3351",
+    "name": "AxialToken",
+    "symbol": "AXIAL",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xcF8419A615c57511807236751c0AF38Db4ba3351.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
+    "name": "Ape-X",
+    "symbol": "APE-X",
+    "decimals": 9,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+    "name": "Avalaunch",
+    "symbol": "XAVA",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6",
+    "name": "Frozen Walrus Share",
+    "symbol": "WSHARE",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D",
+    "name": "Avalanche ABBC",
+    "symbol": "AVABBC",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+    "name": "PenguinToken",
+    "symbol": "PEFI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+    "name": "Elk",
+    "symbol": "ELK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "name": "Colony Token",
+    "symbol": "CLY",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172",
+    "name": "Treasure Under Sea",
+    "symbol": "TUS",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
+    "name": "Wirex Token",
+    "symbol": "WXT",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1.png"
+  }
+]
