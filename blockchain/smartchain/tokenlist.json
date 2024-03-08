@@ -1,6 +1,86 @@
 [
   {
     "network": "smartchain",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "name": "Binance-Peg BSC-USD",
+    "symbol": "BSC-USD",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x55d398326f99059fF775485246999027B3197955.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "name": "PancakeSwap Token",
+    "symbol": "Cake",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "name": "Binance-Peg USD Coin",
+    "symbol": "USDC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xCC42724C6683B7E57334c4E856f4c9965ED682bD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "name": "Binance-Peg Dai Token",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "name": "BTCB Token",
+    "symbol": "BTCB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x111111111117dC0aa78b770fA6A738034120C302.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1.png"
+  },
+  {
+    "network": "smartchain",
     "address": "0x0034719300501B06E10Ebb1D07ea5967301F0941",
     "name": "Governance xAlgo",
     "symbol": "xALGO",
@@ -110,14 +190,6 @@
     "symbol": "FIL",
     "decimals": 18,
     "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-    "name": "PancakeSwap Token",
-    "symbol": "Cake",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
   },
   {
     "network": "smartchain",
@@ -1998,14 +2070,6 @@
     "symbol": "FIST",
     "decimals": 6,
     "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
-    "name": "Matic Token",
-    "symbol": "MATIC",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0xCC42724C6683B7E57334c4E856f4c9965ED682bD.png"
   },
   {
     "network": "smartchain",

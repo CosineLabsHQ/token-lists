@@ -1,6 +1,86 @@
 [
   {
     "network": "avalanche",
+    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "name": "Avalanche Bridge: WETH.e",
+    "symbol": "WETH.e",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+    "name": "Avalanche Bridge: WBTC.e",
+    "symbol": "WBTC.e",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x50b7545627a5162f82a992c33b87adc75187b218.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "name": "Tether: USDT Token",
+    "symbol": "USDt",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "name": "Avalanche Bridge: USDT.e",
+    "symbol": "USDT.e",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xc7198437980c041c805a1edcba50c1ce5db95118.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "name": "Avalanche Bridge: USDC.e",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+    "name": "Avalanche Bridge: Dai.e",
+    "symbol": "DAI.e",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xd586e7f844cea2f87f50152665bcbc2c279d8d70.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+    "name": "Aave Token: AAVE.e Token",
+    "symbol": "AAVE.e",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x63a72806098bd3d9520cc43356dd78afe5d386d9.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+    "name": "Avalanche Bridge: SushiToken",
+    "symbol": "SUSHI.e",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x37b608519f91f70f2eeb0e5ed9af4061722e4f76.png"
+  },
+  {
+    "network": "avalanche",
     "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
     "name": "Wrapped MEMO",
     "symbol": "wMEMO",
@@ -313,14 +393,6 @@
   },
   {
     "network": "avalanche",
-    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-    "name": "TetherToken",
-    "symbol": "USDt",
-    "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7.png"
-  },
-  {
-    "network": "avalanche",
     "address": "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF",
     "name": "NFTrade Token [via ChainPort.io]",
     "symbol": "NFTD",
@@ -486,14 +558,6 @@
     "symbol": "ankrAVAX",
     "decimals": 18,
     "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xc3344870d52688874b06d844E0C36cc39FC727F6.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-    "name": "Tether USD",
-    "symbol": "USDT.e",
-    "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.png"
   },
   {
     "network": "avalanche",
