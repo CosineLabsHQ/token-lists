@@ -1,6 +1,30 @@
 [
   {
     "network": "base",
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x4200000000000000000000000000000000000006.png"
+  },
+  {
+    "network": "base",
+    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
+  },
+  {
+    "network": "base",
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
+  },
+  {
+    "network": "base",
     "address": "0x081AD949deFe648774C3B8deBe0E4F28a80716dc",
     "name": "Horizon",
     "symbol": "HZN",
@@ -41,14 +65,6 @@
   },
   {
     "network": "base",
-    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
-  },
-  {
-    "network": "base",
     "address": "0x63e71271719f03D7233f4Fa306B6Ea868D0f52fF",
     "name": "BaseInu",
     "symbol": "BINU",
@@ -70,14 +86,6 @@
     "symbol": "axlUSDT",
     "decimals": 6,
     "logoURI": "https://token-assets.chipay.app/blockchain/base/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.png"
-  },
-  {
-    "network": "base",
-    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
   },
   {
     "network": "base",

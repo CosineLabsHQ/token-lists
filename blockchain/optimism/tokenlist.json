@@ -1,11 +1,43 @@
 [
   {
     "network": "optimism",
-    "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
-    "name": "IronBank",
-    "symbol": "IB",
+    "address": "0x4200000000000000000000000000000000000042",
+    "name": "Optimism",
+    "symbol": "OP",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x00a35FD824c717879BF370E70AC6868b95870Dfb.png"
+    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x4200000000000000000000000000000000000042.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x4200000000000000000000000000000000000006.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.png"
   },
   {
     "network": "optimism",
@@ -14,6 +46,30 @@
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "name": "USD Coin (Bridged from Ethereum)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
+    "name": "IronBank",
+    "symbol": "IB",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x00a35FD824c717879BF370E70AC6868b95870Dfb.png"
   },
   {
     "network": "optimism",
@@ -57,27 +113,11 @@
   },
   {
     "network": "optimism",
-    "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
-    "name": "ChainLink Token",
-    "symbol": "LINK",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6.png"
-  },
-  {
-    "network": "optimism",
     "address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
     "name": "Alchemix ETH",
     "symbol": "alETH",
     "decimals": 18,
     "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x3E29D3A9316dAB217754d13b28646B76607c5f04.png"
-  },
-  {
-    "network": "optimism",
-    "address": "0x4200000000000000000000000000000000000042",
-    "name": "Optimism",
-    "symbol": "OP",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x4200000000000000000000000000000000000042.png"
   },
   {
     "network": "optimism",
@@ -105,27 +145,11 @@
   },
   {
     "network": "optimism",
-    "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.png"
-  },
-  {
-    "network": "optimism",
     "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
     "name": "USD+",
     "symbol": "USD+",
     "decimals": 6,
     "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x73cb180bf0521828d8849bc8CF2B920918e23032.png"
-  },
-  {
-    "network": "optimism",
-    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607.png"
   },
   {
     "network": "optimism",
@@ -158,14 +182,6 @@
     "symbol": "KWENTA",
     "decimals": 18,
     "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x920Cf626a271321C151D027030D5d08aF699456b.png"
-  },
-  {
-    "network": "optimism",
-    "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.png"
   },
   {
     "network": "optimism",
@@ -230,14 +246,6 @@
     "symbol": "alUSD",
     "decimals": 18,
     "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A.png"
-  },
-  {
-    "network": "optimism",
-    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.png"
   },
   {
     "network": "optimism",

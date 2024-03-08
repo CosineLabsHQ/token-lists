@@ -1,6 +1,22 @@
 [
   {
     "network": "fantom",
+    "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "name": "Wrapped Fantom",
+    "symbol": "WFTM",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/fantom/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
+  },
+  {
+    "network": "fantom",
+    "address": "0x695921034f0387eAc4e11620EE91b1b15A6A09fE",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://token-assets.chipay.app/blockchain/fantom/0x695921034f0387eAc4e11620EE91b1b15A6A09fE.png"
+  },
+  {
+    "network": "fantom",
     "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
     "name": "IronBank",
     "symbol": "IB",
@@ -86,14 +102,6 @@
     "symbol": "RIP",
     "decimals": 9,
     "logoURI": "https://token-assets.chipay.app/blockchain/fantom/0x1D43697D67cB5D0436cc38d583Ca473a1bFEbC7a.png"
-  },
-  {
-    "network": "fantom",
-    "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-    "name": "Wrapped Fantom",
-    "symbol": "WFTM",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/fantom/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
   },
   {
     "network": "fantom",
