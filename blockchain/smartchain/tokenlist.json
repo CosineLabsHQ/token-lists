@@ -11,7 +11,7 @@
     "network": "smartchain",
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "name": "Binance-Peg BSC-USD",
-    "symbol": "BSC-USD",
+    "symbol": "USDT",
     "decimals": 18,
     "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x55d398326f99059fF775485246999027B3197955.png"
   },
