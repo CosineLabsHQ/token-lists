@@ -233,14 +233,6 @@
   },
   {
     "network": "arbitrum",
-    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
-    "name": "Arbitrum",
-    "symbol": "ARB",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548.png"
-  },
-  {
-    "network": "arbitrum",
     "address": "0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f",
     "name": "Liquid",
     "symbol": "LIQD",

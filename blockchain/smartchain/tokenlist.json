@@ -233,14 +233,6 @@
   },
   {
     "network": "smartchain",
-    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
-    "name": "1INCH Token",
-    "symbol": "1INCH",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x111111111117dC0aa78b770fA6A738034120C302.png"
-  },
-  {
-    "network": "smartchain",
     "address": "0x12e34cDf6A031a10FE241864c32fB03a4FDaD739",
     "name": "FREE coin BSC",
     "symbol": "FREE",
@@ -1222,14 +1214,6 @@
     "symbol": "DOT",
     "decimals": 18,
     "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-    "name": "BTCB Token",
-    "symbol": "BTCB",
-    "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/smartchain/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
   },
   {
     "network": "smartchain",
