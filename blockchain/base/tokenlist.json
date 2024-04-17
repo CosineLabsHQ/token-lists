@@ -5,7 +5,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x4200000000000000000000000000000000000006.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x4200000000000000000000000000000000000006.png"
   },
   {
     "network": "base",
@@ -13,7 +13,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
   },
   {
     "network": "base",
@@ -21,7 +21,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
   },
   {
     "network": "base",
@@ -29,7 +29,7 @@
     "name": "Horizon",
     "symbol": "HZN",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x081AD949deFe648774C3B8deBe0E4F28a80716dc.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x081AD949deFe648774C3B8deBe0E4F28a80716dc.png"
   },
   {
     "network": "base",
@@ -37,7 +37,7 @@
     "name": "BaseTools",
     "symbol": "BASE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x0bf0bA3962a189d56F358143f38b7Ffd26B8D48F.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x0bf0bA3962a189d56F358143f38b7Ffd26B8D48F.png"
   },
   {
     "network": "base",
@@ -45,7 +45,7 @@
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f.png"
   },
   {
     "network": "base",
@@ -53,7 +53,7 @@
     "name": "Bald",
     "symbol": "BALD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8.png"
   },
   {
     "network": "base",
@@ -61,7 +61,7 @@
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.png"
   },
   {
     "network": "base",
@@ -69,7 +69,7 @@
     "name": "BaseInu",
     "symbol": "BINU",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x63e71271719f03D7233f4Fa306B6Ea868D0f52fF.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x63e71271719f03D7233f4Fa306B6Ea868D0f52fF.png"
   },
   {
     "network": "base",
@@ -77,7 +77,7 @@
     "name": "RocketSwap",
     "symbol": "RCKT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09.png"
   },
   {
     "network": "base",
@@ -85,7 +85,7 @@
     "name": "Axelar Wrapped USDT",
     "symbol": "axlUSDT",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.png"
   },
   {
     "network": "base",
@@ -93,7 +93,7 @@
     "name": "Toshi",
     "symbol": "TOSHI",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4.png"
   },
   {
     "network": "base",
@@ -101,7 +101,7 @@
     "name": "Doge Base",
     "symbol": "Dbase",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0xbcf19453bAdf7C7aC0630b11dCB75d52b7eb8930.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0xbcf19453bAdf7C7aC0630b11dCB75d52b7eb8930.png"
   },
   {
     "network": "base",
@@ -109,7 +109,7 @@
     "name": "Synth Token",
     "symbol": "SYNTH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2.png"
   },
   {
     "network": "base",
@@ -117,6 +117,6 @@
     "name": "USD Base Coin",
     "symbol": "USDbC",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.png"
   }
 ]

@@ -5,7 +5,7 @@
     "name": "Wrapped Matic",
     "symbol": "WMATIC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.png"
   },
   {
     "network": "polygon",
@@ -13,7 +13,7 @@
     "name": "(PoS) Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6.png"
   },
   {
     "network": "polygon",
@@ -21,7 +21,7 @@
     "name": "Aave (PoS)",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xD6DF932A45C0f255f85145f286eA0b292B21C90B.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xD6DF932A45C0f255f85145f286eA0b292B21C90B.png"
   },
   {
     "network": "polygon",
@@ -29,7 +29,7 @@
     "name": "(PoS) Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png"
   },
   {
     "network": "polygon",
@@ -37,7 +37,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359.png"
   },
   {
     "network": "polygon",
@@ -45,7 +45,7 @@
     "name": "USD Coin (PoS)",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.png"
   },
   {
     "network": "polygon",
@@ -53,7 +53,7 @@
     "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xb0897686c545045aFc77CF20eC7A532E3120E0F1.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xb0897686c545045aFc77CF20eC7A532E3120E0F1.png"
   },
   {
     "network": "polygon",
@@ -61,7 +61,7 @@
     "name": "ChainLink Token",
     "symbol": "LINK.e",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39.png"
   },
   {
     "network": "polygon",
@@ -69,7 +69,7 @@
     "name": "Uniswap (PoS)",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xb33EaAd8d922B1083446DC23f610c2567fB5180f.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xb33EaAd8d922B1083446DC23f610c2567fB5180f.png"
   },
   {
     "network": "polygon",
@@ -77,7 +77,7 @@
     "name": "(PoS) Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063.png"
   },
   {
     "network": "polygon",
@@ -85,7 +85,7 @@
     "name": "Rai Reflex Index (PoS)",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x00e5646f60AC6Fb446f621d146B6E1886f002905.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x00e5646f60AC6Fb446f621d146B6E1886f002905.png"
   },
   {
     "network": "polygon",
@@ -93,7 +93,7 @@
     "name": "Exchange Genesis Ethlas Medium",
     "symbol": "XGEM",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x02649C1Ff4296038De4b9bA8F491b42b940A8252.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x02649C1Ff4296038De4b9bA8F491b42b940A8252.png"
   },
   {
     "network": "polygon",
@@ -101,7 +101,7 @@
     "name": "Vision Token (PoS)",
     "symbol": "VISION",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x034b2090b579228482520c589dbD397c53Fc51cC.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x034b2090b579228482520c589dbD397c53Fc51cC.png"
   },
   {
     "network": "polygon",
@@ -109,7 +109,7 @@
     "name": "Wrapped liquid staked Ether 2.0 (PoS)",
     "symbol": "wstETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD.png"
   },
   {
     "network": "polygon",
@@ -117,7 +117,7 @@
     "name": "Safle",
     "symbol": "SAFLE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x04b33078Ea1aEf29bf3fB29c6aB7B200C58ea126.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x04b33078Ea1aEf29bf3fB29c6aB7B200C58ea126.png"
   },
   {
     "network": "polygon",
@@ -125,7 +125,7 @@
     "name": "Krill",
     "symbol": "Krill",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b.png"
   },
   {
     "network": "polygon",
@@ -133,7 +133,7 @@
     "name": "GCOIN",
     "symbol": "GFC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C.png"
   },
   {
     "network": "polygon",
@@ -141,7 +141,7 @@
     "name": "DeNet File Token",
     "symbol": "DE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x081Ec4c0e30159C8259BAD8F4887f83010a681DC.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x081Ec4c0e30159C8259BAD8F4887f83010a681DC.png"
   },
   {
     "network": "polygon",
@@ -149,7 +149,7 @@
     "name": "Wombat",
     "symbol": "WOMBAT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x0C9c7712C83B3C70e7c5E11100D33D9401BdF9dd.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x0C9c7712C83B3C70e7c5E11100D33D9401BdF9dd.png"
   },
   {
     "network": "polygon",
@@ -157,7 +157,7 @@
     "name": "Ankr Staked MATIC",
     "symbol": "ankrMATIC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58.png"
   },
   {
     "network": "polygon",
@@ -165,7 +165,7 @@
     "name": "NextEarthToken",
     "symbol": "NXTT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x0d0B8488222F7f83B23E365320a4021b12eAD608.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x0d0B8488222F7f83B23E365320a4021b12eAD608.png"
   },
   {
     "network": "polygon",
@@ -173,7 +173,7 @@
     "name": "kogecoin.io",
     "symbol": "KOGECOIN",
     "decimals": 9,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x13748d548D95D78a3c83fe3F32604B4796CFfa23.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x13748d548D95D78a3c83fe3F32604B4796CFfa23.png"
   },
   {
     "network": "polygon",
@@ -181,7 +181,7 @@
     "name": "Mysterium (PoS)",
     "symbol": "MYST",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3.png"
   },
   {
     "network": "polygon",
@@ -189,7 +189,7 @@
     "name": "Milk",
     "symbol": "MILK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x1599fE55Cda767b1F631ee7D414b41F5d6dE393d.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x1599fE55Cda767b1F631ee7D414b41F5d6dE393d.png"
   },
   {
     "network": "polygon",
@@ -197,7 +197,7 @@
     "name": "Route",
     "symbol": "ROUTE (PoS)",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4.png"
   },
   {
     "network": "polygon",
@@ -205,7 +205,7 @@
     "name": "Polylastic",
     "symbol": "POLX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x187Ae45f2D361CbCE37c6A8622119c91148F261b.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x187Ae45f2D361CbCE37c6A8622119c91148F261b.png"
   },
   {
     "network": "polygon",
@@ -213,7 +213,7 @@
     "name": "Wootrade Network (PoS)",
     "symbol": "WOO",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603.png"
   },
   {
     "network": "polygon",
@@ -221,7 +221,7 @@
     "name": "Wrapped Ixs Token",
     "symbol": "WIXS",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x1BA17C639BdaeCd8DC4AAc37df062d17ee43a1b8.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x1BA17C639BdaeCd8DC4AAc37df062d17ee43a1b8.png"
   },
   {
     "network": "polygon",
@@ -229,7 +229,7 @@
     "name": "Kyber Network Crystal v2 (PoS)",
     "symbol": "KNC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C.png"
   },
   {
     "network": "polygon",
@@ -237,7 +237,7 @@
     "name": "Nexus Dubai",
     "symbol": "NXD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x228b5C21ac00155cf62c57bcc704c0dA8187950b.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x228b5C21ac00155cf62c57bcc704c0dA8187950b.png"
   },
   {
     "network": "polygon",
@@ -245,7 +245,7 @@
     "name": "BLOK",
     "symbol": "BLOK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x229b1b6C23ff8953D663C4cBB519717e323a0a84.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x229b1b6C23ff8953D663C4cBB519717e323a0a84.png"
   },
   {
     "network": "polygon",
@@ -253,7 +253,7 @@
     "name": "KastaToken",
     "symbol": "KASTA",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x235737dBb56e8517391473f7c964DB31fA6ef280.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x235737dBb56e8517391473f7c964DB31fA6ef280.png"
   },
   {
     "network": "polygon",
@@ -261,7 +261,7 @@
     "name": "USD+",
     "symbol": "USD+",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f.png"
   },
   {
     "network": "polygon",
@@ -269,7 +269,7 @@
     "name": "FABWELT",
     "symbol": "WELT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9.png"
   },
   {
     "network": "polygon",
@@ -277,7 +277,7 @@
     "name": "TETU Reward Token",
     "symbol": "TETU",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x255707B70BF90aa112006E1b07B9AeA6De021424.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x255707B70BF90aa112006E1b07B9AeA6De021424.png"
   },
   {
     "network": "polygon",
@@ -285,7 +285,7 @@
     "name": "THX Network (PoS)",
     "symbol": "THX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015.png"
   },
   {
     "network": "polygon",
@@ -293,7 +293,7 @@
     "name": "VSQ",
     "symbol": "VSQ",
     "decimals": 9,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x29F1e986FCa02B7E54138c04C4F503DdDD250558.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x29F1e986FCa02B7E54138c04C4F503DdDD250558.png"
   },
   {
     "network": "polygon",
@@ -301,7 +301,7 @@
     "name": "ChainGuardians Governance Token (PoS)",
     "symbol": "CGG",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5.png"
   },
   {
     "network": "polygon",
@@ -309,7 +309,7 @@
     "name": "Mask Network (PoS)",
     "symbol": "MASK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7.png"
   },
   {
     "network": "polygon",
@@ -317,7 +317,7 @@
     "name": "Avalanche Token",
     "symbol": "AVAX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b.png"
   },
   {
     "network": "polygon",
@@ -325,7 +325,7 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
   },
   {
     "network": "polygon",
@@ -333,7 +333,7 @@
     "name": "Base Carbon Tonne",
     "symbol": "BCT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2F800Db0fdb5223b3C3f354886d907A671414A7F.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2F800Db0fdb5223b3C3f354886d907A671414A7F.png"
   },
   {
     "network": "polygon",
@@ -341,7 +341,7 @@
     "name": "TOWER",
     "symbol": "TOWER",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2bC07124D8dAc638E290f401046Ad584546BC47b.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2bC07124D8dAc638E290f401046Ad584546BC47b.png"
   },
   {
     "network": "polygon",
@@ -349,7 +349,7 @@
     "name": "TrueUSD (PoS)",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756.png"
   },
   {
     "network": "polygon",
@@ -357,7 +357,7 @@
     "name": "South African Tether (PoS)",
     "symbol": "XZAR",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x30DE46509Dbc3a491128F97be0aAf70dc7Ff33cB.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x30DE46509Dbc3a491128F97be0aAf70dc7Ff33cB.png"
   },
   {
     "network": "polygon",
@@ -365,7 +365,7 @@
     "name": "GenomesDAO (PoS)",
     "symbol": "GENE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x34667ED7C36cBBbF2d5d5c5c8d6Eb76a094EDb9F.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x34667ED7C36cBBbF2d5d5c5c8d6Eb76a094EDb9F.png"
   },
   {
     "network": "polygon",
@@ -373,7 +373,7 @@
     "name": "RaiderAurum",
     "symbol": "AURUM",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23.png"
   },
   {
     "network": "polygon",
@@ -381,7 +381,7 @@
     "name": "xDollar Stablecoin",
     "symbol": "xUSD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975.png"
   },
   {
     "network": "polygon",
@@ -389,7 +389,7 @@
     "name": "Staked MATIC (PoS)",
     "symbol": "stMATIC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4.png"
   },
   {
     "network": "polygon",
@@ -397,7 +397,7 @@
     "name": "Continuum",
     "symbol": "UM",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x3B1A0c9252ee7403093fF55b4a5886d49a3d837a.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x3B1A0c9252ee7403093fF55b4a5886d49a3d837a.png"
   },
   {
     "network": "polygon",
@@ -405,7 +405,7 @@
     "name": "Affyn",
     "symbol": "FYN",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x3B56a704C01D650147ADE2b8cEE594066b3F9421.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x3B56a704C01D650147ADE2b8cEE594066b3F9421.png"
   },
   {
     "network": "polygon",
@@ -413,7 +413,7 @@
     "name": "UnirisToken (PoS)",
     "symbol": "UCO",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x3C720206bFaCB2d16fA3ac0ed87D2048Dbc401Fc.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x3C720206bFaCB2d16fA3ac0ed87D2048Dbc401Fc.png"
   },
   {
     "network": "polygon",
@@ -421,7 +421,7 @@
     "name": "Fish",
     "symbol": "FISH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x3a3Df212b7AA91Aa0402B9035b098891d276572B.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x3a3Df212b7AA91Aa0402B9035b098891d276572B.png"
   },
   {
     "network": "polygon",
@@ -429,7 +429,7 @@
     "name": "Streamr",
     "symbol": "DATA",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x3a9A81d576d83FF21f26f325066054540720fC34.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x3a9A81d576d83FF21f26f325066054540720fC34.png"
   },
   {
     "network": "polygon",
@@ -437,7 +437,7 @@
     "name": "Digital Fitness",
     "symbol": "DEFIT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x428360b02C1269bc1c79fbC399ad31d58C1E8fdA.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x428360b02C1269bc1c79fbC399ad31d58C1E8fdA.png"
   },
   {
     "network": "polygon",
@@ -445,7 +445,7 @@
     "name": "ParaSwap (PoS)",
     "symbol": "PSP",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x42d61D766B85431666B39B89C43011f24451bFf6.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x42d61D766B85431666B39B89C43011f24451bFf6.png"
   },
   {
     "network": "polygon",
@@ -453,7 +453,7 @@
     "name": "Rainbow Token",
     "symbol": "RBW",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x431CD3C9AC9Fc73644BF68bF5691f4B83F9E104f.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x431CD3C9AC9Fc73644BF68bF5691f4B83F9E104f.png"
   },
   {
     "network": "polygon",
@@ -461,7 +461,7 @@
     "name": "JPY Coin",
     "symbol": "JPYC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
   },
   {
     "network": "polygon",
@@ -469,7 +469,7 @@
     "name": "$KMC",
     "symbol": "$KMC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x44d09156c7b4ACf0C64459Fbcced7613F5519918.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x44d09156c7b4ACf0C64459Fbcced7613F5519918.png"
   },
   {
     "network": "polygon",
@@ -477,7 +477,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89.png"
   },
   {
     "network": "polygon",
@@ -485,7 +485,7 @@
     "name": "Tangible",
     "symbol": "TNGBL",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007.png"
   },
   {
     "network": "polygon",
@@ -493,7 +493,7 @@
     "name": "Iron Finance ICE Token",
     "symbol": "ICE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef.png"
   },
   {
     "network": "polygon",
@@ -501,7 +501,7 @@
     "name": "RIOT (PoS)",
     "symbol": "RIOT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x4FF0b68ABc2b9E4e1401E9b691DBa7d66B264AC8.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x4FF0b68ABc2b9E4e1401E9b691DBa7d66B264AC8.png"
   },
   {
     "network": "polygon",
@@ -509,7 +509,7 @@
     "name": "WaultSwap Polygon",
     "symbol": "WEXpoly",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x4c4BF319237D98a30A929A96112EfFa8DA3510EB.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x4c4BF319237D98a30A929A96112EfFa8DA3510EB.png"
   },
   {
     "network": "polygon",
@@ -517,7 +517,7 @@
     "name": "IceToken",
     "symbol": "ICE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.png"
   },
   {
     "network": "polygon",
@@ -525,7 +525,7 @@
     "name": "Jarvis Synthetic Euro",
     "symbol": "jEUR",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c.png"
   },
   {
     "network": "polygon",
@@ -533,7 +533,7 @@
     "name": "Klima DAO",
     "symbol": "KLIMA",
     "decimals": 9,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x4e78011Ce80ee02d2c3e649Fb657E45898257815.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x4e78011Ce80ee02d2c3e649Fb657E45898257815.png"
   },
   {
     "network": "polygon",
@@ -541,7 +541,7 @@
     "name": "Synthetix Network Token (PoS)",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x50B728D8D964fd00C2d0AAD81718b71311feF68a.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x50B728D8D964fd00C2d0AAD81718b71311feF68a.png"
   },
   {
     "network": "polygon",
@@ -549,7 +549,7 @@
     "name": "Vault Hill City (PoS)",
     "symbol": "VHC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x51b5619F5180e333d18b6310C8D540AEa43a0371.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x51b5619F5180e333d18b6310C8D540AEa43a0371.png"
   },
   {
     "network": "polygon",
@@ -557,7 +557,7 @@
     "name": "XY Token",
     "symbol": "XY",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x55555555A687343C6Ce28C8E1F6641dc71659fAd.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x55555555A687343C6Ce28C8E1F6641dc71659fAd.png"
   },
   {
     "network": "polygon",
@@ -565,7 +565,7 @@
     "name": "Qi Dao",
     "symbol": "QI",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x580A84C73811E1839F75d86d75d88cCa0c241fF4.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x580A84C73811E1839F75d86d75d88cCa0c241fF4.png"
   },
   {
     "network": "polygon",
@@ -573,7 +573,7 @@
     "name": "Adshares (PoS)",
     "symbol": "ADS",
     "decimals": 11,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x598e49f01bEfeB1753737934a5b11fea9119C796.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x598e49f01bEfeB1753737934a5b11fea9119C796.png"
   },
   {
     "network": "polygon",
@@ -581,7 +581,7 @@
     "name": "CoinPoker Chips (PoS)",
     "symbol": "CHP",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x59B5654a17Ac44F3068b3882F298881433bB07Ef.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x59B5654a17Ac44F3068b3882F298881433bB07Ef.png"
   },
   {
     "network": "polygon",
@@ -589,7 +589,7 @@
     "name": "moda",
     "symbol": "MODA",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x5E430F88D1BE82EB3eF92b6fF06125168fD5DCf2.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x5E430F88D1BE82EB3eF92b6fF06125168fD5DCf2.png"
   },
   {
     "network": "polygon",
@@ -597,7 +597,7 @@
     "name": "ApeSwapFinance Banana",
     "symbol": "BANANA",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x5d47bAbA0d66083C52009271faF3F50DCc01023C.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x5d47bAbA0d66083C52009271faF3F50DCc01023C.png"
   },
   {
     "network": "polygon",
@@ -605,7 +605,7 @@
     "name": "Graph Token (PoS)",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x5fe2B58c013d7601147DcdD68C143A77499f5531.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x5fe2B58c013d7601147DcdD68C143A77499f5531.png"
   },
   {
     "network": "polygon",
@@ -613,7 +613,7 @@
     "name": "Orbs (PoS)",
     "symbol": "ORBS",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff.png"
   },
   {
     "network": "polygon",
@@ -621,7 +621,7 @@
     "name": "Sphere Finance",
     "symbol": "SPHERE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x62F594339830b90AE4C084aE7D223fFAFd9658A7.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x62F594339830b90AE4C084aE7D223fFAFd9658A7.png"
   },
   {
     "network": "polygon",
@@ -629,7 +629,7 @@
     "name": "Unicorn Milk",
     "symbol": "UNIM",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x64060aB139Feaae7f06Ca4E63189D86aDEb51691.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x64060aB139Feaae7f06Ca4E63189D86aDEb51691.png"
   },
   {
     "network": "polygon",
@@ -637,7 +637,7 @@
     "name": "Bondly (PoS)",
     "symbol": "BONDLY",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0.png"
   },
   {
     "network": "polygon",
@@ -645,7 +645,7 @@
     "name": "FOX (PoS)",
     "symbol": "FOX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x65A05DB8322701724c197AF82C9CaE41195B0aA8.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x65A05DB8322701724c197AF82C9CaE41195B0aA8.png"
   },
   {
     "network": "polygon",
@@ -653,7 +653,7 @@
     "name": "Snook",
     "symbol": "SNK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x689f8e5913C158fFB5Ac5aeb83b3C875F5d20309.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x689f8e5913C158fFB5Ac5aeb83b3C875F5d20309.png"
   },
   {
     "network": "polygon",
@@ -661,7 +661,7 @@
     "name": "Synapse Network",
     "symbol": "SNP",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x6911F552842236bd9E8ea8DDBB3fb414e2C5FA9d.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x6911F552842236bd9E8ea8DDBB3fb414e2C5FA9d.png"
   },
   {
     "network": "polygon",
@@ -669,7 +669,7 @@
     "name": "Wrapped UST Token (PoS)",
     "symbol": "UST",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x692597b009d13C4049a947CAB2239b7d6517875F.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x692597b009d13C4049a947CAB2239b7d6517875F.png"
   },
   {
     "network": "polygon",
@@ -677,7 +677,7 @@
     "name": "Nitro (PoS)",
     "symbol": "NITRO",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x695FC8B80F344411F34bDbCb4E621aA69AdA384b.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x695FC8B80F344411F34bDbCb4E621aA69AdA384b.png"
   },
   {
     "network": "polygon",
@@ -685,7 +685,7 @@
     "name": "Gains V2",
     "symbol": "GFARM2",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x7075cAB6bCCA06613e2d071bd918D1a0241379E2.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x7075cAB6bCCA06613e2d071bd918D1a0241379E2.png"
   },
   {
     "network": "polygon",
@@ -693,7 +693,7 @@
     "name": "REVV",
     "symbol": "REVV",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x70c006878a5A50Ed185ac4C87d837633923De296.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x70c006878a5A50Ed185ac4C87d837633923De296.png"
   },
   {
     "network": "polygon",
@@ -701,7 +701,7 @@
     "name": "GAIA Everworld",
     "symbol": "GAIA",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x723B17718289A91AF252D616DE2C77944962d122.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x723B17718289A91AF252D616DE2C77944962d122.png"
   },
   {
     "network": "polygon",
@@ -709,7 +709,7 @@
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed.png"
   },
   {
     "network": "polygon",
@@ -717,7 +717,7 @@
     "name": "Augury Finance",
     "symbol": "OMEN",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E.png"
   },
   {
     "network": "polygon",
@@ -725,7 +725,7 @@
     "name": "Open Exchange Token",
     "symbol": "OX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f.png"
   },
   {
     "network": "polygon",
@@ -733,7 +733,7 @@
     "name": "MoonEdge",
     "symbol": "MOONED",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x7E4c577ca35913af564ee2a24d882a4946Ec492B.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x7E4c577ca35913af564ee2a24d882a4946Ec492B.png"
   },
   {
     "network": "polygon",
@@ -741,7 +741,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619.png"
   },
   {
     "network": "polygon",
@@ -749,7 +749,7 @@
     "name": "iMe Lab",
     "symbol": "LIME",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x7f67639Ffc8C93dD558d452b8920b28815638c44.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x7f67639Ffc8C93dD558d452b8920b28815638c44.png"
   },
   {
     "network": "polygon",
@@ -757,7 +757,7 @@
     "name": "Meshswap Protocol",
     "symbol": "MESH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a.png"
   },
   {
     "network": "polygon",
@@ -765,7 +765,7 @@
     "name": "Wicrypt Network Token",
     "symbol": "WNT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689.png"
   },
   {
     "network": "polygon",
@@ -773,7 +773,7 @@
     "name": "MODEFI  (PoS)",
     "symbol": "MOD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8346Ab8d5EA7A9Db0209aEd2d1806AFA0E2c4C21.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8346Ab8d5EA7A9Db0209aEd2d1806AFA0E2c4C21.png"
   },
   {
     "network": "polygon",
@@ -781,7 +781,7 @@
     "name": "NFTY Token",
     "symbol": "NFTY",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8623e66Bea0DCe41B6d47f9C44e806A115baBae0.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8623e66Bea0DCe41B6d47f9C44e806A115baBae0.png"
   },
   {
     "network": "polygon",
@@ -789,7 +789,7 @@
     "name": "DecentraWeb (PoS)",
     "symbol": "DWEB",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8839e639F210B80ffea73AedF51baed8DAc04499.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8839e639F210B80ffea73AedF51baed8DAc04499.png"
   },
   {
     "network": "polygon",
@@ -797,7 +797,7 @@
     "name": "SHEESHA POLYGON",
     "symbol": "mSHEESHA",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D.png"
   },
   {
     "network": "polygon",
@@ -805,7 +805,7 @@
     "name": "PolyDoge",
     "symbol": "PolyDoge",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472.png"
   },
   {
     "network": "polygon",
@@ -813,7 +813,7 @@
     "name": "UniX Gaming (PoS)",
     "symbol": "UNIX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8C4476DFEC8e7EEdf2DE3e9E9461B7c14C828d46.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8C4476DFEC8e7EEdf2DE3e9E9461B7c14C828d46.png"
   },
   {
     "network": "polygon",
@@ -821,7 +821,7 @@
     "name": "dHedge DAO Token (PoS)",
     "symbol": "DHT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292.png"
   },
   {
     "network": "polygon",
@@ -829,7 +829,7 @@
     "name": "InsurAce (PoS)",
     "symbol": "INSUR",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8a0e8b4b0903929f47C3ea30973940D4a9702067.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8a0e8b4b0903929f47C3ea30973940D4a9702067.png"
   },
   {
     "network": "polygon",
@@ -837,7 +837,7 @@
     "name": "Aave Matic Market WMATIC",
     "symbol": "amWMATIC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4.png"
   },
   {
     "network": "polygon",
@@ -845,7 +845,7 @@
     "name": "moonwolf.io",
     "symbol": "WOLF",
     "decimals": 9,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16.png"
   },
   {
     "network": "polygon",
@@ -853,7 +853,7 @@
     "name": "DxSale.Network (PoS)",
     "symbol": "SALE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8f6196901a4a153d8eE8F3fa779A042F6092D908.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8f6196901a4a153d8eE8F3fa779A042F6092D908.png"
   },
   {
     "network": "polygon",
@@ -861,7 +861,7 @@
     "name": "NFT Champions",
     "symbol": "CHAMP",
     "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f.png"
   },
   {
     "network": "polygon",
@@ -869,7 +869,7 @@
     "name": "DEFI HUNTERS DAO Token",
     "symbol": "DDAO",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x90F3edc7D5298918F7BB51694134b07356F7d0C7.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x90F3edc7D5298918F7BB51694134b07356F7d0C7.png"
   },
   {
     "network": "polygon",
@@ -877,7 +877,7 @@
     "name": "BTC Proxy",
     "symbol": "BTCpx",
     "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x9C32185b81766a051E08dE671207b34466DD1021.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x9C32185b81766a051E08dE671207b34466DD1021.png"
   },
   {
     "network": "polygon",
@@ -885,7 +885,7 @@
     "name": "Must",
     "symbol": "MUST",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f.png"
   },
   {
     "network": "polygon",
@@ -893,7 +893,7 @@
     "name": "BUSD Token",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
   },
   {
     "network": "polygon",
@@ -901,7 +901,7 @@
     "name": "Balancer (PoS)",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3.png"
   },
   {
     "network": "polygon",
@@ -909,7 +909,7 @@
     "name": "Metaverse (PoS)",
     "symbol": "MV",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xA3c322Ad15218fBFAEd26bA7f616249f7705D945.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xA3c322Ad15218fBFAEd26bA7f616249f7705D945.png"
   },
   {
     "network": "polygon",
@@ -917,7 +917,7 @@
     "name": "Nash Exchange Token (PoS)",
     "symbol": "NEX",
     "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB.png"
   },
   {
     "network": "polygon",
@@ -925,7 +925,7 @@
     "name": "XCAD Token (PoS)",
     "symbol": "XCAD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xA55870278d6389ec5B524553D03C04F5677c061E.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xA55870278d6389ec5B524553D03C04F5677c061E.png"
   },
   {
     "network": "polygon",
@@ -933,7 +933,7 @@
     "name": "BOB",
     "symbol": "BOB",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.png"
   },
   {
     "network": "polygon",
@@ -941,7 +941,7 @@
     "name": "Request",
     "symbol": "REQ",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762.png"
   },
   {
     "network": "polygon",
@@ -949,7 +949,7 @@
     "name": "DeRace Token",
     "symbol": "DERC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xB35fcBCF1fD489fCe02Ee146599e893FDCdC60e6.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xB35fcBCF1fD489fCe02Ee146599e893FDCdC60e6.png"
   },
   {
     "network": "polygon",
@@ -957,7 +957,7 @@
     "name": "QuickSwap",
     "symbol": "QUICK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xB5C064F955D8e7F38fE0460C556a72987494eE17.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xB5C064F955D8e7F38fE0460C556a72987494eE17.png"
   },
   {
     "network": "polygon",
@@ -965,7 +965,7 @@
     "name": "Everipedia IQ (PoS)",
     "symbol": "IQ",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xB9638272aD6998708de56BBC0A290a1dE534a578.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xB9638272aD6998708de56BBC0A290a1dE534a578.png"
   },
   {
     "network": "polygon",
@@ -973,7 +973,7 @@
     "name": "SAND",
     "symbol": "SAND",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683.png"
   },
   {
     "network": "polygon",
@@ -981,7 +981,7 @@
     "name": "Kommunitas",
     "symbol": "KOM",
     "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xC004e2318722EA2b15499D6375905d75Ee5390B8.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xC004e2318722EA2b15499D6375905d75Ee5390B8.png"
   },
   {
     "network": "polygon",
@@ -989,7 +989,7 @@
     "name": "DFYN Token (PoS)",
     "symbol": "DFYN",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97.png"
   },
   {
     "network": "polygon",
@@ -997,7 +997,7 @@
     "name": "EverRise",
     "symbol": "RISE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xC17c30e98541188614dF99239cABD40280810cA3.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xC17c30e98541188614dF99239cABD40280810cA3.png"
   },
   {
     "network": "polygon",
@@ -1005,7 +1005,7 @@
     "name": "STAR",
     "symbol": "STAR",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xC19669A405067927865B40Ea045a2baabbbe57f5.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xC19669A405067927865B40Ea045a2baabbbe57f5.png"
   },
   {
     "network": "polygon",
@@ -1013,7 +1013,7 @@
     "name": "Lido DAO Token (PoS)",
     "symbol": "LDO",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xC3C7d422809852031b44ab29EEC9F1EfF2A58756.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xC3C7d422809852031b44ab29EEC9F1EfF2A58756.png"
   },
   {
     "network": "polygon",
@@ -1021,7 +1021,7 @@
     "name": "Popcorn (PoS)",
     "symbol": "POP",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c.png"
   },
   {
     "network": "polygon",
@@ -1029,7 +1029,7 @@
     "name": "Sunflower Land",
     "symbol": "SFL",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xD1f9c58e33933a993A3891F8acFe05a68E1afC05.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xD1f9c58e33933a993A3891F8acFe05a68E1afC05.png"
   },
   {
     "network": "polygon",
@@ -1037,7 +1037,7 @@
     "name": "YEL Token",
     "symbol": "YEL",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xD3b71117E6C1558c1553305b44988cd944e97300.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xD3b71117E6C1558c1553305b44988cd944e97300.png"
   },
   {
     "network": "polygon",
@@ -1045,7 +1045,7 @@
     "name": "LUXY",
     "symbol": "LUXY",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xD4945a3D0De9923035521687D4bf18cC9B0c7c2A.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xD4945a3D0De9923035521687D4bf18cC9B0c7c2A.png"
   },
   {
     "network": "polygon",
@@ -1053,7 +1053,7 @@
     "name": "pTokens ORE (PoS)",
     "symbol": "ORE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xD52f6CA48882Be8fbaa98ce390db18e1dbe1062d.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xD52f6CA48882Be8fbaa98ce390db18e1dbe1062d.png"
   },
   {
     "network": "polygon",
@@ -1061,7 +1061,7 @@
     "name": "Toucan Protocol: Nature Carbon Tonne",
     "symbol": "NCT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xD838290e877E0188a4A44700463419ED96c16107.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xD838290e877E0188a4A44700463419ED96c16107.png"
   },
   {
     "network": "polygon",
@@ -1069,7 +1069,7 @@
     "name": "Quadrant Protocol",
     "symbol": "eQUAD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xDAB625853c2B35D0a9C6bD8e5a097a664ef4CcFb.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xDAB625853c2B35D0a9C6bD8e5a097a664ef4CcFb.png"
   },
   {
     "network": "polygon",
@@ -1077,7 +1077,7 @@
     "name": "Bankless Token (PoS)",
     "symbol": "BANK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab.png"
   },
   {
     "network": "polygon",
@@ -1085,7 +1085,7 @@
     "name": "renBTC",
     "symbol": "renBTC",
     "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501.png"
   },
   {
     "network": "polygon",
@@ -1093,7 +1093,7 @@
     "name": "XSGD",
     "symbol": "XSGD",
     "decimals": 6,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xDC3326e71D45186F113a2F448984CA0e8D201995.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xDC3326e71D45186F113a2F448984CA0e8D201995.png"
   },
   {
     "network": "polygon",
@@ -1101,7 +1101,7 @@
     "name": "Astrafer",
     "symbol": "ASTRAFER",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xDfCe1e99A31C4597a3f8A8945cBfa9037655e335.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xDfCe1e99A31C4597a3f8A8945cBfa9037655e335.png"
   },
   {
     "network": "polygon",
@@ -1109,7 +1109,7 @@
     "name": "PlanetIX",
     "symbol": "IXT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE.png"
   },
   {
     "network": "polygon",
@@ -1117,7 +1117,7 @@
     "name": "agEUR",
     "symbol": "agEUR",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4.png"
   },
   {
     "network": "polygon",
@@ -1125,7 +1125,7 @@
     "name": "STASIS EURS Token (PoS)",
     "symbol": "EURS",
     "decimals": 2,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xE111178A87A3BFf0c8d18DECBa5798827539Ae99.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xE111178A87A3BFf0c8d18DECBa5798827539Ae99.png"
   },
   {
     "network": "polygon",
@@ -1133,7 +1133,7 @@
     "name": "PAR Stablecoin",
     "symbol": "PAR",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128.png"
   },
   {
     "network": "polygon",
@@ -1141,7 +1141,7 @@
     "name": "Gains Network",
     "symbol": "GNS",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xE5417Af564e4bFDA1c483642db72007871397896.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xE5417Af564e4bFDA1c483642db72007871397896.png"
   },
   {
     "network": "polygon",
@@ -1149,7 +1149,7 @@
     "name": "DFX Token (PoS)",
     "symbol": "DFX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395.png"
   },
   {
     "network": "polygon",
@@ -1157,7 +1157,7 @@
     "name": "Davos.xyz USD",
     "symbol": "DUSD",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xEC38621e72D86775a89C7422746de1f52bbA5320.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xEC38621e72D86775a89C7422746de1f52bbA5320.png"
   },
   {
     "network": "polygon",
@@ -1165,7 +1165,7 @@
     "name": "CRISP Scored Mangroves",
     "symbol": "CRISP-M",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xEF6Ab48ef8dFe984FAB0d5c4cD6AFF2E54dfdA14.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xEF6Ab48ef8dFe984FAB0d5c4cD6AFF2E54dfdA14.png"
   },
   {
     "network": "polygon",
@@ -1173,7 +1173,7 @@
     "name": "TryHards",
     "symbol": "TRY",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xEFeE2de82343BE622Dcb4E545f75a3b9f50c272D.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xEFeE2de82343BE622Dcb4E545f75a3b9f50c272D.png"
   },
   {
     "network": "polygon",
@@ -1181,7 +1181,7 @@
     "name": "MASQ (PoS)",
     "symbol": "MASQ",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35.png"
   },
   {
     "network": "polygon",
@@ -1189,7 +1189,7 @@
     "name": "One Rare Token",
     "symbol": "ORARE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xFF2382Bd52efaceF02Cc895bcBFc4618608AA56F.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xFF2382Bd52efaceF02Cc895bcBFc4618608AA56F.png"
   },
   {
     "network": "polygon",
@@ -1197,7 +1197,7 @@
     "name": "miMATIC",
     "symbol": "miMATIC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1.png"
   },
   {
     "network": "polygon",
@@ -1205,7 +1205,7 @@
     "name": "Global Coin Research (PoS)",
     "symbol": "GCR",
     "decimals": 4,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xa69d14d6369E414a32a5C7E729B7afbAfd285965.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xa69d14d6369E414a32a5C7E729B7afbAfd285965.png"
   },
   {
     "network": "polygon",
@@ -1213,7 +1213,7 @@
     "name": "IRON Titanium Token",
     "symbol": "TITAN",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A.png"
   },
   {
     "network": "polygon",
@@ -1221,7 +1221,7 @@
     "name": "Proxy",
     "symbol": "PRXY",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xab3D689C22a2Bb821f50A4Ff0F21A7980dCB8591.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xab3D689C22a2Bb821f50A4Ff0F21A7980dCB8591.png"
   },
   {
     "network": "polygon",
@@ -1229,7 +1229,7 @@
     "name": "Swash Token",
     "symbol": "SWASH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xbA3CB8329D442E6F9Eb70fafe1E214251df3D275.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xbA3CB8329D442E6F9Eb70fafe1E214251df3D275.png"
   },
   {
     "network": "polygon",
@@ -1237,7 +1237,7 @@
     "name": "Jarvis Synthetic Swiss Franc",
     "symbol": "jCHF",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xbD1463F02f61676d53fd183C2B19282BFF93D099.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xbD1463F02f61676d53fd183C2B19282BFF93D099.png"
   },
   {
     "network": "polygon",
@@ -1245,7 +1245,7 @@
     "name": "Blockchain Monster Coin",
     "symbol": "BCMC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xc10358f062663448a3489fC258139944534592ac.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xc10358f062663448a3489fC258139944534592ac.png"
   },
   {
     "network": "polygon",
@@ -1253,7 +1253,7 @@
     "name": "Pegaxy Stone",
     "symbol": "PGX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE.png"
   },
   {
     "network": "polygon",
@@ -1261,7 +1261,7 @@
     "name": "Adamant",
     "symbol": "ADDY",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539.png"
   },
   {
     "network": "polygon",
@@ -1269,7 +1269,7 @@
     "name": "Decentral Games ICE",
     "symbol": "ICE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c.png"
   },
   {
     "network": "polygon",
@@ -1277,7 +1277,7 @@
     "name": "NACHO",
     "symbol": "NACHO",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xcD86152047e800d67BDf00A4c635A8B6C0e5C4c2.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xcD86152047e800d67BDf00A4c635A8B6C0e5C4c2.png"
   },
   {
     "network": "polygon",
@@ -1285,7 +1285,7 @@
     "name": "RaiderToken",
     "symbol": "RAIDER",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3.png"
   },
   {
     "network": "polygon",
@@ -1293,7 +1293,7 @@
     "name": "GAMEE",
     "symbol": "GMEE",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7.png"
   },
   {
     "network": "polygon",
@@ -1301,7 +1301,7 @@
     "name": "VOXEL Token",
     "symbol": "VOXEL",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F.png"
   },
   {
     "network": "polygon",
@@ -1309,7 +1309,7 @@
     "name": "Dark Matter Token (PoS)",
     "symbol": "DMT",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xd28449BB9bB659725aCcAd52947677ccE3719fD7.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xd28449BB9bB659725aCcAd52947677ccE3719fD7.png"
   },
   {
     "network": "polygon",
@@ -1317,7 +1317,7 @@
     "name": "Chain Games",
     "symbol": "CHAIN",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509.png"
   },
   {
     "network": "polygon",
@@ -1325,7 +1325,7 @@
     "name": "Governance OHM",
     "symbol": "gOHM",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195.png"
   },
   {
     "network": "polygon",
@@ -1333,7 +1333,7 @@
     "name": "Wrapped SOL",
     "symbol": "SOL",
     "decimals": 9,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xd93f7E271cB87c23AaA73edC008A79646d1F9912.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xd93f7E271cB87c23AaA73edC008A79646d1F9912.png"
   },
   {
     "network": "polygon",
@@ -1341,7 +1341,7 @@
     "name": "Iris",
     "symbol": "IRIS",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xdaB35042e63E93Cc8556c9bAE482E5415B5Ac4B1.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xdaB35042e63E93Cc8556c9bAE482E5415B5Ac4B1.png"
   },
   {
     "network": "polygon",
@@ -1349,7 +1349,7 @@
     "name": "GET Protocol (PoS)",
     "symbol": "GET",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4.png"
   },
   {
     "network": "polygon",
@@ -1357,7 +1357,7 @@
     "name": "Rebel Bots Token",
     "symbol": "RBLS",
     "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB.png"
   },
   {
     "network": "polygon",
@@ -1365,7 +1365,7 @@
     "name": "PartyFinance",
     "symbol": "pFi",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xe46B4A950c389e80621d10Dfc398e91613C7e25E.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xe46B4A950c389e80621d10Dfc398e91613C7e25E.png"
   },
   {
     "network": "polygon",
@@ -1373,7 +1373,7 @@
     "name": "Matic ABBC",
     "symbol": "MABBC",
     "decimals": 8,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
   },
   {
     "network": "polygon",
@@ -1381,7 +1381,7 @@
     "name": "Elk",
     "symbol": "ELK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
   },
   {
     "network": "polygon",
@@ -1389,7 +1389,7 @@
     "name": "MCHCoin (PoS)",
     "symbol": "MCHC",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9.png"
   },
   {
     "network": "polygon",
@@ -1397,7 +1397,7 @@
     "name": "Decentral Games (PoS)",
     "symbol": "DG",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xef938b6da8576a896f6E0321ef80996F4890f9c4.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xef938b6da8576a896f6E0321ef80996F4890f9c4.png"
   },
   {
     "network": "polygon",
@@ -1405,7 +1405,7 @@
     "name": "GEOPOLY",
     "symbol": "GEO$",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xf1428850f92B87e629c6f3A3B75BffBC496F7Ba6.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xf1428850f92B87e629c6f3A3B75BffBC496F7Ba6.png"
   },
   {
     "network": "polygon",
@@ -1413,7 +1413,7 @@
     "name": "GoBlank Token (PoS)",
     "symbol": "BLANK",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435.png"
   },
   {
     "network": "polygon",
@@ -1421,7 +1421,7 @@
     "name": "Instadapp (PoS)",
     "symbol": "INST",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xf50D05A1402d0adAfA880D36050736f9f6ee7dee.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xf50D05A1402d0adAfA880D36050736f9f6ee7dee.png"
   },
   {
     "network": "polygon",
@@ -1429,7 +1429,7 @@
     "name": "Liquid Staking Matic (PoS)",
     "symbol": "MaticX",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6.png"
   },
   {
     "network": "polygon",
@@ -1437,7 +1437,7 @@
     "name": "CelsiusX Wrapped ETH",
     "symbol": "cxETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9.png"
   },
   {
     "network": "polygon",
@@ -1445,6 +1445,6 @@
     "name": "Metaverse Index (PoS)",
     "symbol": "MVI",
     "decimals": 18,
-    "logoURI": "https://token-assets.chipay.app/blockchain/polygon/0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1.png"
+    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1.png"
   }
 ]
