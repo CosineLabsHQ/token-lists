@@ -25,22 +25,6 @@
   },
   {
     "network": "base",
-    "address": "0x081AD949deFe648774C3B8deBe0E4F28a80716dc",
-    "name": "Horizon",
-    "symbol": "HZN",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x081AD949deFe648774C3B8deBe0E4F28a80716dc.png"
-  },
-  {
-    "network": "base",
-    "address": "0x0bf0bA3962a189d56F358143f38b7Ffd26B8D48F",
-    "name": "BaseTools",
-    "symbol": "BASE",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x0bf0bA3962a189d56F358143f38b7Ffd26B8D48F.png"
-  },
-  {
-    "network": "base",
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "name": "Axelar",
     "symbol": "AXL",
@@ -78,14 +62,6 @@
     "symbol": "RCKT",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09.png"
-  },
-  {
-    "network": "base",
-    "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
-    "name": "Axelar Wrapped USDT",
-    "symbol": "axlUSDT",
-    "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/base/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.png"
   },
   {
     "network": "base",

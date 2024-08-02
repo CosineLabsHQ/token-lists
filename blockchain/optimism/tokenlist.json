@@ -225,14 +225,6 @@
   },
   {
     "network": "optimism",
-    "address": "0xAe31207aC34423C41576Ff59BFB4E036150f9cF7",
-    "name": "Saddle DAO",
-    "symbol": "SDL",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xAe31207aC34423C41576Ff59BFB4E036150f9cF7.png"
-  },
-  {
-    "network": "optimism",
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "name": "BOB",
     "symbol": "BOB",
@@ -286,14 +278,6 @@
     "symbol": "MAI",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xdFA46478F9e5EA86d57387849598dbFB2e964b02.png"
-  },
-  {
-    "network": "optimism",
-    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-    "name": "Elk",
-    "symbol": "ELK",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
   },
   {
     "network": "optimism",

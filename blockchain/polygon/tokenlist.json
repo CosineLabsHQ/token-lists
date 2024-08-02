@@ -49,14 +49,6 @@
   },
   {
     "network": "polygon",
-    "address": "0xb0897686c545045aFc77CF20eC7A532E3120E0F1",
-    "name": "ChainLink Token",
-    "symbol": "LINK",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xb0897686c545045aFc77CF20eC7A532E3120E0F1.png"
-  },
-  {
-    "network": "polygon",
     "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
     "name": "ChainLink Token",
     "symbol": "LINK.e",
@@ -665,14 +657,6 @@
   },
   {
     "network": "polygon",
-    "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
-    "name": "Wrapped UST Token (PoS)",
-    "symbol": "UST",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x692597b009d13C4049a947CAB2239b7d6517875F.png"
-  },
-  {
-    "network": "polygon",
     "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
     "name": "Nitro (PoS)",
     "symbol": "NITRO",
@@ -718,14 +702,6 @@
     "symbol": "OMEN",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
-    "name": "Open Exchange Token",
-    "symbol": "OX",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f.png"
   },
   {
     "network": "polygon",
@@ -998,14 +974,6 @@
     "symbol": "RISE",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xC17c30e98541188614dF99239cABD40280810cA3.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
-    "name": "STAR",
-    "symbol": "STAR",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xC19669A405067927865B40Ea045a2baabbbe57f5.png"
   },
   {
     "network": "polygon",
@@ -1438,13 +1406,5 @@
     "symbol": "cxETH",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1",
-    "name": "Metaverse Index (PoS)",
-    "symbol": "MVI",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/polygon/0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1.png"
   }
 ]
