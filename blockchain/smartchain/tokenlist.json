@@ -17,19 +17,19 @@
   },
   {
     "network": "smartchain",
-    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-    "name": "PancakeSwap Token",
-    "symbol": "Cake",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
-  },
-  {
-    "network": "smartchain",
     "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
     "name": "Binance-Peg USD Coin",
     "symbol": "USDC",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "name": "PancakeSwap Token",
+    "symbol": "Cake",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
   },
   {
     "network": "smartchain",
@@ -209,14 +209,6 @@
   },
   {
     "network": "smartchain",
-    "address": "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
-    "name": "bDollar Share",
-    "symbol": "sBDO",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740.png"
-  },
-  {
-    "network": "smartchain",
     "address": "0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79",
     "name": "MoonMoon",
     "symbol": "MOONMOON",
@@ -286,14 +278,6 @@
     "symbol": "vXVS",
     "decimals": 8,
     "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x151B1e2635A717bcDc836ECd6FbB62B674FE3E1D.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0x1610bc33319e9398de5f57B33a5b184c806aD217",
-    "name": "Venus DOT",
-    "symbol": "vDOT",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x1610bc33319e9398de5f57B33a5b184c806aD217.png"
   },
   {
     "network": "smartchain",
@@ -953,14 +937,6 @@
   },
   {
     "network": "smartchain",
-    "address": "0x57A5297F2cB2c0AaC9D554660acd6D385Ab50c6B",
-    "name": "Venus LTC",
-    "symbol": "vLTC",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x57A5297F2cB2c0AaC9D554660acd6D385Ab50c6B.png"
-  },
-  {
-    "network": "smartchain",
     "address": "0x58d372A8db7696C0C066F25c9eAF2AF6F147B726",
     "name": "Tsukiverse: Galactic Adventures",
     "symbol": "TSUGA",
@@ -998,14 +974,6 @@
     "symbol": "PDO",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x5BCcFbd33873A5498F8406146868eDdd5E998962.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0x5F0388EBc2B94FA8E123F404b79cCF5f40b29176",
-    "name": "Venus BCH",
-    "symbol": "vBCH",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x5F0388EBc2B94FA8E123F404b79cCF5f40b29176.png"
   },
   {
     "network": "smartchain",
@@ -1070,14 +1038,6 @@
     "symbol": "bLEO",
     "decimals": 3,
     "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x6421531AF54C7B14Ea805719035EBf1e3661c44A.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0x650b940a1033B8A1b1873f78730FcFC73ec11f1f",
-    "name": "Venus LINK",
-    "symbol": "vLINK",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x650b940a1033B8A1b1873f78730FcFC73ec11f1f.png"
   },
   {
     "network": "smartchain",
@@ -1449,14 +1409,6 @@
   },
   {
     "network": "smartchain",
-    "address": "0x8597ba143AC509189E89aaB3BA28d661A5dD9830",
-    "name": "VANCAT Token",
-    "symbol": "VANCAT",
-    "decimals": 0,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x8597ba143AC509189E89aaB3BA28d661A5dD9830.png"
-  },
-  {
-    "network": "smartchain",
     "address": "0x85c128eE1feEb39A59490c720A9C563554B51D33",
     "name": "MoMo KEY",
     "symbol": "KEY",
@@ -1697,14 +1649,6 @@
   },
   {
     "network": "smartchain",
-    "address": "0x972207A639CC1B374B893cc33Fa251b55CEB7c07",
-    "name": "Venus BETH",
-    "symbol": "vBETH",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0x972207A639CC1B374B893cc33Fa251b55CEB7c07.png"
-  },
-  {
-    "network": "smartchain",
     "address": "0x97a30C692eCe9C317235d48287d23d358170FC40",
     "name": "CryptEx Token",
     "symbol": "CRX",
@@ -1838,14 +1782,6 @@
     "symbol": "FRM",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0xA719b8aB7EA7AF0DDb4358719a34631bb79d15Dc.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0xA72a0564d0e887123112e6A4DC1abA7611Ad861d",
-    "name": "FEB Token",
-    "symbol": "FEB",
-    "decimals": 0,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0xA72a0564d0e887123112e6A4DC1abA7611Ad861d.png"
   },
   {
     "network": "smartchain",
@@ -2382,14 +2318,6 @@
     "symbol": "PEFI",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0xa83Bfcf9E252Adf1F39937984A4E113Eda6E445b.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0xa865197A84E780957422237B5D152772654341F3",
-    "name": "OpenLeverage",
-    "symbol": "OLE",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0xa865197A84E780957422237B5D152772654341F3.png"
   },
   {
     "network": "smartchain",
@@ -2982,14 +2910,6 @@
     "symbol": "BGOV",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0xf8E026dC4C0860771f691EcFFBbdfe2fa51c77CF.png"
-  },
-  {
-    "network": "smartchain",
-    "address": "0xf91d58b5aE142DAcC749f58A49FCBac340Cb0343",
-    "name": "Venus FIL",
-    "symbol": "vFIL",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/smartchain/0xf91d58b5aE142DAcC749f58A49FCBac340Cb0343.png"
   },
   {
     "network": "smartchain",

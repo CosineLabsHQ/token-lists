@@ -161,14 +161,6 @@
   },
   {
     "network": "arbitrum",
-    "address": "0x417a1aFD44250314BffB11ff68E989775e990ab6",
-    "name": "Volta Protocol Token",
-    "symbol": "VOLTA",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0x417a1aFD44250314BffB11ff68E989775e990ab6.png"
-  },
-  {
-    "network": "arbitrum",
     "address": "0x55fF62567f09906A85183b866dF84bf599a4bf70",
     "name": "Kromatika",
     "symbol": "KROM",
@@ -241,14 +233,6 @@
   },
   {
     "network": "arbitrum",
-    "address": "0x965F298E4ade51C0b0bB24e3369deB6C7D5b3951",
-    "name": "AutoDCA",
-    "symbol": "DCA",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0x965F298E4ade51C0b0bB24e3369deB6C7D5b3951.png"
-  },
-  {
-    "network": "arbitrum",
     "address": "0x9E758B8a98a42d612b3D38B66a22074DC03D7370",
     "name": "Symbiosis",
     "symbol": "SIS",
@@ -294,14 +278,6 @@
     "symbol": "MYC",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe.png"
-  },
-  {
-    "network": "arbitrum",
-    "address": "0xD5eBD23D5eb968c2efbA2B03F27Ee61718609A71",
-    "name": "Unbound",
-    "symbol": "UNB",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0xD5eBD23D5eb968c2efbA2B03F27Ee61718609A71.png"
   },
   {
     "network": "arbitrum",
@@ -353,30 +329,6 @@
   },
   {
     "network": "arbitrum",
-    "address": "0xcAB86F6Fb6d1C2cBeeB97854A0C023446A075Fe3",
-    "name": "deBridge Ether",
-    "symbol": "deETH",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0xcAB86F6Fb6d1C2cBeeB97854A0C023446A075Fe3.png"
-  },
-  {
-    "network": "arbitrum",
-    "address": "0xcFe3FBc98D80f7Eca0bC76cD1F406A19dD425896",
-    "name": "Scalara NFT Index",
-    "symbol": "NFTI",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0xcFe3FBc98D80f7Eca0bC76cD1F406A19dD425896.png"
-  },
-  {
-    "network": "arbitrum",
-    "address": "0xdA51015b73cE11F77A115Bb1b8a7049e02dDEcf0",
-    "name": "Neutra Token",
-    "symbol": "NEU",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0xdA51015b73cE11F77A115Bb1b8a7049e02dDEcf0.png"
-  },
-  {
-    "network": "arbitrum",
     "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
     "name": "USD+",
     "symbol": "USD+",
@@ -390,22 +342,6 @@
     "symbol": "ELK",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
-  },
-  {
-    "network": "arbitrum",
-    "address": "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8",
-    "name": "DAI+",
-    "symbol": "DAI+",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8.png"
-  },
-  {
-    "network": "arbitrum",
-    "address": "0xf0a562BEe81f674E0c5486C9716060f4cD5Ef944",
-    "name": "Unbound Dollar",
-    "symbol": "UND",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/arbitrum/0xf0a562BEe81f674E0c5486C9716060f4cD5Ef944.png"
   },
   {
     "network": "arbitrum",

@@ -169,14 +169,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
-    "name": "BarnBridge Governance Token",
-    "symbol": "BOND",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x0391D2021f89DC339F60Fff84546EA23E337750f.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
     "name": "Capsule Coin",
     "symbol": "CAPS",
@@ -198,14 +190,6 @@
     "symbol": "SRK",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x04Aa51bbcB46541455cCF1B8bef2ebc5d3787EC9",
-    "name": "iearn wBTC",
-    "symbol": "yWTBC",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x04Aa51bbcB46541455cCF1B8bef2ebc5d3787EC9.png"
   },
   {
     "network": "ethereum",
@@ -326,14 +310,6 @@
     "symbol": "INDEX",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x0954906da0Bf32d5479e25f46056d22f08464cab.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
-    "name": "Wrapped MIR Token",
-    "symbol": "MIR",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x09a3EcAFa817268f77BE1283176B946C4ff2E608.png"
   },
   {
     "network": "ethereum",
@@ -593,14 +569,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-    "name": "DefiPulse Index",
-    "symbol": "DPI",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559",
     "name": "EDEN",
     "symbol": "EDEN",
@@ -833,14 +801,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18",
-    "name": "Verse",
-    "symbol": "VERSE",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x249cA82617eC3DfB2589c4c17ab7EC9765350a18.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B",
     "name": "THE TRUTH",
     "symbol": "UFO",
@@ -937,14 +897,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
-    "name": "BlitzPredict",
-    "symbol": "XBP",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
     "name": "PolkaBridge",
     "symbol": "PBR",
@@ -1001,14 +953,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
-    "name": "Bankless BED Index",
-    "symbol": "BED",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
     "name": "Cream",
     "symbol": "CREAM",
@@ -1062,14 +1006,6 @@
     "symbol": "SD",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x30D20208d987713f46DFD34EF128Bb16C404D10f.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x30dcBa0405004cF124045793E1933C798Af9E66a",
-    "name": "Yieldification",
-    "symbol": "YDF",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x30dcBa0405004cF124045793E1933C798Af9E66a.png"
   },
   {
     "network": "ethereum",
@@ -1174,14 +1110,6 @@
     "symbol": "VEE",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x341c05c0E9b33C0E38d64de76516b2Ce970bB3BE",
-    "name": "Diversified Staked ETH Index (dsETH)",
-    "symbol": "dsETH",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x341c05c0E9b33C0E38d64de76516b2Ce970bB3BE.png"
   },
   {
     "network": "ethereum",
@@ -1305,14 +1233,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0x36c833Eed0D376f75D1ff9dFDeE260191336065e",
-    "name": "Gitcoin Staked ETH Index (gtcETH)",
-    "symbol": "gtcETH",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x36c833Eed0D376f75D1ff9dFDeE260191336065e.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x374CB8C27130E2c9E04F44303f3c8351B9De61C1",
     "name": "BaoToken",
     "symbol": "BAO",
@@ -1342,14 +1262,6 @@
     "symbol": "CVP",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
-    "name": "Seigniorage Shares",
-    "symbol": "SHARE",
-    "decimals": 9,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D.png"
   },
   {
     "network": "ethereum",
@@ -1497,27 +1409,11 @@
   },
   {
     "network": "ethereum",
-    "address": "0x4156D3342D5c385a87D264F90653733592000581",
-    "name": "Salt",
-    "symbol": "SALT",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x4156D3342D5c385a87D264F90653733592000581.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
     "name": "FunFair",
     "symbol": "FUN",
     "decimals": 8,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
-    "name": "Inverse DAO",
-    "symbol": "INV",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68.png"
   },
   {
     "network": "ethereum",
@@ -2201,14 +2097,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5",
-    "name": "Clearpool",
-    "symbol": "CPOOL",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6",
     "name": "Wise Token",
     "symbol": "WISE",
@@ -2505,14 +2393,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
-    "name": "Metaverse Index",
-    "symbol": "MVI",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0x72e9D9038cE484EE986FEa183f8d8Df93f9aDA13",
     "name": "SMARTCREDIT Token",
     "symbol": "SMARTCREDIT",
@@ -2670,14 +2550,6 @@
     "symbol": "SHOPX",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x7C07F7aBe10CE8e33DC6C5aD68FE033085256A84",
-    "name": "Interest Compounding ETH Index",
-    "symbol": "icETH",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x7C07F7aBe10CE8e33DC6C5aD68FE033085256A84.png"
   },
   {
     "network": "ethereum",
@@ -2902,14 +2774,6 @@
     "symbol": "DOLA",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x865377367054516e17014CcdED1e7d814EDC9ce4.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x86B4dBE5D203e634a12364C0e428fa242A3FbA98",
-    "name": "poundtoken",
-    "symbol": "GBPT",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x86B4dBE5D203e634a12364C0e428fa242A3FbA98.png"
   },
   {
     "network": "ethereum",
@@ -3166,14 +3030,6 @@
     "symbol": "FEI",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x956F47F50A910163D8BF957Cf5846D573E7f87CA.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
-    "name": "APY Governance Token",
-    "symbol": "APY",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0x95a4492F028aa1fd432Ea71146b433E7B4446611.png"
   },
   {
     "network": "ethereum",
@@ -3502,14 +3358,6 @@
     "symbol": "PAWTH",
     "decimals": 9,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xAEcc217a749c2405b5ebC9857a16d58Bdc1c367F.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0xAa4e3edb11AFa93c41db59842b29de64b72E355B",
-    "name": "MarginSwap",
-    "symbol": "MFI",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xAa4e3edb11AFa93c41db59842b29de64b72E355B.png"
   },
   {
     "network": "ethereum",
@@ -3862,14 +3710,6 @@
     "symbol": "SWAP",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
-    "name": "Smooth Love Potion",
-    "symbol": "SLP",
-    "decimals": 0,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25.png"
   },
   {
     "network": "ethereum",
@@ -4289,14 +4129,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
-    "name": "DxSale.Network",
-    "symbol": "SALE",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0xF0d33BeDa4d734C72684b5f9abBEbf715D0a7935",
     "name": "NuNet Utility Token",
     "symbol": "NTX",
@@ -4374,14 +4206,6 @@
     "symbol": "ENJ",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
-    "name": "Yield",
-    "symbol": "YLD",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xF94b5C5651c888d928439aB6514B93944eEE6F48.png"
   },
   {
     "network": "ethereum",
@@ -4505,14 +4329,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
-    "name": "Digital Reserve Currency",
-    "symbol": "DRC",
-    "decimals": 0,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
     "name": "YFII.finance",
     "symbol": "YFII",
@@ -4609,14 +4425,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0xa8B61CfF52564758A204F841E636265bEBC8db9B",
-    "name": "Yield Protocol",
-    "symbol": "YIELD",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xa8B61CfF52564758A204F841E636265bEBC8db9B.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
     "name": "NOIA Token",
     "symbol": "NOIA",
@@ -4646,14 +4454,6 @@
     "symbol": "POLC",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
-    "name": "Monolith TKN",
-    "symbol": "TKN",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a.png"
   },
   {
     "network": "ethereum",
@@ -5017,14 +4817,6 @@
   },
   {
     "network": "ethereum",
-    "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
-    "name": "OMGToken",
-    "symbol": "OMG",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07.png"
-  },
-  {
-    "network": "ethereum",
     "address": "0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9",
     "name": "Symbiosis",
     "symbol": "SIS",
@@ -5110,14 +4902,6 @@
     "symbol": "KARMA",
     "decimals": 4,
     "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xdfe691F37b6264a90Ff507EB359C45d55037951C.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0xe063F04f280c60aECa68b38341C2eEcBeC703ae2",
-    "name": "Leveraged ETH",
-    "symbol": "xETH",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/ethereum/0xe063F04f280c60aECa68b38341C2eEcBeC703ae2.png"
   },
   {
     "network": "ethereum",

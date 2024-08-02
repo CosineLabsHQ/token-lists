@@ -1,7 +1,7 @@
 [
   {
     "network": "avalanche",
-    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
     "name": "Wrapped AVAX",
     "symbol": "WAVAX",
     "decimals": 18,
@@ -9,7 +9,7 @@
   },
   {
     "network": "avalanche",
-    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
     "name": "Avalanche Bridge: WETH.e",
     "symbol": "WETH.e",
     "decimals": 18,
@@ -17,7 +17,7 @@
   },
   {
     "network": "avalanche",
-    "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+    "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
     "name": "Avalanche Bridge: WBTC.e",
     "symbol": "WBTC.e",
     "decimals": 8,
@@ -25,7 +25,7 @@
   },
   {
     "network": "avalanche",
-    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
     "name": "Tether: USDT Token",
     "symbol": "USDt",
     "decimals": 6,
@@ -33,7 +33,7 @@
   },
   {
     "network": "avalanche",
-    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
     "name": "Avalanche Bridge: USDT.e",
     "symbol": "USDT.e",
     "decimals": 6,
@@ -49,7 +49,7 @@
   },
   {
     "network": "avalanche",
-    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
     "name": "Avalanche Bridge: USDC.e",
     "symbol": "USDC.e",
     "decimals": 6,
@@ -57,7 +57,7 @@
   },
   {
     "network": "avalanche",
-    "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+    "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
     "name": "Avalanche Bridge: Dai.e",
     "symbol": "DAI.e",
     "decimals": 18,
@@ -65,7 +65,7 @@
   },
   {
     "network": "avalanche",
-    "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+    "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
     "name": "Aave Token: AAVE.e Token",
     "symbol": "AAVE.e",
     "decimals": 18,
@@ -73,7 +73,7 @@
   },
   {
     "network": "avalanche",
-    "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+    "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
     "name": "Avalanche Bridge: SushiToken",
     "symbol": "SUSHI.e",
     "decimals": 18,
@@ -145,14 +145,6 @@
   },
   {
     "network": "avalanche",
-    "address": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
-    "name": "VNX Franc",
-    "symbol": "VCHF",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19.png"
-  },
-  {
-    "network": "avalanche",
     "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
     "name": "Platypus",
     "symbol": "PTP",
@@ -166,14 +158,6 @@
     "symbol": "POPS",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0x28690ec942671aC8d9Bc442B667EC338eDE6dFd3",
-    "name": "deBridge USD Coin",
-    "symbol": "deUSDC",
-    "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x28690ec942671aC8d9Bc442B667EC338eDE6dFd3.png"
   },
   {
     "network": "avalanche",
@@ -326,14 +310,6 @@
     "symbol": "TIC",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x75739a693459f33B1FBcC02099eea3eBCF150cBe.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b",
-    "name": "VNX Euro",
-    "symbol": "VEUR",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b.png"
   },
   {
     "network": "avalanche",
@@ -582,14 +558,6 @@
     "symbol": "XAVA",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6",
-    "name": "Frozen Walrus Share",
-    "symbol": "WSHARE",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6.png"
   },
   {
     "network": "avalanche",

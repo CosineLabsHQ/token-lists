@@ -89,14 +89,6 @@
   },
   {
     "network": "fantom",
-    "address": "0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05",
-    "name": "Gelato Network Token",
-    "symbol": "GEL",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05.png"
-  },
-  {
-    "network": "fantom",
     "address": "0x1D1764F04DE29da6b90ffBef372D1A45596C4855",
     "name": "MIMO Parallel Governance Token",
     "symbol": "MIMO",
@@ -206,14 +198,6 @@
     "symbol": "SUPA",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x59D07a115fe3FFe5db3D52029D43Cc0ef5e9ba08.png"
-  },
-  {
-    "network": "fantom",
-    "address": "0x59c6606ED2AF925F270733e378D6aF7829B5b3cf",
-    "name": "War Bond Token",
-    "symbol": "WBOND",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x59c6606ED2AF925F270733e378D6aF7829B5b3cf.png"
   },
   {
     "network": "fantom",
@@ -454,22 +438,6 @@
     "symbol": "RAINI",
     "decimals": 18,
     "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xe83dFaaAfd3310474D917583Ae9633B4f68fB036.png"
-  },
-  {
-    "network": "fantom",
-    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-    "name": "Elk",
-    "symbol": "ELK",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
-  },
-  {
-    "network": "fantom",
-    "address": "0xfB4D42BEd5618fb1a377DDB64EB56B92a6d117f2",
-    "name": "NOKU v2",
-    "symbol": "NOKU",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xfB4D42BEd5618fb1a377DDB64EB56B92a6d117f2.png"
   },
   {
     "network": "fantom",
