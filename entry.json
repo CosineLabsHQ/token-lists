@@ -1,76 +1,76 @@
 {
-  "name": "ChiPay Token Lists",
+  "name": "Cosine Token Lists",
   "blockchain": {
     "arbitrum": {
       "info": {
-        "logo": "https://token-assets.chipay.app/blockchain/arbitrum/logo.png",
-        "summary": "https://token-lists.chipay.app/blockchain/arbitrum/info.json"
+        "logo": "https://token-assets.getcosine.app/blockchain/arbitrum/logo.png",
+        "summary": "https://token-lists.getcosine.app/blockchain/arbitrum/info.json"
       },
       "tokenlist": {
-        "main": "https://token-lists.chipay.app/blockchain/arbitrum/tokenlist.json"
+        "main": "https://token-lists.getcosine.app/blockchain/arbitrum/tokenlist.json"
       }
     },
     "avalanche": {
       "info": {
-        "logo": "https://token-assets.chipay.app/blockchain/avalanche/logo.png",
-        "summary": "https://token-lists.chipay.app/blockchain/avalanche/info.json"
+        "logo": "https://token-assets.getcosine.app/blockchain/avalanche/logo.png",
+        "summary": "https://token-lists.getcosine.app/blockchain/avalanche/info.json"
       },
       "tokenlist": {
-        "main": "https://token-lists.chipay.app/blockchain/avalanche/tokenlist.json"
+        "main": "https://token-lists.getcosine.app/blockchain/avalanche/tokenlist.json"
       }
     },
     "base": {
       "info": {
-        "logo": "https://token-assets.chipay.app/blockchain/base/logo.png",
-        "summary": "https://token-lists.chipay.app/blockchain/base/info.json"
+        "logo": "https://token-assets.getcosine.app/blockchain/base/logo.png",
+        "summary": "https://token-lists.getcosine.app/blockchain/base/info.json"
       },
       "tokenlist": {
-        "main": "https://token-lists.chipay.app/blockchain/base/tokenlist.json"
+        "main": "https://token-lists.getcosine.app/blockchain/base/tokenlist.json"
       }
     },
     "ethereum": {
       "info": {
-        "logo": "https://token-assets.chipay.app/blockchain/ethereum/logo.png",
-        "summary": "https://token-lists.chipay.app/blockchain/ethereum/info.json"
+        "logo": "https://token-assets.getcosine.app/blockchain/ethereum/logo.png",
+        "summary": "https://token-lists.getcosine.app/blockchain/ethereum/info.json"
       },
       "tokenlist": {
-        "main": "https://token-lists.chipay.app/blockchain/ethereum/tokenlist.json"
+        "main": "https://token-lists.getcosine.app/blockchain/ethereum/tokenlist.json"
       }
     },
     "fantom": {
       "info": {
-        "logo": "https://token-assets.chipay.app/blockchain/fantom/logo.png",
-        "summary": "https://token-lists.chipay.app/blockchain/fantom/info.json"
+        "logo": "https://token-assets.getcosine.app/blockchain/fantom/logo.png",
+        "summary": "https://token-lists.getcosine.app/blockchain/fantom/info.json"
       },
       "tokenlist": {
-        "main": "https://token-lists.chipay.app/blockchain/fantom/tokenlist.json"
+        "main": "https://token-lists.getcosine.app/blockchain/fantom/tokenlist.json"
       }
     },
     "optimism": {
       "info": {
-        "logo": "https://token-assets.chipay.app/blockchain/optimism/logo.png",
-        "summary": "https://token-lists.chipay.app/blockchain/optimism/info.json"
+        "logo": "https://token-assets.getcosine.app/blockchain/optimism/logo.png",
+        "summary": "https://token-lists.getcosine.app/blockchain/optimism/info.json"
       },
       "tokenlist": {
-        "main": "https://token-lists.chipay.app/blockchain/optimism/tokenlist.json"
+        "main": "https://token-lists.getcosine.app/blockchain/optimism/tokenlist.json"
       }
     },
     "polygon": {
       "info": {
-        "logo": "https://token-assets.chipay.app/blockchain/polygon/logo.png",
-        "summary": "https://token-lists.chipay.app/blockchain/polygon/info.json"
+        "logo": "https://token-assets.getcosine.app/blockchain/polygon/logo.png",
+        "summary": "https://token-lists.getcosine.app/blockchain/polygon/info.json"
       },
       "tokenlist": {
-        "main": "https://token-lists.chipay.app/blockchain/polygon/tokenlist.json"
+        "main": "https://token-lists.getcosine.app/blockchain/polygon/tokenlist.json"
       }
     },
     "smartchain": {
       "info": {
-        "logo": "https://token-assets.chipay.app/blockchain/smartchain/logo.png",
-        "summary": "https://token-lists.chipay.app/blockchain/smartchain/info.json"
+        "logo": "https://token-assets.getcosine.app/blockchain/smartchain/logo.png",
+        "summary": "https://token-lists.getcosine.app/blockchain/smartchain/info.json"
       },
       "tokenlist": {
-        "main": "https://token-lists.chipay.app/blockchain/smartchain/tokenlist.json"
+        "main": "https://token-lists.getcosine.app/blockchain/smartchain/tokenlist.json"
       }
     }
   }

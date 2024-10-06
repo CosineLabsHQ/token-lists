@@ -5,7 +5,7 @@
     "name": "Wrapped Fantom",
     "symbol": "WFTM",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
   },
   {
     "network": "fantom",
@@ -13,7 +13,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x695921034f0387eAc4e11620EE91b1b15A6A09fE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x695921034f0387eAc4e11620EE91b1b15A6A09fE.png"
   },
   {
     "network": "fantom",
@@ -21,7 +21,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf.png"
   },
   {
     "network": "fantom",
@@ -29,7 +29,7 @@
     "name": "IronBank",
     "symbol": "IB",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x00a35FD824c717879BF370E70AC6868b95870Dfb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x00a35FD824c717879BF370E70AC6868b95870Dfb.png"
   },
   {
     "network": "fantom",
@@ -37,7 +37,7 @@
     "name": "MUMMY",
     "symbol": "MMY",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x01e77288b38b416F972428d562454fb329350bAc.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x01e77288b38b416F972428d562454fb329350bAc.png"
   },
   {
     "network": "fantom",
@@ -45,7 +45,7 @@
     "name": "CoffinDollar",
     "symbol": "CoUSD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x0DeF844ED26409C5C46dda124ec28fb064D90D27.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x0DeF844ED26409C5C46dda124ec28fb064D90D27.png"
   },
   {
     "network": "fantom",
@@ -53,7 +53,7 @@
     "name": "Hundred Finance",
     "symbol": "HND",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x10010078a54396F62c96dF8532dc2B4847d47ED3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x10010078a54396F62c96dF8532dc2B4847d47ED3.png"
   },
   {
     "network": "fantom",
@@ -61,7 +61,7 @@
     "name": "Liquid Driver",
     "symbol": "LQDR",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9.png"
   },
   {
     "network": "fantom",
@@ -69,7 +69,7 @@
     "name": "pFTM",
     "symbol": "pFTM",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x112dF7E3b4B7Ab424F07319D4E92F41e6608c48B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x112dF7E3b4B7Ab424F07319D4E92F41e6608c48B.png"
   },
   {
     "network": "fantom",
@@ -77,7 +77,7 @@
     "name": "PAR Stablecoin",
     "symbol": "PAR",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x13082681E8CE9bd0aF505912d306403592490Fc7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x13082681E8CE9bd0aF505912d306403592490Fc7.png"
   },
   {
     "network": "fantom",
@@ -85,7 +85,7 @@
     "name": "Monster",
     "symbol": "MST",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x152888854378201e173490956085c711f1DeD565.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x152888854378201e173490956085c711f1DeD565.png"
   },
   {
     "network": "fantom",
@@ -93,7 +93,7 @@
     "name": "MIMO Parallel Governance Token",
     "symbol": "MIMO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x1D1764F04DE29da6b90ffBef372D1A45596C4855.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x1D1764F04DE29da6b90ffBef372D1A45596C4855.png"
   },
   {
     "network": "fantom",
@@ -101,7 +101,7 @@
     "name": "Fantom Doge",
     "symbol": "RIP",
     "decimals": 9,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x1D43697D67cB5D0436cc38d583Ca473a1bFEbC7a.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x1D43697D67cB5D0436cc38d583Ca473a1bFEbC7a.png"
   },
   {
     "network": "fantom",
@@ -109,7 +109,7 @@
     "name": "DexBrowser",
     "symbol": "BRO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x230576a0455d7Ae33c6dEfE64182C0BB68bAFAF3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x230576a0455d7Ae33c6dEfE64182C0BB68bAFAF3.png"
   },
   {
     "network": "fantom",
@@ -117,7 +117,7 @@
     "name": "Charm Token",
     "symbol": "CHARM",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x248CB87DDA803028dfeaD98101C9465A2fbdA0d4.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x248CB87DDA803028dfeaD98101C9465A2fbdA0d4.png"
   },
   {
     "network": "fantom",
@@ -125,7 +125,7 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
   },
   {
     "network": "fantom",
@@ -133,7 +133,7 @@
     "name": "LIQR",
     "symbol": "LIQR",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x33333ee26a7d02e41c33828B42Fb1E0889143477.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x33333ee26a7d02e41c33828B42Fb1E0889143477.png"
   },
   {
     "network": "fantom",
@@ -141,7 +141,7 @@
     "name": "Smart Token",
     "symbol": "SMART",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x34D33dc8Ac6f1650D94A7E9A972B47044217600b.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x34D33dc8Ac6f1650D94A7E9A972B47044217600b.png"
   },
   {
     "network": "fantom",
@@ -149,7 +149,7 @@
     "name": "Equalizer",
     "symbol": "EQUAL",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6.png"
   },
   {
     "network": "fantom",
@@ -157,7 +157,7 @@
     "name": "Yoshi.exchange",
     "symbol": "YOSHI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x3dc57B391262e3aAe37a08D91241f9bA9d58b570.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x3dc57B391262e3aAe37a08D91241f9bA9d58b570.png"
   },
   {
     "network": "fantom",
@@ -165,7 +165,7 @@
     "name": "FANG Token",
     "symbol": "FANG",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x49894fCC07233957c35462cfC3418Ef0CC26129f.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x49894fCC07233957c35462cfC3418Ef0CC26129f.png"
   },
   {
     "network": "fantom",
@@ -173,7 +173,7 @@
     "name": "TSHARE",
     "symbol": "TSHARE",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37.png"
   },
   {
     "network": "fantom",
@@ -181,7 +181,7 @@
     "name": "Spartacus",
     "symbol": "SPA",
     "decimals": 9,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc.png"
   },
   {
     "network": "fantom",
@@ -189,7 +189,7 @@
     "name": "CoffinToken",
     "symbol": "COFFIN",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x593Ab53baFfaF1E821845cf7080428366F030a9c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x593Ab53baFfaF1E821845cf7080428366F030a9c.png"
   },
   {
     "network": "fantom",
@@ -197,7 +197,7 @@
     "name": "SUPA Foundation",
     "symbol": "SUPA",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x59D07a115fe3FFe5db3D52029D43Cc0ef5e9ba08.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x59D07a115fe3FFe5db3D52029D43Cc0ef5e9ba08.png"
   },
   {
     "network": "fantom",
@@ -205,7 +205,7 @@
     "name": "Hector",
     "symbol": "HEC",
     "decimals": 9,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0.png"
   },
   {
     "network": "fantom",
@@ -213,7 +213,7 @@
     "name": "SpiritSwap Token",
     "symbol": "SPIRIT",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x5Cc61A78F164885776AA610fb0FE1257df78E59B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x5Cc61A78F164885776AA610fb0FE1257df78E59B.png"
   },
   {
     "network": "fantom",
@@ -221,7 +221,7 @@
     "name": "Kanpeki",
     "symbol": "KAE",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436.png"
   },
   {
     "network": "fantom",
@@ -229,7 +229,7 @@
     "name": "MPX",
     "symbol": "MPX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x66eEd5FF1701E6ed8470DC391F05e27B1d0657eb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x66eEd5FF1701E6ed8470DC391F05e27B1d0657eb.png"
   },
   {
     "network": "fantom",
@@ -237,7 +237,7 @@
     "name": "TOMB",
     "symbol": "TOMB",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
   },
   {
     "network": "fantom",
@@ -245,7 +245,7 @@
     "name": "TOR",
     "symbol": "TOR",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x74E23dF9110Aa9eA0b6ff2fAEE01e740CA1c642e.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x74E23dF9110Aa9eA0b6ff2fAEE01e740CA1c642e.png"
   },
   {
     "network": "fantom",
@@ -253,7 +253,7 @@
     "name": "Creditum",
     "symbol": "CREDIT",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x77128DFdD0ac859B33F44050c6fa272F34872B5E.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x77128DFdD0ac859B33F44050c6fa272F34872B5E.png"
   },
   {
     "network": "fantom",
@@ -261,7 +261,7 @@
     "name": "2omb Token",
     "symbol": "2OMB",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x7a6e4E3CC2ac9924605DCa4bA31d1831c84b44aE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x7a6e4E3CC2ac9924605DCa4bA31d1831c84b44aE.png"
   },
   {
     "network": "fantom",
@@ -269,7 +269,7 @@
     "name": "PaintSwap Token",
     "symbol": "BRUSH",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
   },
   {
     "network": "fantom",
@@ -277,7 +277,7 @@
     "name": "Ripae",
     "symbol": "PAE",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x8a41f13a4FaE75ca88B1ee726ee9D52B148b0498.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x8a41f13a4FaE75ca88B1ee726ee9D52B148b0498.png"
   },
   {
     "network": "fantom",
@@ -285,7 +285,7 @@
     "name": "DarkMatter",
     "symbol": "DMD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x90E892FED501ae00596448aECF998C88816e5C0F.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x90E892FED501ae00596448aECF998C88816e5C0F.png"
   },
   {
     "network": "fantom",
@@ -293,7 +293,7 @@
     "name": "Governance OHM",
     "symbol": "gOHM",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x91fa20244Fb509e8289CA630E5db3E9166233FDc.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x91fa20244Fb509e8289CA630E5db3E9166233FDc.png"
   },
   {
     "network": "fantom",
@@ -301,7 +301,7 @@
     "name": "Fantom Oasis Token",
     "symbol": "FTMO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0x9bD0611610A0f5133e4dd1bFdd71C5479Ee77f37.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0x9bD0611610A0f5133e4dd1bFdd71C5479Ee77f37.png"
   },
   {
     "network": "fantom",
@@ -309,7 +309,7 @@
     "name": "Tarot",
     "symbol": "TAROT",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xC5e2B037D30a390e62180970B3aa4E91868764cD.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xC5e2B037D30a390e62180970B3aa4E91868764cD.png"
   },
   {
     "network": "fantom",
@@ -317,7 +317,7 @@
     "name": "FantomStarter",
     "symbol": "FS",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xC758295Cd1A564cdb020a78a681a838CF8e0627D.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xC758295Cd1A564cdb020a78a681a838CF8e0627D.png"
   },
   {
     "network": "fantom",
@@ -325,7 +325,7 @@
     "name": "Ankr Staked FTM",
     "symbol": "ankrFTM",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179.png"
   },
   {
     "network": "fantom",
@@ -333,7 +333,7 @@
     "name": "YEL Token",
     "symbol": "YEL",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xD3b71117E6C1558c1553305b44988cd944e97300.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xD3b71117E6C1558c1553305b44988cd944e97300.png"
   },
   {
     "network": "fantom",
@@ -341,7 +341,7 @@
     "name": "ArtWallet",
     "symbol": "1ART",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xD3c325848D7c6E29b574Cb0789998b2ff901f17E.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xD3c325848D7c6E29b574Cb0789998b2ff901f17E.png"
   },
   {
     "network": "fantom",
@@ -349,7 +349,7 @@
     "name": "BeethovenxToken",
     "symbol": "BEETS",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xF24Bcf4d1e507740041C9cFd2DddB29585aDCe1e.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xF24Bcf4d1e507740041C9cFd2DddB29585aDCe1e.png"
   },
   {
     "network": "fantom",
@@ -357,7 +357,7 @@
     "name": "Protofi Token",
     "symbol": "PROTO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xa23c4e69e5Eaf4500F2f9301717f12B578b948FB.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xa23c4e69e5Eaf4500F2f9301717f12B578b948FB.png"
   },
   {
     "network": "fantom",
@@ -365,7 +365,7 @@
     "name": "0xDAO",
     "symbol": "OXD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xc165d941481e68696f43EE6E99BFB2B23E0E3114.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xc165d941481e68696f43EE6E99BFB2B23E0E3114.png"
   },
   {
     "network": "fantom",
@@ -373,7 +373,7 @@
     "name": "Ducat",
     "symbol": "DUCAT",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xc3118248e7A3b2c103D87392Fca5EB6ED8DaA754.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xc3118248e7A3b2c103D87392Fca5EB6ED8DaA754.png"
   },
   {
     "network": "fantom",
@@ -381,7 +381,7 @@
     "name": "2SHARE Token",
     "symbol": "2SHARES",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xc54A1684fD1bef1f077a336E6be4Bd9a3096a6Ca.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xc54A1684fD1bef1f077a336E6be4Bd9a3096a6Ca.png"
   },
   {
     "network": "fantom",
@@ -389,7 +389,7 @@
     "name": "Treeb",
     "symbol": "TREEB",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xc60D7067dfBc6f2caf30523a064f416A5Af52963.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xc60D7067dfBc6f2caf30523a064f416A5Af52963.png"
   },
   {
     "network": "fantom",
@@ -397,7 +397,7 @@
     "name": "sFTMX",
     "symbol": "sFTMX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1.png"
   },
   {
     "network": "fantom",
@@ -405,7 +405,7 @@
     "name": "Geist.Finance Protocol Token",
     "symbol": "GEIST",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xd8321AA83Fb0a4ECd6348D4577431310A6E0814d.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xd8321AA83Fb0a4ECd6348D4577431310A6E0814d.png"
   },
   {
     "network": "fantom",
@@ -413,7 +413,7 @@
     "name": "Scream",
     "symbol": "SCREAM",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475.png"
   },
   {
     "network": "fantom",
@@ -421,7 +421,7 @@
     "name": "Thorstarter Token",
     "symbol": "XRUNE",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xe1e6B01aE86Ad82B1F1B4EB413B219aC32E17Bf6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xe1e6B01aE86Ad82B1F1B4EB413B219aC32E17Bf6.png"
   },
   {
     "network": "fantom",
@@ -429,7 +429,7 @@
     "name": "Fantom ABBC",
     "symbol": "FABBC",
     "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
   },
   {
     "network": "fantom",
@@ -437,7 +437,7 @@
     "name": "Raini",
     "symbol": "RAINI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xe83dFaaAfd3310474D917583Ae9633B4f68fB036.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xe83dFaaAfd3310474D917583Ae9633B4f68fB036.png"
   },
   {
     "network": "fantom",
@@ -445,6 +445,6 @@
     "name": "Fantohm",
     "symbol": "FHM",
     "decimals": 9,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/fantom/0xfa1FBb8Ef55A4855E5688C0eE13aC3f202486286.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/fantom/0xfa1FBb8Ef55A4855E5688C0eE13aC3f202486286.png"
   }
 ]
