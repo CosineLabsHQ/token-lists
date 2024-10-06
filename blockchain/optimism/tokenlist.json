@@ -5,7 +5,7 @@
     "name": "Optimism",
     "symbol": "OP",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x4200000000000000000000000000000000000042.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x4200000000000000000000000000000000000042.png"
   },
   {
     "network": "optimism",
@@ -13,7 +13,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x4200000000000000000000000000000000000006.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x4200000000000000000000000000000000000006.png"
   },
   {
     "network": "optimism",
@@ -21,7 +21,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095.png"
   },
   {
     "network": "optimism",
@@ -29,7 +29,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.png"
   },
   {
     "network": "optimism",
@@ -37,7 +37,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.png"
   },
   {
     "network": "optimism",
@@ -45,7 +45,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85.png"
   },
   {
     "network": "optimism",
@@ -53,7 +53,7 @@
     "name": "USD Coin (Bridged from Ethereum)",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607.png"
   },
   {
     "network": "optimism",
@@ -61,7 +61,7 @@
     "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6.png"
   },
   {
     "network": "optimism",
@@ -69,7 +69,7 @@
     "name": "IronBank",
     "symbol": "IB",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x00a35FD824c717879BF370E70AC6868b95870Dfb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x00a35FD824c717879BF370E70AC6868b95870Dfb.png"
   },
   {
     "network": "optimism",
@@ -77,7 +77,7 @@
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb.png"
   },
   {
     "network": "optimism",
@@ -85,7 +85,7 @@
     "name": "exactly",
     "symbol": "EXA",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x1e925De1c68ef83bD98eE3E130eF14a50309C01B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x1e925De1c68ef83bD98eE3E130eF14a50309C01B.png"
   },
   {
     "network": "optimism",
@@ -93,7 +93,7 @@
     "name": "Thales DAO Token",
     "symbol": "THALES",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x217D47011b23BB961eB6D93cA9945B7501a5BB11.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x217D47011b23BB961eB6D93cA9945B7501a5BB11.png"
   },
   {
     "network": "optimism",
@@ -101,7 +101,7 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97.png"
   },
   {
     "network": "optimism",
@@ -109,7 +109,7 @@
     "name": "USDV",
     "symbol": "USDV",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x323665443CEf804A3b5206103304BD4872EA4253.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x323665443CEf804A3b5206103304BD4872EA4253.png"
   },
   {
     "network": "optimism",
@@ -117,7 +117,7 @@
     "name": "Alchemix ETH",
     "symbol": "alETH",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x3E29D3A9316dAB217754d13b28646B76607c5f04.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x3E29D3A9316dAB217754d13b28646B76607c5f04.png"
   },
   {
     "network": "optimism",
@@ -125,7 +125,7 @@
     "name": "MUMMY",
     "symbol": "MMY",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x47536F17F4fF30e64A96a7555826b8f9e66ec468.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x47536F17F4fF30e64A96a7555826b8f9e66ec468.png"
   },
   {
     "network": "optimism",
@@ -133,7 +133,7 @@
     "name": "Lyra Token",
     "symbol": "LYRA",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
   },
   {
     "network": "optimism",
@@ -141,7 +141,7 @@
     "name": "Aelin Token",
     "symbol": "AELIN",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x61BAADcF22d2565B0F471b291C475db5555e0b76.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x61BAADcF22d2565B0F471b291C475db5555e0b76.png"
   },
   {
     "network": "optimism",
@@ -149,7 +149,7 @@
     "name": "USD+",
     "symbol": "USD+",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x73cb180bf0521828d8849bc8CF2B920918e23032.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x73cb180bf0521828d8849bc8CF2B920918e23032.png"
   },
   {
     "network": "optimism",
@@ -157,7 +157,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x7FB688CCf682d58f86D7e38e03f9D22e7705448B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x7FB688CCf682d58f86D7e38e03f9D22e7705448B.png"
   },
   {
     "network": "optimism",
@@ -165,7 +165,7 @@
     "name": "Equalizer",
     "symbol": "EQZ",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b.png"
   },
   {
     "network": "optimism",
@@ -173,7 +173,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x8aE125E8653821E851F12A49F7765db9a9ce7384.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x8aE125E8653821E851F12A49F7765db9a9ce7384.png"
   },
   {
     "network": "optimism",
@@ -181,7 +181,7 @@
     "name": "Kwenta",
     "symbol": "KWENTA",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x920Cf626a271321C151D027030D5d08aF699456b.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x920Cf626a271321C151D027030D5d08aF699456b.png"
   },
   {
     "network": "optimism",
@@ -189,7 +189,7 @@
     "name": "VelodromeV2",
     "symbol": "VELO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db.png"
   },
   {
     "network": "optimism",
@@ -197,7 +197,7 @@
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x9Bcef72be871e61ED4fBbc7630889beE758eb81D.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x9Bcef72be871e61ED4fBbc7630889beE758eb81D.png"
   },
   {
     "network": "optimism",
@@ -205,7 +205,7 @@
     "name": "BUSD Token",
     "symbol": "BUSD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
   },
   {
     "network": "optimism",
@@ -213,7 +213,7 @@
     "name": "Perpetual",
     "symbol": "PERP",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0x9e1028F5F1D5eDE59748FFceE5532509976840E0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x9e1028F5F1D5eDE59748FFceE5532509976840E0.png"
   },
   {
     "network": "optimism",
@@ -221,7 +221,7 @@
     "name": "dHEDGE DAO Token",
     "symbol": "DHT",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151.png"
   },
   {
     "network": "optimism",
@@ -229,7 +229,7 @@
     "name": "BOB",
     "symbol": "BOB",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.png"
   },
   {
     "network": "optimism",
@@ -237,7 +237,7 @@
     "name": "Alchemix USD",
     "symbol": "alUSD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A.png"
   },
   {
     "network": "optimism",
@@ -245,7 +245,7 @@
     "name": "Synth sETH",
     "symbol": "sETH",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49.png"
   },
   {
     "network": "optimism",
@@ -253,7 +253,7 @@
     "name": "Kromatika",
     "symbol": "KROM",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xF98dCd95217E15E05d8638da4c91125E59590B07.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xF98dCd95217E15E05d8638da4c91125E59590B07.png"
   },
   {
     "network": "optimism",
@@ -261,7 +261,7 @@
     "name": "Moo BIFI",
     "symbol": "mooBIFI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xc55E93C62874D8100dBd2DfE307EDc1036ad5434.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xc55E93C62874D8100dBd2DfE307EDc1036ad5434.png"
   },
   {
     "network": "optimism",
@@ -269,7 +269,7 @@
     "name": "OPX",
     "symbol": "OPX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xcdB4bB51801A1F399d4402c61bC098a72c382E65.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xcdB4bB51801A1F399d4402c61bC098a72c382E65.png"
   },
   {
     "network": "optimism",
@@ -277,7 +277,7 @@
     "name": "Mai Stablecoin",
     "symbol": "MAI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xdFA46478F9e5EA86d57387849598dbFB2e964b02.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xdFA46478F9e5EA86d57387849598dbFB2e964b02.png"
   },
   {
     "network": "optimism",
@@ -285,6 +285,6 @@
     "name": "Beefy Velo",
     "symbol": "BeVELO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/optimism/0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265.png"
   }
 ]

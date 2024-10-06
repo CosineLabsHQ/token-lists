@@ -1,10 +1,6 @@
 # Token Lists
 
-ChiPay manages an open source token list using a JSON schema, ideal for integration into various app interfaces. This schema adheres to the [Uniswap token list standard](https://github.com/Uniswap/token-lists).
-
-## What are token lists?
-
-Token lists specify token metadata for dApp or Defi wallet interfaces. Anyone can create and maintain a list, following the outlined guidelines.
+We manages an open source token list using a JSON schema, ideal for integration into various app interfaces. This schema adheres to the [Uniswap token list standard](https://github.com/Uniswap/token-lists).
 
 ## Disclaimer
 
@@ -14,7 +10,7 @@ While we welcome token submissions, acceptance doesn't signify a direct partners
 
 MIT License
 
-Copyright (c) 2024 ChiPay
+Copyright (c) 2024 Cosine Labs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

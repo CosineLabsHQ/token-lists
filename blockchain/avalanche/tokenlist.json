@@ -5,7 +5,7 @@
     "name": "Wrapped AVAX",
     "symbol": "WAVAX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
   },
   {
     "network": "avalanche",
@@ -13,7 +13,7 @@
     "name": "Avalanche Bridge: WETH.e",
     "symbol": "WETH.e",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab.png"
   },
   {
     "network": "avalanche",
@@ -21,7 +21,7 @@
     "name": "Avalanche Bridge: WBTC.e",
     "symbol": "WBTC.e",
     "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x50b7545627a5162f82a992c33b87adc75187b218.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x50b7545627a5162f82a992c33b87adc75187b218.png"
   },
   {
     "network": "avalanche",
@@ -29,7 +29,7 @@
     "name": "Tether: USDT Token",
     "symbol": "USDt",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7.png"
   },
   {
     "network": "avalanche",
@@ -37,7 +37,7 @@
     "name": "Avalanche Bridge: USDT.e",
     "symbol": "USDT.e",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.png"
   },
   {
     "network": "avalanche",
@@ -45,7 +45,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e.png"
   },
   {
     "network": "avalanche",
@@ -53,7 +53,7 @@
     "name": "Avalanche Bridge: USDC.e",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664.png"
   },
   {
     "network": "avalanche",
@@ -61,7 +61,7 @@
     "name": "Avalanche Bridge: Dai.e",
     "symbol": "DAI.e",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xd586e7f844cea2f87f50152665bcbc2c279d8d70.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd586e7f844cea2f87f50152665bcbc2c279d8d70.png"
   },
   {
     "network": "avalanche",
@@ -69,7 +69,7 @@
     "name": "Aave Token: AAVE.e Token",
     "symbol": "AAVE.e",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x63a72806098bd3d9520cc43356dd78afe5d386d9.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x63a72806098bd3d9520cc43356dd78afe5d386d9.png"
   },
   {
     "network": "avalanche",
@@ -77,7 +77,7 @@
     "name": "Avalanche Bridge: SushiToken",
     "symbol": "SUSHI.e",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x37b608519f91f70f2eeb0e5ed9af4061722e4f76.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x37b608519f91f70f2eeb0e5ed9af4061722e4f76.png"
   },
   {
     "network": "avalanche",
@@ -85,7 +85,7 @@
     "name": "Wrapped MEMO",
     "symbol": "wMEMO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.png"
   },
   {
     "network": "avalanche",
@@ -93,7 +93,7 @@
     "name": "Blizz.Finance Protocol Token",
     "symbol": "BLZZ",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24.png"
   },
   {
     "network": "avalanche",
@@ -101,7 +101,7 @@
     "name": "Dragon Crypto Aurum",
     "symbol": "DCAU",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30.png"
   },
   {
     "network": "avalanche",
@@ -109,7 +109,7 @@
     "name": "YUSD Stablecoin",
     "symbol": "YUSD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x111111111111ed1D73f860F57b2798b683f2d325.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x111111111111ed1D73f860F57b2798b683f2d325.png"
   },
   {
     "network": "avalanche",
@@ -117,7 +117,7 @@
     "name": "Bitcoin",
     "symbol": "BTC.b",
     "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.png"
   },
   {
     "network": "avalanche",
@@ -125,7 +125,7 @@
     "name": "BAYMAX",
     "symbol": "BAY",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x18706c65b12595EDB43643214EacDb4F618DD166.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x18706c65b12595EDB43643214EacDb4F618DD166.png"
   },
   {
     "network": "avalanche",
@@ -133,7 +133,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB.png"
   },
   {
     "network": "avalanche",
@@ -141,7 +141,7 @@
     "name": "AVME",
     "symbol": "AVME",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed.png"
   },
   {
     "network": "avalanche",
@@ -149,7 +149,7 @@
     "name": "Platypus",
     "symbol": "PTP",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x22d4002028f537599bE9f666d1c4Fa138522f9c8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x22d4002028f537599bE9f666d1c4Fa138522f9c8.png"
   },
   {
     "network": "avalanche",
@@ -157,7 +157,7 @@
     "name": "POPSToken",
     "symbol": "POPS",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8.png"
   },
   {
     "network": "avalanche",
@@ -165,7 +165,7 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
   },
   {
     "network": "avalanche",
@@ -173,7 +173,7 @@
     "name": "Staked AVAX",
     "symbol": "sAVAX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png"
   },
   {
     "network": "avalanche",
@@ -181,7 +181,7 @@
     "name": "Governance OHM",
     "symbol": "gOHM",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x321E7092a180BB43555132ec53AaA65a5bF84251.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x321E7092a180BB43555132ec53AaA65a5bF84251.png"
   },
   {
     "network": "avalanche",
@@ -189,7 +189,7 @@
     "name": "frozenwalrus.finance",
     "symbol": "WLRS",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x395908aeb53d33A9B8ac35e148E9805D34A555D3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x395908aeb53d33A9B8ac35e148E9805D34A555D3.png"
   },
   {
     "network": "avalanche",
@@ -197,7 +197,7 @@
     "name": "SHIBAVAX",
     "symbol": "SHIBX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1.png"
   },
   {
     "network": "avalanche",
@@ -205,7 +205,7 @@
     "name": "Defrost Finance Token",
     "symbol": "MELT",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D.png"
   },
   {
     "network": "avalanche",
@@ -213,7 +213,7 @@
     "name": "YetiSwap",
     "symbol": "YTS",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x488F73cddDA1DE3664775fFd91623637383D6404.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x488F73cddDA1DE3664775fFd91623637383D6404.png"
   },
   {
     "network": "avalanche",
@@ -221,7 +221,7 @@
     "name": "New Order",
     "symbol": "NEWO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x4Bfc90322dD638F81F034517359BD447f8E0235a.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x4Bfc90322dD638F81F034517359BD447f8E0235a.png"
   },
   {
     "network": "avalanche",
@@ -229,7 +229,7 @@
     "name": "LydiaFinance Token",
     "symbol": "LYD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084.png"
   },
   {
     "network": "avalanche",
@@ -237,7 +237,7 @@
     "name": "Avalanche INSUR Token",
     "symbol": "INSUR",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429.png"
   },
   {
     "network": "avalanche",
@@ -245,7 +245,7 @@
     "name": "Yak Token",
     "symbol": "YAK",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7.png"
   },
   {
     "network": "avalanche",
@@ -253,7 +253,7 @@
     "name": "Pangolin",
     "symbol": "PNG",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x60781C2586D68229fde47564546784ab3fACA982.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x60781C2586D68229fde47564546784ab3fACA982.png"
   },
   {
     "network": "avalanche",
@@ -261,7 +261,7 @@
     "name": "GMX",
     "symbol": "GMX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.png"
   },
   {
     "network": "avalanche",
@@ -269,7 +269,7 @@
     "name": "Husky",
     "symbol": "HUSKY",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654.png"
   },
   {
     "network": "avalanche",
@@ -277,7 +277,7 @@
     "name": "GoGoPool Protocol",
     "symbol": "GGP",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d.png"
   },
   {
     "network": "avalanche",
@@ -285,7 +285,7 @@
     "name": "SmarterCoin",
     "symbol": "SMRTr",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x6D923f688C7FF287dc3A5943CAeefc994F97b290.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6D923f688C7FF287dc3A5943CAeefc994F97b290.png"
   },
   {
     "network": "avalanche",
@@ -293,7 +293,7 @@
     "name": "Spore.Finance",
     "symbol": "SPORE",
     "decimals": 9,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985.png"
   },
   {
     "network": "avalanche",
@@ -301,7 +301,7 @@
     "name": "JoeToken",
     "symbol": "JOE",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.png"
   },
   {
     "network": "avalanche",
@@ -309,7 +309,7 @@
     "name": "ElasticSwap Tic Token",
     "symbol": "TIC",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x75739a693459f33B1FBcC02099eea3eBCF150cBe.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x75739a693459f33B1FBcC02099eea3eBCF150cBe.png"
   },
   {
     "network": "avalanche",
@@ -317,7 +317,7 @@
     "name": "Avaware",
     "symbol": "AVE",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE.png"
   },
   {
     "network": "avalanche",
@@ -325,7 +325,7 @@
     "name": "VersoToken",
     "symbol": "VSO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a.png"
   },
   {
     "network": "avalanche",
@@ -333,7 +333,7 @@
     "name": "BENQI",
     "symbol": "QI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
   },
   {
     "network": "avalanche",
@@ -341,7 +341,7 @@
     "name": "THOR v2",
     "symbol": "THOR",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79.png"
   },
   {
     "network": "avalanche",
@@ -349,7 +349,7 @@
     "name": "Oh! Finance",
     "symbol": "OH",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21.png"
   },
   {
     "network": "avalanche",
@@ -357,7 +357,7 @@
     "name": "Ape In",
     "symbol": "APEIN",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x938FE3788222A74924E062120E7BFac829c719Fb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x938FE3788222A74924E062120E7BFac829c719Fb.png"
   },
   {
     "network": "avalanche",
@@ -365,7 +365,7 @@
     "name": "DeFiYieldProtocol",
     "symbol": "DYP",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17.png"
   },
   {
     "network": "avalanche",
@@ -373,7 +373,7 @@
     "name": "NFTrade Token [via ChainPort.io]",
     "symbol": "NFTD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF.png"
   },
   {
     "network": "avalanche",
@@ -381,7 +381,7 @@
     "name": "GoGoPool Liquid Staking Token",
     "symbol": "ggAVAX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3.png"
   },
   {
     "network": "avalanche",
@@ -389,7 +389,7 @@
     "name": "CRA",
     "symbol": "CRA",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed.png"
   },
   {
     "network": "avalanche",
@@ -397,7 +397,7 @@
     "name": "agEUR",
     "symbol": "agEUR",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57.png"
   },
   {
     "network": "avalanche",
@@ -405,7 +405,7 @@
     "name": "Boo Finance Token",
     "symbol": "BOOFI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0.png"
   },
   {
     "network": "avalanche",
@@ -413,7 +413,7 @@
     "name": "Bogged Finance",
     "symbol": "BOG",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xB09FE1613fE03E7361319d2a43eDc17422f36B09.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xB09FE1613fE03E7361319d2a43eDc17422f36B09.png"
   },
   {
     "network": "avalanche",
@@ -421,7 +421,7 @@
     "name": "EverRise",
     "symbol": "RISE",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xC17c30e98541188614dF99239cABD40280810cA3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC17c30e98541188614dF99239cABD40280810cA3.png"
   },
   {
     "network": "avalanche",
@@ -429,7 +429,7 @@
     "name": "Snowball",
     "symbol": "SNOB",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xC38f41A296A4493Ff429F1238e030924A1542e50.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC38f41A296A4493Ff429F1238e030924A1542e50.png"
   },
   {
     "network": "avalanche",
@@ -437,7 +437,7 @@
     "name": "Euro Coin",
     "symbol": "EURC",
     "decimals": 6,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD.png"
   },
   {
     "network": "avalanche",
@@ -445,7 +445,7 @@
     "name": "Aave Avalanche Market WAVAX",
     "symbol": "avWAVAX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xDFE521292EcE2A4f44242efBcD66Bc594CA9714B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xDFE521292EcE2A4f44242efBcD66Bc594CA9714B.png"
   },
   {
     "network": "avalanche",
@@ -453,7 +453,7 @@
     "name": "HonToken",
     "symbol": "HON",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB.png"
   },
   {
     "network": "avalanche",
@@ -461,7 +461,7 @@
     "name": "NXUSD",
     "symbol": "NXUSD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xF14f4CE569cB3679E99d5059909E23B07bd2F387.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xF14f4CE569cB3679E99d5059909E23B07bd2F387.png"
   },
   {
     "network": "avalanche",
@@ -469,7 +469,7 @@
     "name": "Wrapped SOL",
     "symbol": "SOL",
     "decimals": 9,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F.png"
   },
   {
     "network": "avalanche",
@@ -477,7 +477,7 @@
     "name": "Domi",
     "symbol": "DOMI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xFc6Da929c031162841370af240dEc19099861d3B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xFc6Da929c031162841370af240dEc19099861d3B.png"
   },
   {
     "network": "avalanche",
@@ -485,7 +485,7 @@
     "name": "chikn feed",
     "symbol": "FEED",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xab592d197ACc575D16C3346f4EB70C703F308D1E.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xab592d197ACc575D16C3346f4EB70C703F308D1E.png"
   },
   {
     "network": "avalanche",
@@ -493,7 +493,7 @@
     "name": "Bingo",
     "symbol": "BINGO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xb262a485d98D8e19175818D47453e7812cA255A8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xb262a485d98D8e19175818D47453e7812cA255A8.png"
   },
   {
     "network": "avalanche",
@@ -501,7 +501,7 @@
     "name": "Kalao Token",
     "symbol": "KLO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35.png"
   },
   {
     "network": "avalanche",
@@ -509,7 +509,7 @@
     "name": "ROCO",
     "symbol": "ROCO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208.png"
   },
   {
     "network": "avalanche",
@@ -517,7 +517,7 @@
     "name": "DUA",
     "symbol": "DUA",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xb418417374fcA27bb54169D3C777492e6Fe17Ee7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xb418417374fcA27bb54169D3C777492e6Fe17Ee7.png"
   },
   {
     "network": "avalanche",
@@ -525,7 +525,7 @@
     "name": "Chronicum",
     "symbol": "CHRO",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B.png"
   },
   {
     "network": "avalanche",
@@ -533,7 +533,7 @@
     "name": "Ankr Staked AVAX",
     "symbol": "ankrAVAX",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xc3344870d52688874b06d844E0C36cc39FC727F6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xc3344870d52688874b06d844E0C36cc39FC727F6.png"
   },
   {
     "network": "avalanche",
@@ -541,7 +541,7 @@
     "name": "AxialToken",
     "symbol": "AXIAL",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xcF8419A615c57511807236751c0AF38Db4ba3351.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xcF8419A615c57511807236751c0AF38Db4ba3351.png"
   },
   {
     "network": "avalanche",
@@ -549,7 +549,7 @@
     "name": "Ape-X",
     "symbol": "APE-X",
     "decimals": 9,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5.png"
   },
   {
     "network": "avalanche",
@@ -557,7 +557,7 @@
     "name": "Avalaunch",
     "symbol": "XAVA",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png"
   },
   {
     "network": "avalanche",
@@ -565,7 +565,7 @@
     "name": "Avalanche ABBC",
     "symbol": "AVABBC",
     "decimals": 8,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
   },
   {
     "network": "avalanche",
@@ -573,7 +573,7 @@
     "name": "PenguinToken",
     "symbol": "PEFI",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c.png"
   },
   {
     "network": "avalanche",
@@ -581,7 +581,7 @@
     "name": "Elk",
     "symbol": "ELK",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
   },
   {
     "network": "avalanche",
@@ -589,7 +589,7 @@
     "name": "Colony Token",
     "symbol": "CLY",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6.png"
   },
   {
     "network": "avalanche",
@@ -597,7 +597,7 @@
     "name": "Treasure Under Sea",
     "symbol": "TUS",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172.png"
   },
   {
     "network": "avalanche",
@@ -605,6 +605,6 @@
     "name": "Wirex Token",
     "symbol": "WXT",
     "decimals": 18,
-    "logo_uri": "https://token-assets.chipay.app/blockchain/avalanche/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1.png"
   }
 ]
