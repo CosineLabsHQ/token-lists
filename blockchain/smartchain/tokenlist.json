@@ -2553,11 +2553,11 @@
   },
   {
     "network": "smartchain",
-    "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+    "address": "0x392004BEe213F1FF580C867359C246924f21E6Ad",
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xd17479997F34dd9156Deef8F95A52D81D265be9c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x392004BEe213F1FF580C867359C246924f21E6Ad.png"
   },
   {
     "network": "smartchain",
