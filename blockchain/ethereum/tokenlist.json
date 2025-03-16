@@ -337,11 +337,11 @@
   },
   {
     "network": "ethereum",
-    "address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+    "address": "0x3D7975EcCFc61a2102b08925CbBa0a4D4dBB6555",
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x3D7975EcCFc61a2102b08925CbBa0a4D4dBB6555.png"
   },
   {
     "network": "ethereum",
