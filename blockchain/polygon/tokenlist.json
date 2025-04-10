@@ -73,6 +73,1246 @@
   },
   {
     "network": "polygon",
+    "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+    "name": "Avalanche Token",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+    "name": "MANTRA DAO (PoS)",
+    "symbol": "OM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+    "name": "Cosmos (PoS)",
+    "symbol": "ATOM",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+    "name": "Nexo (PoS)",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+    "name": "Graph Token (PoS)",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x5fe2B58c013d7601147DcdD68C143A77499f5531.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+    "name": "Lido DAO Token (PoS)",
+    "symbol": "LDO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC3C7d422809852031b44ab29EEC9F1EfF2A58756.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048",
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "decimals": 5,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xe5B49820e5A1063F6F4DdF851327b5E8B2301048.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "name": "SAND",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1",
+    "name": "Rocket Pool ETH (PoS)",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+    "name": "CRV (PoS)",
+    "symbol": "CRV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x172370d5Cd63279eFa6d502DAB29171933a610AF.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+    "name": "Telcoin (PoS)",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+    "name": "(PoS) Decentraland MANA",
+    "symbol": "MANA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
+    "name": "ApeCoin (PoS)",
+    "symbol": "APE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB7b31a6BC18e48888545CE79e83E06003bE70930.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0000000000000000000000000000000000001010",
+    "name": "Polygon Ecosystem Token",
+    "symbol": "POL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0000000000000000000000000000000000001010.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+    "name": "Polygon tBTC v2",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x6e4E624106Cb12E168E6533F8ec7c82263358940.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
+    "name": "Coinbase Wrapped Staked ETH (FXERC20)",
+    "symbol": "fxcbETH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x4b4327dB1600B8B1440163F667e199CEf35385f5.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+    "name": "1Inch (PoS)",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+    "name": "Golem Network Token (PoS)",
+    "symbol": "GLM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x3Cef98bb43d732E2F285eE605a8158cDE967D219",
+    "name": "Basic Attention Token (PoS)",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x3Cef98bb43d732E2F285eE605a8158cDE967D219.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xa1428174F516F527fafdD146b883bB4428682737",
+    "name": "SuperFarm (PoS)",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xa1428174F516F527fafdD146b883bB4428682737.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x1a3acf6D19267E2d3e7f898f42803e90C9219062.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+    "name": "(PoS) yearn.finance",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xDA537104D6A5edd53c6fBba9A898708E465260b6.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+    "name": "Wootrade Network (PoS)",
+    "symbol": "WOO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x714DB550b574b3E927af3D93E26127D15721D4C2",
+    "name": "GreenMetaverseToken",
+    "symbol": "GMT",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x714DB550b574b3E927af3D93E26127D15721D4C2.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xD4814770065F634003A8d8D70B4743E0C3f334ad",
+    "name": "Poly-Peg ONT",
+    "symbol": "ONT",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xD4814770065F634003A8d8D70B4743E0C3f334ad.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xF328b73B6c685831F238c30a23Fc19140CB4D8FC",
+    "name": "Across Protocol Token (PoS)",
+    "symbol": "ACX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xF328b73B6c685831F238c30a23Fc19140CB4D8FC.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+    "name": "SushiToken (PoS)",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x7BeBd226154E865954A87650FAefA8F485d36081",
+    "name": "ZigCoin",
+    "symbol": "ZIG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x7BeBd226154E865954A87650FAefA8F485d36081.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xc4Ce1D6F5D98D65eE25Cf85e9F2E9DcFEe6Cb5d6",
+    "name": "Curve.Fi USD Stablecoin(PoS)",
+    "symbol": "crvUSD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xc4Ce1D6F5D98D65eE25Cf85e9F2E9DcFEe6Cb5d6.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
+    "name": "Everipedia IQ (PoS)",
+    "symbol": "IQ",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB9638272aD6998708de56BBC0A290a1dE534a578.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+    "name": "Balancer (PoS)",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "name": "Frax USD",
+    "symbol": "frxUSD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x80Eede496655FB9047dd39d9f418d5483ED600df.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
+    "name": "Orbs (PoS)",
+    "symbol": "ORBS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
+    "name": "Request",
+    "symbol": "REQ",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x82617aA52dddf5Ed9Bb7B370ED777b3182A30fd1",
+    "name": "Yield Guild Games Token (PoS)",
+    "symbol": "YGG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x82617aA52dddf5Ed9Bb7B370ED777b3182A30fd1.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xAC0F66379A6d7801D7726d5a943356A172549Adb",
+    "name": "Geodnet Token",
+    "symbol": "GEOD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xAC0F66379A6d7801D7726d5a943356A172549Adb.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
+    "name": "Tellor Tributes (PoS)",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xE3322702BEdaaEd36CdDAb233360B939775ae5f1.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xe4Bf2864ebeC7B7fDf6Eeca9BaCAe7cDfDAffe78",
+    "name": "DODO bird (PoS)",
+    "symbol": "DODO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xe4Bf2864ebeC7B7fDf6Eeca9BaCAe7cDfDAffe78.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x77f56cf9365955486B12C4816992388eE8606f0E",
+    "name": "Coin98",
+    "symbol": "C98",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x77f56cf9365955486B12C4816992388eE8606f0E.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
+    "name": "Cartesi Token (PoS)",
+    "symbol": "CTSI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x7ABE9Edf5C544A04dA83e9110CF46DBC4759170c",
+    "name": "WPAY",
+    "symbol": "WPAY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x7ABE9Edf5C544A04dA83e9110CF46DBC4759170c.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
+    "name": "Autonolas(PoS)",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xFEF5d947472e72Efbb2E388c730B7428406F2F95.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+    "name": "VANRY",
+    "symbol": "VANRY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x8a16D4bF8A0a716017e8D2262c4aC32927797a2F",
+    "name": "ViciCoin",
+    "symbol": "VCNT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x8a16D4bF8A0a716017e8D2262c4aC32927797a2F.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
+    "name": "Mountain Protocol USD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0a654cb371FBC3C49Ccb176984D64E86fc931EeA",
+    "name": "SafeMoon",
+    "symbol": "SFM",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0a654cb371FBC3C49Ccb176984D64E86fc931EeA.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9ff62d1FC52A907B6DCbA8077c2DDCA6E6a9d3e1",
+    "name": "Forta",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9ff62d1FC52A907B6DCbA8077c2DDCA6E6a9d3e1.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+    "name": "Synapse",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x193f4A4a6ea24102F49b931DEeeb931f6E32405d",
+    "name": "TLOS",
+    "symbol": "TLOS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x193f4A4a6ea24102F49b931DEeeb931f6E32405d.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xB03E3b00BaF9954bF1604d09A4dbd5Cf88E1f695",
+    "name": "EDU Coin",
+    "symbol": "EDU",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB03E3b00BaF9954bF1604d09A4dbd5Cf88E1f695.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xD0ee109352c6116dB0f17F4Aa8519CdBfc7e7887",
+    "name": "DEAPCOIN (PoS)",
+    "symbol": "DEP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xD0ee109352c6116dB0f17F4Aa8519CdBfc7e7887.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0df0f72EE0e5c9B7ca761ECec42754992B2Da5BF",
+    "name": "Automata (PoS)",
+    "symbol": "ATA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0df0f72EE0e5c9B7ca761ECec42754992B2Da5BF.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
+    "name": "Orderly Network",
+    "symbol": "ORDER",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",
+    "name": "Ethernity Chain (PoS)",
+    "symbol": "ERN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x17D342b29F054030a455b4191f977C3b0aA62Fd9",
+    "name": "Kanga Exchange Token (PoS)",
+    "symbol": "KNG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x17D342b29F054030a455b4191f977C3b0aA62Fd9.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xcDf937995A55a9AB551D81b463AC0f7F02795368",
+    "name": "VSC",
+    "symbol": "VSC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xcDf937995A55a9AB551D81b463AC0f7F02795368.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xDD75542611D57C4b6e68168B14C3591C539022eD",
+    "name": "ZEN Exchange Token",
+    "symbol": "pZCX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xDD75542611D57C4b6e68168B14C3591C539022eD.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x07Ed33a242BD9C08CA3C198e01189e35265024Da",
+    "name": "Wagmi",
+    "symbol": "WAGMI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x07Ed33a242BD9C08CA3C198e01189e35265024Da.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9Cb74C8032b007466865f060ad2c46145d45553D",
+    "name": "IDEX Token (PoS)",
+    "symbol": "IDEX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9Cb74C8032b007466865f060ad2c46145d45553D.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB5C064F955D8e7F38fE0460C556a72987494eE17.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xa9f37D84c856fDa3812ad0519Dad44FA0a3Fe207",
+    "name": "Melon Token (PoS)",
+    "symbol": "MLN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xa9f37D84c856fDa3812ad0519Dad44FA0a3Fe207.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
+    "name": "AllianceBlock Nexera Token",
+    "symbol": "NXRA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xE261D618a959aFfFd53168Cd07D12E37B26761db",
+    "name": "Dimo",
+    "symbol": "DIMO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xE261D618a959aFfFd53168Cd07D12E37B26761db.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+    "name": "Aavegotchi GHST Token (PoS)",
+    "symbol": "GHST",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xDC3326e71D45186F113a2F448984CA0e8D201995.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x764A726d9ceD0433A8D7643335919dEb03a9a935",
+    "name": "Pocket Network",
+    "symbol": "POKT",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x764A726d9ceD0433A8D7643335919dEb03a9a935.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+    "name": "OX Coin",
+    "symbol": "OX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x7B12598E3616261df1C05EC28De0d2fB10c1F206",
+    "name": "COCA",
+    "symbol": "COCA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x7B12598E3616261df1C05EC28De0d2fB10c1F206.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+    "name": "VOXEL Token",
+    "symbol": "VOXEL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
+    "name": "FOX (PoS)",
+    "symbol": "FOX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x65A05DB8322701724c197AF82C9CaE41195B0aA8.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xCf66EB3D546F0415b368d98A95EAF56DeD7aA752",
+    "name": "dForce USD",
+    "symbol": "USX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xCf66EB3D546F0415b368d98A95EAF56DeD7aA752.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xdDa7b23D2D72746663E7939743f929a3d85FC975",
+    "name": "AdEx Network (PoS)",
+    "symbol": "ADX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xdDa7b23D2D72746663E7939743f929a3d85FC975.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xbbBBbBbBB7949dcC7d1539c91b81A5BF09E37bDB",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xbbBBbBbBB7949dcC7d1539c91b81A5BF09E37bDB.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0566C506477cD2d8dF4e0123512dBc344bD9D111",
+    "name": "MyLovelyCoin",
+    "symbol": "MLC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0566C506477cD2d8dF4e0123512dBc344bD9D111.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x7f67639Ffc8C93dD558d452b8920b28815638c44",
+    "name": "iMe Lab",
+    "symbol": "LIME",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x7f67639Ffc8C93dD558d452b8920b28815638c44.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+    "name": "Multichain",
+    "symbol": "MULTI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xd4D996CcDA51B65C6FD884FeaEA83B237D084262",
+    "name": "The Algorix",
+    "symbol": "ALOR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xd4D996CcDA51B65C6FD884FeaEA83B237D084262.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+    "name": "Everclear",
+    "symbol": "CLEAR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xCdB3867935247049e87c38eA270edD305D84c9AE",
+    "name": "VNX Franc",
+    "symbol": "VCHF",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xCdB3867935247049e87c38eA270edD305D84c9AE.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
+    "name": "TrustSwap Token (PoS)",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x235737dBb56e8517391473f7c964DB31fA6ef280",
+    "name": "KastaToken",
+    "symbol": "KASTA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x235737dBb56e8517391473f7c964DB31fA6ef280.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x3fb83A9A2c4408909c058b0BfE5B4823f54fAfE2",
+    "name": "bitsCrunch Token(PoS)",
+    "symbol": "BCUT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x3fb83A9A2c4408909c058b0BfE5B4823f54fAfE2.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x110B25D2B21eE73eB401F3aE7833f7072912A0Bf",
+    "name": "LIF3",
+    "symbol": "LIF3",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x110B25D2B21eE73eB401F3aE7833f7072912A0Bf.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x13590c53dF63B52E159328C5b4FfB5f6dC5163C0",
+    "name": "FiNANCiE Token (PoS)",
+    "symbol": "FNCT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x13590c53dF63B52E159328C5b4FfB5f6dC5163C0.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x87d6F8eDECcbCcA766D2880D19b2C3777D322C22",
+    "name": "Miracleplay Token",
+    "symbol": "MPT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x87d6F8eDECcbCcA766D2880D19b2C3777D322C22.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+    "name": "Wrapped PAW",
+    "symbol": "wPAW",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xE1b3eb06806601828976e491914e3De18B5d6b28",
+    "name": "zkRace",
+    "symbol": "ZERC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xE1b3eb06806601828976e491914e3De18B5d6b28.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+    "name": "Polytrade (PoS)",
+    "symbol": "TRADE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x692AC1e363ae34b6B489148152b12e2785a3d8d6.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x94615302bCB36309371ea7454f3e99A4002105dE",
+    "name": "Nereus Token",
+    "symbol": "NRS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x94615302bCB36309371ea7454f3e99A4002105dE.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x00560E906B7C73eE2D18EBFd191591A83aE27eA0",
+    "name": "Lovely Finance",
+    "symbol": "LOVELY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x00560E906B7C73eE2D18EBFd191591A83aE27eA0.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x973B5bd321aD6044ebc4e40e1C9AF163d17170Ca",
+    "name": "Sentinel (PoS)",
+    "symbol": "DVPN",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x973B5bd321aD6044ebc4e40e1C9AF163d17170Ca.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xA04C86c411320444d4A99d44082e057772E8cF96",
+    "name": "Worldwide USD",
+    "symbol": "WUSD",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xA04C86c411320444d4A99d44082e057772E8cF96.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+    "name": "BLOK",
+    "symbol": "BLOK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x229b1b6C23ff8953D663C4cBB519717e323a0a84.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC",
+    "name": "$ZKP Token",
+    "symbol": "$ZKP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
+    "name": "Planet Mojo",
+    "symbol": "MOJO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xF915fDDa4c882731C0456a4214548Cd13A822886",
+    "name": "Fuse",
+    "symbol": "FUSE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xF915fDDa4c882731C0456a4214548Cd13A822886.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x43C73b90E0C2A355784dCf0Da12f477729b31e77",
+    "name": "Soil",
+    "symbol": "SOIL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x43C73b90E0C2A355784dCf0Da12f477729b31e77.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xA55870278d6389ec5B524553D03C04F5677c061E",
+    "name": "XCAD Token (PoS)",
+    "symbol": "XCAD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xA55870278d6389ec5B524553D03C04F5677c061E.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xB1A91036e4a3C144efeD953e0b6CC5f6B98AD256",
+    "name": "MUBI",
+    "symbol": "MUBI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB1A91036e4a3C144efeD953e0b6CC5f6B98AD256.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xd87aF7B418d64FF2cdE48d890285bA64fc6E115F",
+    "name": "DTEC",
+    "symbol": "DTEC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xd87aF7B418d64FF2cdE48d890285bA64fc6E115F.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xdCb72AE4d5dc6Ae274461d57E65dB8D50d0a33AD",
+    "name": "DappRadar",
+    "symbol": "RADAR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xdCb72AE4d5dc6Ae274461d57E65dB8D50d0a33AD.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+    "name": "GAMEE",
+    "symbol": "GMEE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+    "name": "PolyDoge",
+    "symbol": "PolyDoge",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105",
+    "name": "Landshare Token",
+    "symbol": "LAND",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC03E6ad83dE7C58c9166fF08D66B960d78e64105.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x3558887f15b5b0074dC4167761DE14A6DFcb676e",
+    "name": "NetVRk",
+    "symbol": "NETVR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x3558887f15b5b0074dC4167761DE14A6DFcb676e.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
+    "name": "SwissCheese Token",
+    "symbol": "SWCH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x3ce1327867077B551ae9A6987bF10C9fd08edCE1.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x32dC2dD3C2bE453a369625e6Fe0E438aeD814919",
+    "name": "SelfKey (FXERC20)",
+    "symbol": "fxKEY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x32dC2dD3C2bE453a369625e6Fe0E438aeD814919.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+    "name": "Metaverse (PoS)",
+    "symbol": "MV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xA3c322Ad15218fBFAEd26bA7f616249f7705D945.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x5F32AbeeBD3c2fac1E7459A27e1AE9f1C16ccccA",
+    "name": "FARCANA",
+    "symbol": "FAR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x5F32AbeeBD3c2fac1E7459A27e1AE9f1C16ccccA.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220",
+    "name": "Wisdomise",
+    "symbol": "WSDM",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xf0949Dd87D2531D665010d6274F06a357669457a",
+    "name": "RealityMetaverse(PoS)",
+    "symbol": "RMV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xf0949Dd87D2531D665010d6274F06a357669457a.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xB6a5ae40e79891E4DeAdAd06C8A7cA47396Df21C",
+    "name": "Carbify",
+    "symbol": "CBY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB6a5ae40e79891E4DeAdAd06C8A7cA47396Df21C.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x61bf130d973D59c69d3227f1668d534d83119860",
+    "name": "Trakx Token",
+    "symbol": "TRKX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x61bf130d973D59c69d3227f1668d534d83119860.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x22737f5Bbb7C5b5BA407b0c1C9a9cdf66CF25D7d",
+    "name": "SNPIT TOKEN(PoS)",
+    "symbol": "SNPT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x22737f5Bbb7C5b5BA407b0c1C9a9cdf66CF25D7d.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
+    "name": "Affyn",
+    "symbol": "FYN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x3B56a704C01D650147ADE2b8cEE594066b3F9421.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xcf403036bc139d30080D2Cf0F5b48066F98191bB",
+    "name": "Stobox Token v.2",
+    "symbol": "STBU",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xcf403036bc139d30080D2Cf0F5b48066F98191bB.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x2F3E306d9F02ee8e8850F9040404918d0b345207",
+    "name": "DOGAMI",
+    "symbol": "DOGA",
+    "decimals": 5,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x2F3E306d9F02ee8e8850F9040404918d0b345207.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x463fAe8f3c63AF7c40E50DF3BA28469BF9942f69",
+    "name": "Sabai Ecoverse Token (FXERC20)",
+    "symbol": "fxSABAI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x463fAe8f3c63AF7c40E50DF3BA28469BF9942f69.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9dBfc1cbf7a1E711503a29B4b5F9130ebeCcaC96",
+    "name": "UpOnly",
+    "symbol": "UPO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9dBfc1cbf7a1E711503a29B4b5F9130ebeCcaC96.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x3b737a181f7d2532cF49864f8050b3465a310593",
+    "name": "Hot Cross Token (PoS)",
+    "symbol": "HOTCROSS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x3b737a181f7d2532cF49864f8050b3465a310593.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9",
+    "name": "MCHCoin (PoS)",
+    "symbol": "MCHC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
+    "name": "REVV",
+    "symbol": "REVV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x70c006878a5A50Ed185ac4C87d837633923De296.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x27842334C55c01DDFE81Bf687425F906816c5141",
+    "name": "Veloce",
+    "symbol": "VEXT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x27842334C55c01DDFE81Bf687425F906816c5141.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+    "name": "Fusion",
+    "symbol": "FSN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+    "name": "Kommunitas",
+    "symbol": "KOM",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC004e2318722EA2b15499D6375905d75Ee5390B8.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x552f4D98F338fBbD3175ddf38cE1260F403Bbba2",
+    "name": "Modern Innovation Network Token",
+    "symbol": "MINX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x552f4D98F338fBbD3175ddf38cE1260F403Bbba2.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xEB7eaB87837f4Dad1bb80856db9E4506Fc441f3D",
+    "name": "MEE Governance Token",
+    "symbol": "MEE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xEB7eaB87837f4Dad1bb80856db9E4506Fc441f3D.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
+    "name": "Bullieverse",
+    "symbol": "BULL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xc27158bB8E08899d38765752F91d7d778e16AB8e",
+    "name": "Kapital DAO Token (FXERC20)",
+    "symbol": "fxKAP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xc27158bB8E08899d38765752F91d7d778e16AB8e.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xE3f2b1B2229C0333Ad17D03F179b87500E7C5e01",
+    "name": "AETHER GAMES",
+    "symbol": "AEG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xE3f2b1B2229C0333Ad17D03F179b87500E7C5e01.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+    "name": "DFYN Token (PoS)",
+    "symbol": "DFYN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x433cCeBC95ad458E74d81837Db0D4aa27e30E117",
+    "name": "UDAO",
+    "symbol": "UDAO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x433cCeBC95ad458E74d81837Db0D4aa27e30E117.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x723B17718289A91AF252D616DE2C77944962d122",
+    "name": "GAIA Everworld",
+    "symbol": "GAIA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x723B17718289A91AF252D616DE2C77944962d122.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x14Af1F2f02DCcB1e43402339099A05a5E363b83c",
+    "name": "Kromatika (PoS)",
+    "symbol": "KROM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x14Af1F2f02DCcB1e43402339099A05a5E363b83c.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xaa4fBC6809a8E1924520FC85282aC4C76A7671d7",
+    "name": "Unfettered Ecosystem",
+    "symbol": "SOULS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xaa4fBC6809a8E1924520FC85282aC4C76A7671d7.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xc61f39418cd27820b5D4E9Ba4a7197eefAEB8b05",
+    "name": "Tamadoge",
+    "symbol": "TAMA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xc61f39418cd27820b5D4E9Ba4a7197eefAEB8b05.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
+    "name": "Wicrypt Network Token",
+    "symbol": "WNT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x8D60FB5886497851AaC8c5195006ecf07647ba0D",
+    "name": "W3GG Token",
+    "symbol": "W3GG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x8D60FB5886497851AaC8c5195006ecf07647ba0D.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xE77aBB1E75D2913B2076DD16049992FFeACa5235",
+    "name": "Decentrawood",
+    "symbol": "Deod",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xE77aBB1E75D2913B2076DD16049992FFeACa5235.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xC3f56d567E7663e8932E65d85ae4be7Eb5575cA7",
+    "name": "Faith Tribe",
+    "symbol": "FTRB",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC3f56d567E7663e8932E65d85ae4be7Eb5575cA7.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+    "name": "Hop",
+    "symbol": "HOP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x280053C54006A624C26989CB8354Fa4cB86f14D1",
+    "name": "Morpheus Infrastructure Node(PoS)",
+    "symbol": "MIND",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x280053C54006A624C26989CB8354Fa4cB86f14D1.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xdd9bA3B2571BEA0854beb0508CE10FeD0eCa7e3e",
+    "name": "EnviDa",
+    "symbol": "EDAT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xdd9bA3B2571BEA0854beb0508CE10FeD0eCa7e3e.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x411bc96881A62572FF33c9d8CE60dF99E3d96cd8",
+    "name": "Mars Token",
+    "symbol": "MRST",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x411bc96881A62572FF33c9d8CE60dF99E3d96cd8.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5",
+    "name": "FireStarter",
+    "symbol": "FLAME",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xD6A33F67b733d422c821C36F0f79ca145B930d01",
+    "name": "Angola Coin (PoS)",
+    "symbol": "AGLA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xD6A33F67b733d422c821C36F0f79ca145B930d01.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+    "name": "Paint",
+    "symbol": "PAINT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x7c28F627eA3aEc8B882b51eb1935f66e5b875714.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x2a82437475A60BebD53e33997636fadE77604fc2",
+    "name": "Cirus (PoS)",
+    "symbol": "CIRUS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x2a82437475A60BebD53e33997636fadE77604fc2.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xaeb3DD897Ade187B9F9e4c491Bc7A81F69F7093E",
+    "name": "EARNM",
+    "symbol": "EARNM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xaeb3DD897Ade187B9F9e4c491Bc7A81F69F7093E.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x0D6ae2a429df13e44A07Cd2969E085e4833f64A0",
+    "name": "PolkaBridge",
+    "symbol": "PBR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x0D6ae2a429df13e44A07Cd2969E085e4833f64A0.png"
+  },
+  {
+    "network": "polygon",
     "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
     "name": "Rai Reflex Index (PoS)",
     "symbol": "RAI",
@@ -201,14 +1441,6 @@
   },
   {
     "network": "polygon",
-    "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
-    "name": "Wootrade Network (PoS)",
-    "symbol": "WOO",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603.png"
-  },
-  {
-    "network": "polygon",
     "address": "0x1BA17C639BdaeCd8DC4AAc37df062d17ee43a1b8",
     "name": "Wrapped Ixs Token",
     "symbol": "WIXS",
@@ -230,22 +1462,6 @@
     "symbol": "NXD",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x228b5C21ac00155cf62c57bcc704c0dA8187950b.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
-    "name": "BLOK",
-    "symbol": "BLOK",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x229b1b6C23ff8953D663C4cBB519717e323a0a84.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x235737dBb56e8517391473f7c964DB31fA6ef280",
-    "name": "KastaToken",
-    "symbol": "KASTA",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x235737dBb56e8517391473f7c964DB31fA6ef280.png"
   },
   {
     "network": "polygon",
@@ -302,14 +1518,6 @@
     "symbol": "MASK",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
-    "name": "Avalanche Token",
-    "symbol": "AVAX",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b.png"
   },
   {
     "network": "polygon",
@@ -393,14 +1601,6 @@
   },
   {
     "network": "polygon",
-    "address": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
-    "name": "Affyn",
-    "symbol": "FYN",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x3B56a704C01D650147ADE2b8cEE594066b3F9421.png"
-  },
-  {
-    "network": "polygon",
     "address": "0x3C720206bFaCB2d16fA3ac0ed87D2048Dbc401Fc",
     "name": "UnirisToken (PoS)",
     "symbol": "UCO",
@@ -462,14 +1662,6 @@
     "symbol": "$KMC",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x44d09156c7b4ACf0C64459Fbcced7613F5519918.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
-    "name": "Frax",
-    "symbol": "FRAX",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89.png"
   },
   {
     "network": "polygon",
@@ -593,22 +1785,6 @@
   },
   {
     "network": "polygon",
-    "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
-    "name": "Graph Token (PoS)",
-    "symbol": "GRT",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x5fe2B58c013d7601147DcdD68C143A77499f5531.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
-    "name": "Orbs (PoS)",
-    "symbol": "ORBS",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff.png"
-  },
-  {
-    "network": "polygon",
     "address": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7",
     "name": "Sphere Finance",
     "symbol": "SPHERE",
@@ -630,14 +1806,6 @@
     "symbol": "BONDLY",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
-    "name": "FOX (PoS)",
-    "symbol": "FOX",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x65A05DB8322701724c197AF82C9CaE41195B0aA8.png"
   },
   {
     "network": "polygon",
@@ -673,22 +1841,6 @@
   },
   {
     "network": "polygon",
-    "address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
-    "name": "REVV",
-    "symbol": "REVV",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x70c006878a5A50Ed185ac4C87d837633923De296.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x723B17718289A91AF252D616DE2C77944962d122",
-    "name": "GAIA Everworld",
-    "symbol": "GAIA",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x723B17718289A91AF252D616DE2C77944962d122.png"
-  },
-  {
-    "network": "polygon",
     "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
@@ -713,35 +1865,11 @@
   },
   {
     "network": "polygon",
-    "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x7f67639Ffc8C93dD558d452b8920b28815638c44",
-    "name": "iMe Lab",
-    "symbol": "LIME",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x7f67639Ffc8C93dD558d452b8920b28815638c44.png"
-  },
-  {
-    "network": "polygon",
     "address": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
     "name": "Meshswap Protocol",
     "symbol": "MESH",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
-    "name": "Wicrypt Network Token",
-    "symbol": "WNT",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689.png"
   },
   {
     "network": "polygon",
@@ -774,14 +1902,6 @@
     "symbol": "mSHEESHA",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
-    "name": "PolyDoge",
-    "symbol": "PolyDoge",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472.png"
   },
   {
     "network": "polygon",
@@ -865,43 +1985,11 @@
   },
   {
     "network": "polygon",
-    "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
-    "name": "BUSD Token",
-    "symbol": "BUSD",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
-    "name": "Balancer (PoS)",
-    "symbol": "BAL",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
-    "name": "Metaverse (PoS)",
-    "symbol": "MV",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xA3c322Ad15218fBFAEd26bA7f616249f7705D945.png"
-  },
-  {
-    "network": "polygon",
     "address": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
     "name": "Nash Exchange Token (PoS)",
     "symbol": "NEX",
     "decimals": 8,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xA55870278d6389ec5B524553D03C04F5677c061E",
-    "name": "XCAD Token (PoS)",
-    "symbol": "XCAD",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xA55870278d6389ec5B524553D03C04F5677c061E.png"
   },
   {
     "network": "polygon",
@@ -913,14 +2001,6 @@
   },
   {
     "network": "polygon",
-    "address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
-    "name": "Request",
-    "symbol": "REQ",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762.png"
-  },
-  {
-    "network": "polygon",
     "address": "0xB35fcBCF1fD489fCe02Ee146599e893FDCdC60e6",
     "name": "DeRace Token",
     "symbol": "DERC",
@@ -929,59 +2009,11 @@
   },
   {
     "network": "polygon",
-    "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-    "name": "QuickSwap",
-    "symbol": "QUICK",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB5C064F955D8e7F38fE0460C556a72987494eE17.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
-    "name": "Everipedia IQ (PoS)",
-    "symbol": "IQ",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xB9638272aD6998708de56BBC0A290a1dE534a578.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
-    "name": "SAND",
-    "symbol": "SAND",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
-    "name": "Kommunitas",
-    "symbol": "KOM",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC004e2318722EA2b15499D6375905d75Ee5390B8.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
-    "name": "DFYN Token (PoS)",
-    "symbol": "DFYN",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97.png"
-  },
-  {
-    "network": "polygon",
     "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
     "name": "EverRise",
     "symbol": "RISE",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC17c30e98541188614dF99239cABD40280810cA3.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
-    "name": "Lido DAO Token (PoS)",
-    "symbol": "LDO",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xC3C7d422809852031b44ab29EEC9F1EfF2A58756.png"
   },
   {
     "network": "polygon",
@@ -1054,14 +2086,6 @@
     "symbol": "renBTC",
     "decimals": 8,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
-    "name": "XSGD",
-    "symbol": "XSGD",
-    "decimals": 6,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xDC3326e71D45186F113a2F448984CA0e8D201995.png"
   },
   {
     "network": "polygon",
@@ -1257,22 +2281,6 @@
   },
   {
     "network": "polygon",
-    "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
-    "name": "GAMEE",
-    "symbol": "GMEE",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
-    "name": "VOXEL Token",
-    "symbol": "VOXEL",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F.png"
-  },
-  {
-    "network": "polygon",
     "address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
     "name": "Dark Matter Token (PoS)",
     "symbol": "DMT",
@@ -1350,14 +2358,6 @@
     "symbol": "ELK",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
-  },
-  {
-    "network": "polygon",
-    "address": "0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9",
-    "name": "MCHCoin (PoS)",
-    "symbol": "MCHC",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9.png"
   },
   {
     "network": "polygon",

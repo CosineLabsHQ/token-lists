@@ -81,6 +81,1166 @@
   },
   {
     "network": "avalanche",
+    "address": "0x5947BB275c521040051D82396192181b413227A3",
+    "name": "Chainlink Token",
+    "symbol": "LINK.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x5947BB275c521040051D82396192181b413227A3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+    "name": "Uniswap",
+    "symbol": "UNI.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+    "name": "Graph Token",
+    "symbol": "GRT.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
+    "name": "Solv BTC",
+    "symbol": "SolvBTC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "name": "Bitcoin",
+    "symbol": "BTC.b",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xfB98B335551a418cD0737375a2ea0ded62Ea213b.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x44c784266cf024a60e8acF2427b9857Ace194C5d",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x44c784266cf024a60e8acF2427b9857Ace194C5d.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+    "name": "1INCH Token",
+    "symbol": "1INCH.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd501281565bf7789224523144Fe5D98e8B28f267.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+    "name": "Ampleforth secured by Meter Passport",
+    "symbol": "AMPL",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x027dbcA046ca156De9622cD1e2D907d375e53aa7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xB514CABD09eF5B169eD3fe0FA8DBd590741E81C2",
+    "name": "USDD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xB514CABD09eF5B169eD3fe0FA8DBd590741E81C2.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
+    "name": "deUSD",
+    "symbol": "deUSD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xB57B25851fE2311CC3fE511c8F10E868932e0680.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+    "name": "Basic Attention Token",
+    "symbol": "BAT.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+    "name": "Wrapped ROSE",
+    "symbol": "wROSE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x12AF5C1a232675f62F405b5812A80e7a6F75D746.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x214DB107654fF987AD859F34125307783fC8e387",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x214DB107654fF987AD859F34125307783fC8e387.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+    "name": "Staked AVAX",
+    "symbol": "sAVAX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+    "name": "yearn.finance",
+    "symbol": "YFI.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+    "name": "Wootrade Network",
+    "symbol": "WOO.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xaBC9547B534519fF73921b1FBA6E672b5f58D083.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+    "name": "Euro Coin",
+    "symbol": "EURC",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+    "name": "GMX",
+    "symbol": "GMX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xE15bCB9E0EA69e6aB9FA080c4c4A5632896298C3",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xE15bCB9E0EA69e6aB9FA080c4c4A5632896298C3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x3Ab1C9aDb065F3FcA0059652Cd7A52B05C98f9a9",
+    "name": "Orbs",
+    "symbol": "ORBS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x3Ab1C9aDb065F3FcA0059652Cd7A52B05C98f9a9.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "name": "Frax USD",
+    "symbol": "frxUSD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x80Eede496655FB9047dd39d9f418d5483ED600df.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "name": "JoeToken",
+    "symbol": "JOE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
+    "name": "Cartesi Token",
+    "symbol": "CTSI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6b289CCeAA8639e3831095D75A3e43520faBf552.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+    "name": "Binance USD",
+    "symbol": "BUSD.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+    "name": "BENQI",
+    "symbol": "QI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xc6BDFC4f2E90196738873E824a9eFa03F7c64176",
+    "name": "ViciCoin",
+    "symbol": "VCNT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xc6BDFC4f2E90196738873E824a9eFa03F7c64176.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x420FcA0121DC28039145009570975747295f2329",
+    "name": "COQINU",
+    "symbol": "COQ",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x420FcA0121DC28039145009570975747295f2329.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+    "name": "Synapse",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x193f4A4a6ea24102F49b931DEeeb931f6E32405d",
+    "name": "",
+    "symbol": "",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x193f4A4a6ea24102F49b931DEeeb931f6E32405d.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+    "name": "AlphaToken",
+    "symbol": "ALPHA.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+    "name": "Pangolin",
+    "symbol": "PNG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x60781C2586D68229fde47564546784ab3fACA982.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xFc8A21dBCAB432FB5E469d80F976E022C2f56Ea0",
+    "name": "MetaMUI Token",
+    "symbol": "MMUI",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xFc8A21dBCAB432FB5E469d80F976E022C2f56Ea0.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+    "name": "Wagmi",
+    "symbol": "WAGMI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
+    "name": "AllianceBlock Nexera Token",
+    "symbol": "NXRA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E",
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+    "name": "Beta Token",
+    "symbol": "BETA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x511D35c52a3C244E7b8bd92c0C297755FbD89212.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389",
+    "name": "XEN Crypto",
+    "symbol": "aXEN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xc0Fbc4967259786C743361a5885ef49380473dCF",
+    "name": "Aleph.im V2 SuperToken",
+    "symbol": "ALEPH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xc0Fbc4967259786C743361a5885ef49380473dCF.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+    "name": "Multichain",
+    "symbol": "MULTI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
+    "name": "VNX Franc",
+    "symbol": "VCHF",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
+    "name": "TrustSwap Token",
+    "symbol": "SWAP.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xc7B5D72C836e718cDA8888eaf03707fAef675079.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+    "name": "Avalaunch",
+    "symbol": "XAVA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x7698A5311DA174A95253Ce86C21ca7272b9B05f8",
+    "name": "Wink",
+    "symbol": "WINK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x7698A5311DA174A95253Ce86C21ca7272b9B05f8.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x422812fC000E831b5ff13C181d85F34dd71380b3",
+    "name": "Miracleplay Token",
+    "symbol": "MPT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x422812fC000E831b5ff13C181d85F34dd71380b3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
+    "name": "Wirex Token",
+    "symbol": "WXT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x0f669808d88B2b0b3D23214DCD2a1cc6A8B1B5cd",
+    "name": "Blub",
+    "symbol": "BLUB",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x0f669808d88B2b0b3D23214DCD2a1cc6A8B1B5cd.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
+    "name": "SHRAPToken",
+    "symbol": "SHRAP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd402298a793948698b9a63311404FBBEe944eAfD.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd18555A6C2FDa350069735419900478eec4Abd96",
+    "name": "Alvara",
+    "symbol": "ALVA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd18555A6C2FDa350069735419900478eec4Abd96.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x2d0aFed89a6D6A100273Db377dBA7a32C739E314",
+    "name": "BIG",
+    "symbol": "BIG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2d0aFed89a6D6A100273Db377dBA7a32C739E314.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
+    "name": "STEP.APP",
+    "symbol": "FITFI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+    "name": "AVAX HAS NO CHILL",
+    "symbol": "NOCHILL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+    "name": "ArenaToken",
+    "symbol": "ARENA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2",
+    "name": "GAU Token",
+    "symbol": "GAU",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+    "name": "Kimbo",
+    "symbol": "KIMBO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x2f86508f41310D8D974B76deb3D246c0caa71cf5",
+    "name": "Hot Cross Token",
+    "symbol": "HOTCROSS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2f86508f41310D8D974B76deb3D246c0caa71cf5.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4",
+    "name": "Dypius",
+    "symbol": "DYP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xa4FB4F0Ff2431262D236778495145EcBC975c38B",
+    "name": "Bware",
+    "symbol": "INFRA.e",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xa4FB4F0Ff2431262D236778495145EcBC975c38B.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x7979871595b80433183950Ab6c6457752B585805",
+    "name": "Second",
+    "symbol": "SECOND",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x7979871595b80433183950Ab6c6457752B585805.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xf3E5914cA1F678E0A3a38031B5514682e3450919",
+    "name": "InkFinance",
+    "symbol": "QUILL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xf3E5914cA1F678E0A3a38031B5514682e3450919.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x61f23250451305f6C4426E81C50aE535Edf94A02",
+    "name": "Fautor",
+    "symbol": "FTR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x61f23250451305f6C4426E81C50aE535Edf94A02.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+    "name": "MAI",
+    "symbol": "miMatic",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
+    "name": "Avaxtars Token",
+    "symbol": "AVXT",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x727C43b707C6Fe3ACD92f17EFAC8e05476DFa81c",
+    "name": "Cougar Token",
+    "symbol": "CGS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x727C43b707C6Fe3ACD92f17EFAC8e05476DFa81c.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
+    "name": "PHARAOH",
+    "symbol": "PHAR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+    "name": "STEAK",
+    "symbol": "STEAK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x4f3c5C53279536fFcfe8bCafb78E612E933D53c6",
+    "name": "Phoenic Token",
+    "symbol": "PNIC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x4f3c5C53279536fFcfe8bCafb78E612E933D53c6.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "name": "USDV",
+    "symbol": "USDV",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x323665443CEf804A3b5206103304BD4872EA4253.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+    "name": "Colony Avalanche Index",
+    "symbol": "CAI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x9A8E0217cD870783c3f2317985C57Bf570969153",
+    "name": "Magic",
+    "symbol": "MAGIC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x9A8E0217cD870783c3f2317985C57Bf570969153.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd78d3D08053130A3b4466e15D8fc2a61a3DeE47d",
+    "name": "ICRYPEX Token",
+    "symbol": "ICPX",
+    "decimals": 3,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd78d3D08053130A3b4466e15D8fc2a61a3DeE47d.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x1c7c53aa86B49A28C627B6450091998e447A42f9",
+    "name": "VELVET AI",
+    "symbol": "VELAI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x1c7c53aa86B49A28C627B6450091998e447A42f9.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x87bbFc9DCB66Caa8ce7582A3F17B60a25cd8A248",
+    "name": "Big Red",
+    "symbol": "$Td",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x87bbFc9DCB66Caa8ce7582A3F17B60a25cd8A248.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xAb236ED82A0184AB754534F3952b48408468c09b",
+    "name": "Null",
+    "symbol": "NULL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xAb236ED82A0184AB754534F3952b48408468c09b.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "name": "NumberGoUpTech",
+    "symbol": "TECH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+    "name": "BiLira",
+    "symbol": "TRYB",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x564A341Df6C126f90cf3ECB92120FD7190ACb401.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C",
+    "name": "COQ AI",
+    "symbol": "COQAI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958",
+    "name": "Megaweapon",
+    "symbol": "WEAPON",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x444444444444C1a66F394025Ac839A535246FCc8",
+    "name": "Genius",
+    "symbol": "GENI",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x444444444444C1a66F394025Ac839A535246FCc8.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x1209810df5370F68B28E6832dC4aC80072E2d0B8",
+    "name": "AVALOX",
+    "symbol": "AVALOX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x1209810df5370F68B28E6832dC4aC80072E2d0B8.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x47c3118Ad183712Acd42648e9E522e13690f29a0",
+    "name": "Meat",
+    "symbol": "MEAT",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x47c3118Ad183712Acd42648e9E522e13690f29a0.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+    "name": "Gecko Inu",
+    "symbol": "GEC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xE8385CECb013561b69bEb63FF59f4d10734881f3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+    "name": "Any Inu",
+    "symbol": "AI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2598c30330D5771AE9F983979209486aE26dE875.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA",
+    "name": "DEXTF Token",
+    "symbol": "DEXTF",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b",
+    "name": "VNX Euro",
+    "symbol": "VEUR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7",
+    "name": "Osaka Protocol",
+    "symbol": "OSAK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x96E1056a8814De39c8c3Cd0176042d6ceCD807d7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xFF24003428Fb2E969C39EdEe4e9F464b0b78313d",
+    "name": "Waifu",
+    "symbol": "WAIFU",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xFF24003428Fb2E969C39EdEe4e9F464b0b78313d.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xD5D053D5B769383e860d1520Da7a908E00919F36",
+    "name": "JUICE",
+    "symbol": "JUICE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xD5D053D5B769383e860d1520Da7a908E00919F36.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
+    "name": "inSure",
+    "symbol": "SURE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x5fC17416925789E0852FBFcd81c490ca4abc51F9.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x5ECfeC22AA950CB5A3b4fd7249DC30B2BD160f18",
+    "name": "Tarot",
+    "symbol": "TAROT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x5ECfeC22AA950CB5A3b4fd7249DC30B2BD160f18.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xB44B645b5058F7e393F3AE6Af58A4CEf67006196",
+    "name": "STICK",
+    "symbol": "STICK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xB44B645b5058F7e393F3AE6Af58A4CEf67006196.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xB24CA28D4e2742907115fECda335b40dbda07a4C.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xAD090976CE846935DCfF1dEd852668beeD912916",
+    "name": "Oath Token",
+    "symbol": "OATH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xAD090976CE846935DCfF1dEd852668beeD912916.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+    "name": "yellow ket",
+    "symbol": "KET",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x089d3dAF549f99553C2182DB24bC4336A4F0C824",
+    "name": "Impermax",
+    "symbol": "IBEX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x089d3dAF549f99553C2182DB24bC4336A4F0C824.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
+    "name": "MeowCat",
+    "symbol": "MEOW",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8aD25B0083C9879942A64f00F20a70D3278f6187.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x08d58F06DDfA9b99AE651f68232014BE3914C5cd",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x08d58F06DDfA9b99AE651f68232014BE3914C5cd.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D",
+    "name": "Avalanche ABBC",
+    "symbol": "AVABBC",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+    "name": "EverRise",
+    "symbol": "RISE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC17c30e98541188614dF99239cABD40280810cA3.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
+    "name": "Landwolf",
+    "symbol": "WOLF",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x820802Fa8a99901F52e39acD21177b0BE6EE2974.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x4A5Bb433132B7E7F75D6A9a3e4136bB85CE6E4d5",
+    "name": "Booty",
+    "symbol": "BOOTY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x4A5Bb433132B7E7F75D6A9a3e4136bB85CE6E4d5.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+    "name": "CheckDot",
+    "symbol": "CDT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x885c3a3A4998f0b5ac367A46217E68A200737A32",
+    "name": "ALBERT",
+    "symbol": "ALBERT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x885c3a3A4998f0b5ac367A46217E68A200737A32.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558",
+    "name": "ai9000 Token",
+    "symbol": "AI9000",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+    "name": "xSolvBTC",
+    "symbol": "xSolvBTC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xCC0966D8418d412c599A6421b760a847eB169A8c.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA",
+    "name": "Seedworld",
+    "symbol": "SWORLD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xfCAF13227dcBFa2dc2b1928acFcA03b85e2D25dd",
+    "name": "Impossible Decentralized Incubator Access Token",
+    "symbol": "IDIA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xfCAF13227dcBFa2dc2b1928acFcA03b85e2D25dd.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x590eb2920486486c2D9Bb3EB651f73b81df87bcf",
+    "name": "bobcoin",
+    "symbol": "BOBC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x590eb2920486486c2D9Bb3EB651f73b81df87bcf.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x0256B279D973C8d687264AC3eB36bE09232D4474",
+    "name": "MyStandard",
+    "symbol": "MYST",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x0256B279D973C8d687264AC3eB36bE09232D4474.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
+    "name": "ArrowToken",
+    "symbol": "ARROW",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xEDf647326007E64d94B0Ee69743350F3736E392C",
+    "name": "Tico",
+    "symbol": "TICO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xEDf647326007E64d94B0Ee69743350F3736E392C.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9",
+    "name": "MSTR Token",
+    "symbol": "MSTR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8c8d2a7d8d9CF26F5ee1BbFc0bA56e93F4A4A7aC",
+    "name": "AIvalanche DeFAI Agents",
+    "symbol": "AVAXAI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8c8d2a7d8d9CF26F5ee1BbFc0bA56e93F4A4A7aC.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18",
+    "name": "Nuklai Token",
+    "symbol": "NAI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x1DB749847C4abB991d8B6032102383e6BfD9B1c7",
+    "name": "Dogeon Token",
+    "symbol": "DON",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x33C8036E99082B0C395374832FECF70c42C7F298",
+    "name": "DeltaPrime",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x33C8036E99082B0C395374832FECF70c42C7F298.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87",
+    "name": "Okse",
+    "symbol": "OKSE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa",
+    "name": "YAY Games",
+    "symbol": "YAY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2",
+    "name": "CRAFT",
+    "symbol": "CRAFT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x6c14c1898C843FF66cA51e87244690bBc28DF215",
+    "name": "Orange",
+    "symbol": "ORNG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6c14c1898C843FF66cA51e87244690bBc28DF215.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+    "name": "Altitude",
+    "symbol": "ALTD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8929e9DbD2785e3BA16175E596CDD61520feE0D1.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+    "name": "BetSwirl v2",
+    "symbol": "BETS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd05B010eDDB2Dc65d5Bd5a1389330D475049A4d5",
+    "name": "Deepwaters",
+    "symbol": "WTR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd05B010eDDB2Dc65d5Bd5a1389330D475049A4d5.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x872952d3c1Caf944852c5ADDa65633F1Ef218A26",
+    "name": "Liquid Crypto",
+    "symbol": "LQDX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x872952d3c1Caf944852c5ADDa65633F1Ef218A26.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
+    "name": "Dexalot Token",
+    "symbol": "ALOT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x093783055F9047C2BfF99c4e414501F8A147bC69.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A",
+    "name": "MetaBrands",
+    "symbol": "MAGE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xFd538CA3f58dC309dA55B11f007ff53fb4602876",
+    "name": "BattleForGiostone",
+    "symbol": "BFG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xFd538CA3f58dC309dA55B11f007ff53fb4602876.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+    "name": "DegisToken",
+    "symbol": "DEG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x913C61ec3573E5E4ee6488552535Fb1be84FF2AC",
+    "name": "Xave Token",
+    "symbol": "XAV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x913C61ec3573E5E4ee6488552535Fb1be84FF2AC.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xe9d62A1dAfFaA10E4f239936972807955aD765B4",
+    "name": "EIV Token",
+    "symbol": "EIV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xe9d62A1dAfFaA10E4f239936972807955aD765B4.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x54a77F27D2346c3A8F5B43A501434f0f21f33e3C",
+    "name": "Kingdom Gold Coin",
+    "symbol": "KGC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x54a77F27D2346c3A8F5B43A501434f0f21f33e3C.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x6F0167Dca1fAB2AaBe20cf56B7a7E1FdB47AC388",
+    "name": "Monocerus",
+    "symbol": "CERUS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6F0167Dca1fAB2AaBe20cf56B7a7E1FdB47AC388.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x3EeFb18003D033661f84e48360eBeCD181A84709",
+    "name": "Islander",
+    "symbol": "ISA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x3EeFb18003D033661f84e48360eBeCD181A84709.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F",
+    "name": "Dragon Crypto Argenti",
+    "symbol": "DCAR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x333000333b26eE30214B4af6419D9ab07a450400",
+    "name": "Meld",
+    "symbol": "MELD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x333000333b26eE30214B4af6419D9ab07a450400.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0x38076962036D65A40dc6d0C9256D19bb020F8dDc",
+    "name": "impactMarket",
+    "symbol": "PACT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x38076962036D65A40dc6d0C9256D19bb020F8dDc.png"
+  },
+  {
+    "network": "avalanche",
+    "address": "0xd60efFED653f3f1B69047F2D2dC4E808A548767b",
+    "name": "UNIFARM Token",
+    "symbol": "UFARM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd60efFED653f3f1B69047F2D2dC4E808A548767b.png"
+  },
+  {
+    "network": "avalanche",
     "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
     "name": "Wrapped MEMO",
     "symbol": "wMEMO",
@@ -110,14 +1270,6 @@
     "symbol": "YUSD",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x111111111111ed1D73f860F57b2798b683f2d325.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
-    "name": "Bitcoin",
-    "symbol": "BTC.b",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.png"
   },
   {
     "network": "avalanche",
@@ -166,14 +1318,6 @@
     "symbol": "STG",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
-    "name": "Staked AVAX",
-    "symbol": "sAVAX",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png"
   },
   {
     "network": "avalanche",
@@ -249,22 +1393,6 @@
   },
   {
     "network": "avalanche",
-    "address": "0x60781C2586D68229fde47564546784ab3fACA982",
-    "name": "Pangolin",
-    "symbol": "PNG",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x60781C2586D68229fde47564546784ab3fACA982.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
-    "name": "GMX",
-    "symbol": "GMX",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.png"
-  },
-  {
-    "network": "avalanche",
     "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
     "name": "Husky",
     "symbol": "HUSKY",
@@ -297,14 +1425,6 @@
   },
   {
     "network": "avalanche",
-    "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-    "name": "JoeToken",
-    "symbol": "JOE",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.png"
-  },
-  {
-    "network": "avalanche",
     "address": "0x75739a693459f33B1FBcC02099eea3eBCF150cBe",
     "name": "ElasticSwap Tic Token",
     "symbol": "TIC",
@@ -326,14 +1446,6 @@
     "symbol": "VSO",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
-    "name": "BENQI",
-    "symbol": "QI",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
   },
   {
     "network": "avalanche",
@@ -417,27 +1529,11 @@
   },
   {
     "network": "avalanche",
-    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
-    "name": "EverRise",
-    "symbol": "RISE",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC17c30e98541188614dF99239cABD40280810cA3.png"
-  },
-  {
-    "network": "avalanche",
     "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
     "name": "Snowball",
     "symbol": "SNOB",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC38f41A296A4493Ff429F1238e030924A1542e50.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
-    "name": "Euro Coin",
-    "symbol": "EURC",
-    "decimals": 6,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD.png"
   },
   {
     "network": "avalanche",
@@ -553,22 +1649,6 @@
   },
   {
     "network": "avalanche",
-    "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
-    "name": "Avalaunch",
-    "symbol": "XAVA",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D",
-    "name": "Avalanche ABBC",
-    "symbol": "AVABBC",
-    "decimals": 8,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D.png"
-  },
-  {
-    "network": "avalanche",
     "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
     "name": "PenguinToken",
     "symbol": "PEFI",
@@ -598,13 +1678,5 @@
     "symbol": "TUS",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172.png"
-  },
-  {
-    "network": "avalanche",
-    "address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
-    "name": "Wirex Token",
-    "symbol": "WXT",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1.png"
   }
 ]
