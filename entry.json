@@ -37,15 +37,6 @@
         "main": "https://token-lists.getcosine.app/blockchain/ethereum/tokenlist.json"
       }
     },
-    "fantom": {
-      "info": {
-        "logo": "https://token-assets.getcosine.app/blockchain/fantom/logo.png",
-        "summary": "https://token-lists.getcosine.app/blockchain/fantom/info.json"
-      },
-      "tokenlist": {
-        "main": "https://token-lists.getcosine.app/blockchain/fantom/tokenlist.json"
-      }
-    },
     "optimism": {
       "info": {
         "logo": "https://token-assets.getcosine.app/blockchain/optimism/logo.png",
