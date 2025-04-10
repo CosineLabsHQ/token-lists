@@ -77,7 +77,7 @@
     "name": "USDe",
     "symbol": "USDe",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
   },
   {
     "network": "arbitrum",
@@ -85,7 +85,7 @@
     "name": "Wrapped eETH",
     "symbol": "weETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe.png"
   },
   {
     "network": "arbitrum",
@@ -93,7 +93,7 @@
     "name": "Pepe",
     "symbol": "PEPE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png"
   },
   {
     "network": "arbitrum",
@@ -101,7 +101,7 @@
     "name": "Aave Token",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xba5DdD1f9d7F570dc94a51479a000E3BCE967196.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xba5DdD1f9d7F570dc94a51479a000E3BCE967196.png"
   },
   {
     "network": "arbitrum",
@@ -109,7 +109,7 @@
     "name": "Graph Token",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9623063377AD1B27544C965cCd7342f7EA7e88C7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9623063377AD1B27544C965cCd7342f7EA7e88C7.png"
   },
   {
     "network": "arbitrum",
@@ -117,7 +117,7 @@
     "name": "Bonk",
     "symbol": "Bonk",
     "decimals": 5,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x09199d9A5F4448D0848e4395D065e1ad9c4a1F74.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x09199d9A5F4448D0848e4395D065e1ad9c4a1F74.png"
   },
   {
     "network": "arbitrum",
@@ -125,7 +125,7 @@
     "name": "Lido DAO Token",
     "symbol": "LDO",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60.png"
   },
   {
     "network": "arbitrum",
@@ -133,7 +133,7 @@
     "name": "PancakeSwap Token",
     "symbol": "Cake",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c.png"
   },
   {
     "network": "arbitrum",
@@ -141,7 +141,7 @@
     "name": "Renzo Restaked ETH",
     "symbol": "ezETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
   },
   {
     "network": "arbitrum",
@@ -149,7 +149,7 @@
     "name": "Solv BTC",
     "symbol": "SolvBTC",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0.png"
   },
   {
     "network": "arbitrum",
@@ -157,7 +157,7 @@
     "name": "KelpDao Restaked ETH",
     "symbol": "rsETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4186BFC76E2E237523CBC30FD220FE055156b41F.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4186BFC76E2E237523CBC30FD220FE055156b41F.png"
   },
   {
     "network": "arbitrum",
@@ -165,7 +165,7 @@
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8.png"
   },
   {
     "network": "arbitrum",
@@ -173,7 +173,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978.png"
   },
   {
     "network": "arbitrum",
@@ -181,7 +181,7 @@
     "name": "Pendle",
     "symbol": "PENDLE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8.png"
   },
   {
     "network": "arbitrum",
@@ -189,7 +189,7 @@
     "name": "Arbitrum tBTC v2",
     "symbol": "tBTC",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40.png"
   },
   {
     "network": "arbitrum",
@@ -197,7 +197,7 @@
     "name": "Ondo U.S. Dollar Yield",
     "symbol": "USDY",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D.png"
   },
   {
     "network": "arbitrum",
@@ -205,7 +205,7 @@
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f.png"
   },
   {
     "network": "arbitrum",
@@ -213,7 +213,7 @@
     "name": "Olympus",
     "symbol": "OHM",
     "decimals": 9,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028.png"
   },
   {
     "network": "arbitrum",
@@ -221,7 +221,7 @@
     "name": "LayerZero",
     "symbol": "ZRO",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
   },
   {
     "network": "arbitrum",
@@ -229,7 +229,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F.png"
   },
   {
     "network": "arbitrum",
@@ -237,7 +237,7 @@
     "name": "Reserve Rights",
     "symbol": "RSR",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xCa5Ca9083702c56b481D1eec86F1776FDbd2e594.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xCa5Ca9083702c56b481D1eec86F1776FDbd2e594.png"
   },
   {
     "network": "arbitrum",
@@ -245,7 +245,7 @@
     "name": "Gnosis Token",
     "symbol": "GNO",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1.png"
   },
   {
     "network": "arbitrum",
@@ -253,7 +253,7 @@
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f.png"
   },
   {
     "network": "arbitrum",
@@ -261,7 +261,7 @@
     "name": "swETH",
     "symbol": "swETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18.png"
   },
   {
     "network": "arbitrum",
@@ -269,7 +269,7 @@
     "name": "Aethir Token",
     "symbol": "ATH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc87B37a581ec3257B734886d9d3a581F5A9d056c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc87B37a581ec3257B734886d9d3a581F5A9d056c.png"
   },
   {
     "network": "arbitrum",
@@ -277,7 +277,7 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f.png"
   },
   {
     "network": "arbitrum",
@@ -285,7 +285,7 @@
     "name": "Wormhole Token",
     "symbol": "W",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91.png"
   },
   {
     "network": "arbitrum",
@@ -293,7 +293,7 @@
     "name": "Gho Token",
     "symbol": "GHO",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33.png"
   },
   {
     "network": "arbitrum",
@@ -301,7 +301,7 @@
     "name": "Livepeer Token",
     "symbol": "LPT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x289ba1701C2F088cf0faf8B3705246331cB8A839.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x289ba1701C2F088cf0faf8B3705246331cB8A839.png"
   },
   {
     "network": "arbitrum",
@@ -309,7 +309,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7.png"
   },
   {
     "network": "arbitrum",
@@ -317,7 +317,7 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x82e3A8F066a6989666b031d916c43672085b1582.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x82e3A8F066a6989666b031d916c43672085b1582.png"
   },
   {
     "network": "arbitrum",
@@ -325,7 +325,7 @@
     "name": "Wootrade Network",
     "symbol": "WOO",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b.png"
   },
   {
     "network": "arbitrum",
@@ -333,7 +333,7 @@
     "name": "UXLINK Token",
     "symbol": "UXLINK",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1A6B3A62391ECcaaa992ade44cd4AFe6bEC8CfF1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1A6B3A62391ECcaaa992ade44cd4AFe6bEC8CfF1.png"
   },
   {
     "network": "arbitrum",
@@ -341,7 +341,7 @@
     "name": "ether.fi governance token",
     "symbol": "ETHFI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27.png"
   },
   {
     "network": "arbitrum",
@@ -349,7 +349,7 @@
     "name": "GMX",
     "symbol": "GMX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.png"
   },
   {
     "network": "arbitrum",
@@ -357,7 +357,7 @@
     "name": "LoopringCoin V2",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE.png"
   },
   {
     "network": "arbitrum",
@@ -365,7 +365,7 @@
     "name": "Across Protocol Token",
     "symbol": "ACX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x53691596d1BCe8CEa565b84d4915e69e03d9C99d.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x53691596d1BCe8CEa565b84d4915e69e03d9C99d.png"
   },
   {
     "network": "arbitrum",
@@ -373,7 +373,7 @@
     "name": "SushiToken",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xd4d42F0b6DEF4CE0383636770eF773390d85c61A.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xd4d42F0b6DEF4CE0383636770eF773390d85c61A.png"
   },
   {
     "network": "arbitrum",
@@ -381,7 +381,7 @@
     "name": "CoW Protocol Token",
     "symbol": "COW",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xcb8b5CD20BdCaea9a010aC1F8d835824F5C87A04.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xcb8b5CD20BdCaea9a010aC1F8d835824F5C87A04.png"
   },
   {
     "network": "arbitrum",
@@ -389,7 +389,7 @@
     "name": "WorldMobileToken",
     "symbol": "WMTX",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7.png"
   },
   {
     "network": "arbitrum",
@@ -397,7 +397,7 @@
     "name": "Curve.Fi USD Stablecoin",
     "symbol": "crvUSD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5.png"
   },
   {
     "network": "arbitrum",
@@ -405,7 +405,7 @@
     "name": "Spell Token",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.png"
   },
   {
     "network": "arbitrum",
@@ -413,7 +413,7 @@
     "name": "Venus XVS",
     "symbol": "XVS",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc1Eb7689147C81aC840d4FF0D298489fc7986d52.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc1Eb7689147C81aC840d4FF0D298489fc7986d52.png"
   },
   {
     "network": "arbitrum",
@@ -421,7 +421,7 @@
     "name": "Animecoin",
     "symbol": "ANIME",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x37a645648dF29205C6261289983FB04ECD70b4B3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x37a645648dF29205C6261289983FB04ECD70b4B3.png"
   },
   {
     "network": "arbitrum",
@@ -429,7 +429,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8.png"
   },
   {
     "network": "arbitrum",
@@ -437,7 +437,7 @@
     "name": "Orbs",
     "symbol": "ORBS",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf3C091ed43de9c270593445163a41A876A0bb3dd.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf3C091ed43de9c270593445163a41A876A0bb3dd.png"
   },
   {
     "network": "arbitrum",
@@ -445,7 +445,7 @@
     "name": "Frax USD",
     "symbol": "frxUSD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x80Eede496655FB9047dd39d9f418d5483ED600df.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x80Eede496655FB9047dd39d9f418d5483ED600df.png"
   },
   {
     "network": "arbitrum",
@@ -453,7 +453,7 @@
     "name": "Tellor Tributes",
     "symbol": "TRB",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xd58D345Fd9c82262E087d2D0607624B410D88242.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xd58D345Fd9c82262E087d2D0607624B410D88242.png"
   },
   {
     "network": "arbitrum",
@@ -461,7 +461,7 @@
     "name": "Subsquid",
     "symbol": "SQD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1.png"
   },
   {
     "network": "arbitrum",
@@ -469,7 +469,7 @@
     "name": "JoeToken",
     "symbol": "JOE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07.png"
   },
   {
     "network": "arbitrum",
@@ -477,7 +477,7 @@
     "name": "LQTY",
     "symbol": "LQTY",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449.png"
   },
   {
     "network": "arbitrum",
@@ -485,7 +485,7 @@
     "name": "CARV",
     "symbol": "CARV",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc08Cd26474722cE93F4D0c34D16201461c10AA8C.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc08Cd26474722cE93F4D0c34D16201461c10AA8C.png"
   },
   {
     "network": "arbitrum",
@@ -493,7 +493,7 @@
     "name": "Xai",
     "symbol": "XAI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66.png"
   },
   {
     "network": "arbitrum",
@@ -501,7 +501,7 @@
     "name": "HeyAnon",
     "symbol": "Anon",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
   },
   {
     "network": "arbitrum",
@@ -509,7 +509,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6.png"
   },
   {
     "network": "arbitrum",
@@ -517,7 +517,7 @@
     "name": "Autonomi",
     "symbol": "ANT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xa78d8321B20c4Ef90eCd72f2588AA985A4BDb684.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xa78d8321B20c4Ef90eCd72f2588AA985A4BDb684.png"
   },
   {
     "network": "arbitrum",
@@ -525,7 +525,7 @@
     "name": "Orbiter Token",
     "symbol": "OBT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1CD9a56c8C2eA913c70319A44Da75e99255aa46f.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1CD9a56c8C2eA913c70319A44Da75e99255aa46f.png"
   },
   {
     "network": "arbitrum",
@@ -533,7 +533,7 @@
     "name": "Mountain Protocol USD",
     "symbol": "USDM",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C.png"
   },
   {
     "network": "arbitrum",
@@ -541,7 +541,7 @@
     "name": "ViciCoin",
     "symbol": "VCNT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x60bf4E7cF16Ff34513514b968483B54Beff42a81.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x60bf4E7cF16Ff34513514b968483B54Beff42a81.png"
   },
   {
     "network": "arbitrum",
@@ -549,7 +549,7 @@
     "name": "MAGIC",
     "symbol": "MAGIC",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x539bdE0d7Dbd336b79148AA742883198BBF60342.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x539bdE0d7Dbd336b79148AA742883198BBF60342.png"
   },
   {
     "network": "arbitrum",
@@ -557,7 +557,7 @@
     "name": "Synapse",
     "symbol": "SYN",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x080F6AEd32Fc474DD5717105Dba5ea57268F46eb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x080F6AEd32Fc474DD5717105Dba5ea57268F46eb.png"
   },
   {
     "network": "arbitrum",
@@ -565,7 +565,7 @@
     "name": "TLOS",
     "symbol": "TLOS",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x193f4A4a6ea24102F49b931DEeeb931f6E32405d.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x193f4A4a6ea24102F49b931DEeeb931f6E32405d.png"
   },
   {
     "network": "arbitrum",
@@ -573,7 +573,7 @@
     "name": "Kujira native asset",
     "symbol": "KUJI",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca.png"
   },
   {
     "network": "arbitrum",
@@ -581,7 +581,7 @@
     "name": "Mobox",
     "symbol": "MBOX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xdA661fa59320B808c5a6d23579fCfEdf1FD3cf36.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xdA661fa59320B808c5a6d23579fCfEdf1FD3cf36.png"
   },
   {
     "network": "arbitrum",
@@ -589,7 +589,7 @@
     "name": "Milady",
     "symbol": "LADYS",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3b60FF35D3f7F62d636b067dD0dC0dFdAd670E4E.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3b60FF35D3f7F62d636b067dD0dC0dFdAd670E4E.png"
   },
   {
     "network": "arbitrum",
@@ -597,7 +597,7 @@
     "name": "AlphaToken",
     "symbol": "ALPHA",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xC9CBf102c73fb77Ec14f8B4C8bd88e050a6b2646.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xC9CBf102c73fb77Ec14f8B4C8bd88e050a6b2646.png"
   },
   {
     "network": "arbitrum",
@@ -605,7 +605,7 @@
     "name": "Orderly Network",
     "symbol": "ORDER",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8.png"
   },
   {
     "network": "arbitrum",
@@ -613,7 +613,7 @@
     "name": "Radiant",
     "symbol": "RDNT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3082CC23568eA640225c2467653dB90e9250AaA0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3082CC23568eA640225c2467653dB90e9250AaA0.png"
   },
   {
     "network": "arbitrum",
@@ -621,7 +621,7 @@
     "name": "SuperWalk",
     "symbol": "GRND",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3b58a4C865B568a2F6a957C264F6b50CbA35D8CE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3b58a4C865B568a2F6a957C264F6b50CbA35D8CE.png"
   },
   {
     "network": "arbitrum",
@@ -629,7 +629,7 @@
     "name": "Sperax",
     "symbol": "SPA",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x5575552988A3A80504bBaeB1311674fCFd40aD4B.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x5575552988A3A80504bBaeB1311674fCFd40aD4B.png"
   },
   {
     "network": "arbitrum",
@@ -637,7 +637,7 @@
     "name": "Wagmi",
     "symbol": "WAGMI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7.png"
   },
   {
     "network": "arbitrum",
@@ -645,7 +645,7 @@
     "name": "Derive",
     "symbol": "DRV",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x77b7787a09818502305C95d68A2571F090abb135.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x77b7787a09818502305C95d68A2571F090abb135.png"
   },
   {
     "network": "arbitrum",
@@ -653,7 +653,7 @@
     "name": "ChainBounty",
     "symbol": "BOUNTY",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6a9896837021EA3eD83F623F655C119c54abE02c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6a9896837021EA3eD83F623F655C119c54abE02c.png"
   },
   {
     "network": "arbitrum",
@@ -661,7 +661,7 @@
     "name": "Gyro Dollar",
     "symbol": "GYD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8.png"
   },
   {
     "network": "arbitrum",
@@ -669,7 +669,7 @@
     "name": "Vertex",
     "symbol": "VRTX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x95146881b86B3ee99e63705eC87AfE29Fcc044D9.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x95146881b86B3ee99e63705eC87AfE29Fcc044D9.png"
   },
   {
     "network": "arbitrum",
@@ -677,7 +677,7 @@
     "name": "Electronic Dollar",
     "symbol": "eUSD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x12275DCB9048680c4Be40942eA4D92c74C63b844.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x12275DCB9048680c4Be40942eA4D92c74C63b844.png"
   },
   {
     "network": "arbitrum",
@@ -685,7 +685,7 @@
     "name": "Pocket Network",
     "symbol": "POKT",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x764A726d9ceD0433A8D7643335919dEb03a9a935.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x764A726d9ceD0433A8D7643335919dEb03a9a935.png"
   },
   {
     "network": "arbitrum",
@@ -693,7 +693,7 @@
     "name": "Lumoz token",
     "symbol": "MOZ",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xE16e2548A576ad448FB014bBE85284D7f3542dF5.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xE16e2548A576ad448FB014bBE85284D7f3542dF5.png"
   },
   {
     "network": "arbitrum",
@@ -701,7 +701,7 @@
     "name": "OX Coin",
     "symbol": "OX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png"
   },
   {
     "network": "arbitrum",
@@ -709,7 +709,7 @@
     "name": "Axelar Wrapped LAVA",
     "symbol": "LAVA",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x11e969e9B3f89cB16D686a03Cd8508C9fC0361AF.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x11e969e9B3f89cB16D686a03Cd8508C9fC0361AF.png"
   },
   {
     "network": "arbitrum",
@@ -717,7 +717,7 @@
     "name": "AIDOGE",
     "symbol": "AIDOGE",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b.png"
   },
   {
     "network": "arbitrum",
@@ -725,7 +725,7 @@
     "name": "FOX",
     "symbol": "FOX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf929de51D91C77E42f5090069E0AD7A09e513c73.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf929de51D91C77E42f5090069E0AD7A09e513c73.png"
   },
   {
     "network": "arbitrum",
@@ -733,7 +733,7 @@
     "name": "WeatherXM",
     "symbol": "WXM",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6.png"
   },
   {
     "network": "arbitrum",
@@ -741,7 +741,7 @@
     "name": "Eigenpie",
     "symbol": "EGP",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7E7a7C916c19a45769f6BDAF91087f93c6C12F78.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7E7a7C916c19a45769f6BDAF91087f93c6C12F78.png"
   },
   {
     "network": "arbitrum",
@@ -749,7 +749,7 @@
     "name": "dForce USD",
     "symbol": "USX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb.png"
   },
   {
     "network": "arbitrum",
@@ -757,7 +757,7 @@
     "name": "Staked Frax USD",
     "symbol": "sfrxUSD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0.png"
   },
   {
     "network": "arbitrum",
@@ -765,7 +765,7 @@
     "name": "EYWA",
     "symbol": "EYWA",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7.png"
   },
   {
     "network": "arbitrum",
@@ -773,7 +773,7 @@
     "name": "Multichain",
     "symbol": "MULTI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3.png"
   },
   {
     "network": "arbitrum",
@@ -781,7 +781,7 @@
     "name": "Camelot token",
     "symbol": "GRAIL",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8.png"
   },
   {
     "network": "arbitrum",
@@ -789,7 +789,7 @@
     "name": "ZTX",
     "symbol": "ZTX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1C43D05be7E5b54D506e3DdB6f0305e8A66CD04e.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1C43D05be7E5b54D506e3DdB6f0305e8A66CD04e.png"
   },
   {
     "network": "arbitrum",
@@ -797,7 +797,7 @@
     "name": "Everclear",
     "symbol": "CLEAR",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8.png"
   },
   {
     "network": "arbitrum",
@@ -805,7 +805,7 @@
     "name": "VNX Franc",
     "symbol": "VCHF",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x02cea97794D2cFB5f560e1fF4e9C59D1BEC75969.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x02cea97794D2cFB5f560e1fF4e9C59D1BEC75969.png"
   },
   {
     "network": "arbitrum",
@@ -813,7 +813,7 @@
     "name": "Aury",
     "symbol": "AURY",
     "decimals": 9,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x11Bf4f05EB28b802ED3aB672594DEcB20ffe2313.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x11Bf4f05EB28b802ED3aB672594DEcB20ffe2313.png"
   },
   {
     "network": "arbitrum",
@@ -821,7 +821,7 @@
     "name": "Moons",
     "symbol": "MOON",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x24404DC041d74cd03cFE28855F555559390C931b.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x24404DC041d74cd03cFE28855F555559390C931b.png"
   },
   {
     "network": "arbitrum",
@@ -829,7 +829,7 @@
     "name": "MUX Protocol",
     "symbol": "MCB",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42.png"
   },
   {
     "network": "arbitrum",
@@ -837,7 +837,7 @@
     "name": "Miracleplay Token",
     "symbol": "MPT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A.png"
   },
   {
     "network": "arbitrum",
@@ -845,7 +845,7 @@
     "name": "TRUST AI",
     "symbol": "TRT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x63db244bC895b3AcCEC6698cE11b0dbD1d3e1C44.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x63db244bC895b3AcCEC6698cE11b0dbD1d3e1C44.png"
   },
   {
     "network": "arbitrum",
@@ -853,7 +853,7 @@
     "name": "GameSwift",
     "symbol": "GSWIFT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x580E933D90091b9cE380740E3a4A39c67eB85B4c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x580E933D90091b9cE380740E3a4A39c67eB85B4c.png"
   },
   {
     "network": "arbitrum",
@@ -861,7 +861,7 @@
     "name": "Wrapped PAW",
     "symbol": "wPAW",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb.png"
   },
   {
     "network": "arbitrum",
@@ -869,7 +869,7 @@
     "name": "Polytrade",
     "symbol": "TRADE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xE22c452bd2AdE15DfC8ad98286bc6bDF0c9219b7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xE22c452bd2AdE15DfC8ad98286bc6bDF0c9219b7.png"
   },
   {
     "network": "arbitrum",
@@ -877,7 +877,7 @@
     "name": "Worldwide USD",
     "symbol": "WUSD",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x386601d1E55C48E759Bbf57c56015aAd0D7f1b56.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x386601d1E55C48E759Bbf57c56015aAd0D7f1b56.png"
   },
   {
     "network": "arbitrum",
@@ -885,7 +885,7 @@
     "name": "BLOK",
     "symbol": "BLOK",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9DCE8e754913d928eB39Bc4fC3CF047e364f7f2C.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9DCE8e754913d928eB39Bc4fC3CF047e364f7f2C.png"
   },
   {
     "network": "arbitrum",
@@ -893,7 +893,7 @@
     "name": "Game7",
     "symbol": "G7",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xF18e4466F26B4cA55bbAb890b314a54976E45B17.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xF18e4466F26B4cA55bbAb890b314a54976E45B17.png"
   },
   {
     "network": "arbitrum",
@@ -901,7 +901,7 @@
     "name": "Fuse Token",
     "symbol": "FUSE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xBDeF0E9ef12E689F366fe494A7A7D0dad25D9286.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xBDeF0E9ef12E689F366fe494A7A7D0dad25D9286.png"
   },
   {
     "network": "arbitrum",
@@ -909,7 +909,7 @@
     "name": "Sensay",
     "symbol": "SNSY",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3124678D62D2aa1f615B54525310fbfDa6DcF7AE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3124678D62D2aa1f615B54525310fbfDa6DcF7AE.png"
   },
   {
     "network": "arbitrum",
@@ -917,7 +917,7 @@
     "name": "Rivalz Token",
     "symbol": "RIZ",
     "decimals": 8,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x083Fb956333f9c1568F66fc0d0BE451f31F8c46c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x083Fb956333f9c1568F66fc0d0BE451f31F8c46c.png"
   },
   {
     "network": "arbitrum",
@@ -925,7 +925,7 @@
     "name": "Neuron",
     "symbol": "NRN",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xdadeca1167fe47499e53Eb50F261103630974905.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xdadeca1167fe47499e53Eb50F261103630974905.png"
   },
   {
     "network": "arbitrum",
@@ -933,7 +933,7 @@
     "name": "Hydranet",
     "symbol": "HDN",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3404149e9EE6f17Fb41DB1Ce593ee48FBDcD9506.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3404149e9EE6f17Fb41DB1Ce593ee48FBDcD9506.png"
   },
   {
     "network": "arbitrum",
@@ -941,7 +941,7 @@
     "name": "Landshare Token",
     "symbol": "LAND",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x27Bc2757fAb0b8aB406016D1f71d8123452095d3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x27Bc2757fAb0b8aB406016D1f71d8123452095d3.png"
   },
   {
     "network": "arbitrum",
@@ -949,7 +949,7 @@
     "name": "KiboShib",
     "symbol": "KIBSHI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf525E73bdeB4ac1b0e741aF3Ed8a8CBB43ab0756.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf525E73bdeB4ac1b0e741aF3Ed8a8CBB43ab0756.png"
   },
   {
     "network": "arbitrum",
@@ -957,7 +957,7 @@
     "name": "MahaDAO",
     "symbol": "MAHA",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xEB99748e91AfCA94a6289db3b02E7ef4a8f0A22d.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xEB99748e91AfCA94a6289db3b02E7ef4a8f0A22d.png"
   },
   {
     "network": "arbitrum",
@@ -965,7 +965,7 @@
     "name": "SYNTHR",
     "symbol": "SYNTH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x0721b3C9f19cfeF1d622C918DcD431960f35E060.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x0721b3C9f19cfeF1d622C918DcD431960f35E060.png"
   },
   {
     "network": "arbitrum",
@@ -973,7 +973,7 @@
     "name": "RUBIC TOKEN",
     "symbol": "RBC",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x10aAeD289a7b1B0155bF4b86c862f297E84465e0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x10aAeD289a7b1B0155bF4b86c862f297E84465e0.png"
   },
   {
     "network": "arbitrum",
@@ -981,7 +981,7 @@
     "name": "LogX Network",
     "symbol": "LOGX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x59062301Fb510F4ea2417B67404CB16D31E604BA.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x59062301Fb510F4ea2417B67404CB16D31E604BA.png"
   },
   {
     "network": "arbitrum",
@@ -989,7 +989,7 @@
     "name": "GAM3S.GG",
     "symbol": "G3",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc24A365A870821EB83Fd216c9596eDD89479d8d7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc24A365A870821EB83Fd216c9596eDD89479d8d7.png"
   },
   {
     "network": "arbitrum",
@@ -997,7 +997,7 @@
     "name": "OpenOcean",
     "symbol": "OOE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xDCbf4CB83d27C408B30dD7F39bfcabD7176B1Ba3.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xDCbf4CB83d27C408B30dD7F39bfcabD7176B1Ba3.png"
   },
   {
     "network": "arbitrum",
@@ -1005,7 +1005,7 @@
     "name": "CBPAY",
     "symbol": "CBPAY",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xd6cF874E24A9F5f43075142101A6b13735CDD424.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xd6cF874E24A9F5f43075142101A6b13735CDD424.png"
   },
   {
     "network": "arbitrum",
@@ -1013,7 +1013,7 @@
     "name": "Real Smurf Cat",
     "symbol": "шайлушай",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x06e90A57D1ECe8752d6CE92D1aD348EaD5Eae4f4.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x06e90A57D1ECe8752d6CE92D1aD348EaD5Eae4f4.png"
   },
   {
     "network": "arbitrum",
@@ -1021,7 +1021,7 @@
     "name": "LandX Governance Token",
     "symbol": "LNDX",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xe10D4a4255D2D35c9e23E2C4790E073046FbaF5c.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xe10D4a4255D2D35c9e23E2C4790E073046FbaF5c.png"
   },
   {
     "network": "arbitrum",
@@ -1029,7 +1029,7 @@
     "name": "Paribus",
     "symbol": "PBX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xbAD58ed9b5f26A002ea250D7A60dC6729a4a2403.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xbAD58ed9b5f26A002ea250D7A60dC6729a4a2403.png"
   },
   {
     "network": "arbitrum",
@@ -1037,7 +1037,7 @@
     "name": "KIMA",
     "symbol": "KIMA",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x94fCD9c18f99538C0f7C61c5500cA79F0D5C4dab.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x94fCD9c18f99538C0f7C61c5500cA79F0D5C4dab.png"
   },
   {
     "network": "arbitrum",
@@ -1045,7 +1045,7 @@
     "name": "SpunkySDX",
     "symbol": "SSDX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xDb40357fBC1eb1038C5dF94c1cD7B7Fd3F434480.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xDb40357fBC1eb1038C5dF94c1cD7B7Fd3F434480.png"
   },
   {
     "network": "arbitrum",
@@ -1053,7 +1053,7 @@
     "name": "Pear",
     "symbol": "PEAR",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3212dc0F8c834e4DE893532d27CC9B6001684DB0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3212dc0F8c834e4DE893532d27CC9B6001684DB0.png"
   },
   {
     "network": "arbitrum",
@@ -1061,7 +1061,7 @@
     "name": "Level Token",
     "symbol": "LVL",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149.png"
   },
   {
     "network": "arbitrum",
@@ -1069,7 +1069,7 @@
     "name": "Quantlytica Token",
     "symbol": "QTLX",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4D840b741bc05FDE325D4Ec0B4CFCD0CeA237e4E.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4D840b741bc05FDE325D4Ec0B4CFCD0CeA237e4E.png"
   },
   {
     "network": "arbitrum",
@@ -1077,7 +1077,7 @@
     "name": "OpenLeverage Token V2",
     "symbol": "OLE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7Be5Dd337CC6cE3e474F64E2A92A566445290864.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x7Be5Dd337CC6cE3e474F64E2A92A566445290864.png"
   },
   {
     "network": "arbitrum",
@@ -1085,7 +1085,7 @@
     "name": "Lybra",
     "symbol": "LBR",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73.png"
   },
   {
     "network": "arbitrum",
@@ -1093,7 +1093,7 @@
     "name": "Kommunitas",
     "symbol": "KOM",
     "decimals": 8,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xA58663FAEF461761e44066ea26c1FCddF2927B80.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xA58663FAEF461761e44066ea26c1FCddF2927B80.png"
   },
   {
     "network": "arbitrum",
@@ -1101,7 +1101,7 @@
     "name": "poor guy",
     "symbol": "pogai",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6fD58f5a2F3468e35fEb098b5F59F04157002407.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6fD58f5a2F3468e35fEb098b5F59F04157002407.png"
   },
   {
     "network": "arbitrum",
@@ -1109,7 +1109,7 @@
     "name": "Kapital DAO Token",
     "symbol": "KAP",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x965d00aA7ABC62CA10132e641D08593435aC811d.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x965d00aA7ABC62CA10132e641D08593435aC811d.png"
   },
   {
     "network": "arbitrum",
@@ -1117,7 +1117,7 @@
     "name": "StarHeroes",
     "symbol": "STAR",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xB299751B088336E165dA313c33e3195B8c6663A6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xB299751B088336E165dA313c33e3195B8c6663A6.png"
   },
   {
     "network": "arbitrum",
@@ -1125,7 +1125,7 @@
     "name": "Kromatika",
     "symbol": "KROM",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x55fF62567f09906A85183b866dF84bf599a4bf70.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x55fF62567f09906A85183b866dF84bf599a4bf70.png"
   },
   {
     "network": "arbitrum",
@@ -1133,7 +1133,7 @@
     "name": "Wicrypt Network Token",
     "symbol": "WNT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xAD4b9c1FbF4923061814dD9d5732EB703FaA53D4.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xAD4b9c1FbF4923061814dD9d5732EB703FaA53D4.png"
   },
   {
     "network": "arbitrum",
@@ -1141,7 +1141,7 @@
     "name": "Credbull",
     "symbol": "CBL",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xD6b3d81868770083307840F513A3491960b95cb6.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xD6b3d81868770083307840F513A3491960b95cb6.png"
   },
   {
     "network": "arbitrum",
@@ -1149,7 +1149,7 @@
     "name": "AARK Token",
     "symbol": "AARK",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xCa4e51F6AD4AFd9d1068E5899De9dd7d73F3463D.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xCa4e51F6AD4AFd9d1068E5899De9dd7d73F3463D.png"
   },
   {
     "network": "arbitrum",
@@ -1157,7 +1157,7 @@
     "name": "Nexade",
     "symbol": "NEXD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3858567501fbf030BD859EE831610fCc710319f4.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3858567501fbf030BD859EE831610fCc710319f4.png"
   },
   {
     "network": "arbitrum",
@@ -1165,7 +1165,7 @@
     "name": "Hop",
     "symbol": "HOP",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC.png"
   },
   {
     "network": "arbitrum",
@@ -1173,7 +1173,7 @@
     "name": "AIRDROP Token",
     "symbol": "AIRDROP",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xdc5F1BF636DcAdaE7e285A484Dc71A1F5adeE0A1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xdc5F1BF636DcAdaE7e285A484Dc71A1F5adeE0A1.png"
   },
   {
     "network": "arbitrum",
@@ -1181,7 +1181,7 @@
     "name": "Rabbit",
     "symbol": "RAB",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe.png"
   },
   {
     "network": "arbitrum",
@@ -1189,7 +1189,7 @@
     "name": "BladeGames",
     "symbol": "BLADE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xE8B201BE5357c07F0Aa58693F98FB048323777f9.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xE8B201BE5357c07F0Aa58693F98FB048323777f9.png"
   },
   {
     "network": "arbitrum",
@@ -1197,7 +1197,7 @@
     "name": "Aperture",
     "symbol": "APTR",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1C986661170c1834db49C3830130D4038eEeb866.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x1C986661170c1834db49C3830130D4038eEeb866.png"
   },
   {
     "network": "arbitrum",
@@ -1205,7 +1205,7 @@
     "name": "ZigZag",
     "symbol": "ZZ",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xADA42bb73b42e0472A994218fb3799dFCDA21237.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xADA42bb73b42e0472A994218fb3799dFCDA21237.png"
   },
   {
     "network": "arbitrum",
@@ -1213,7 +1213,7 @@
     "name": "Sui (Universal)",
     "symbol": "uSUI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4.png"
   },
   {
     "network": "arbitrum",
@@ -1221,7 +1221,7 @@
     "name": "GRIMACE COIN",
     "symbol": "GRIMACE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x764BFC309090E7f93EDcE53E5BeFa374CDCB7b8e.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x764BFC309090E7f93EDcE53E5BeFa374CDCB7b8e.png"
   },
   {
     "network": "arbitrum",
@@ -1229,7 +1229,7 @@
     "name": "Sperax USD",
     "symbol": "USDs",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xD74f5255D557944cf7Dd0E45FF521520002D5748.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xD74f5255D557944cf7Dd0E45FF521520002D5748.png"
   },
   {
     "network": "arbitrum",
@@ -1237,7 +1237,7 @@
     "name": "EUROe Stablecoin",
     "symbol": "EUROe",
     "decimals": 6,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xcF985abA4647a432E60efcEeB8054BBd64244305.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xcF985abA4647a432E60efcEeB8054BBd64244305.png"
   },
   {
     "network": "arbitrum",
@@ -1245,7 +1245,7 @@
     "name": "GPT",
     "symbol": "GPT",
     "decimals": 9,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xe021047851012D8e981EbD9F3C2CBB8945E996DA.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xe021047851012D8e981EbD9F3C2CBB8945E996DA.png"
   },
   {
     "network": "arbitrum",
@@ -1253,7 +1253,7 @@
     "name": "noiseGPT",
     "symbol": "noiseGPT",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xaDD5620057336f868EAe78A451C503Ae7b576BAD.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xaDD5620057336f868EAe78A451C503Ae7b576BAD.png"
   },
   {
     "network": "arbitrum",
@@ -1261,7 +1261,7 @@
     "name": "Ronald McDonald Token",
     "symbol": "RONALD",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xfB08Dac00Da5E400915aF269245C722718293111.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xfB08Dac00Da5E400915aF269245C722718293111.png"
   },
   {
     "network": "arbitrum",
@@ -1269,7 +1269,7 @@
     "name": "EdgeMatrix Computing network",
     "symbol": "EMC",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xDFB8BE6F8c87f74295A87de951974362CedCFA30.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xDFB8BE6F8c87f74295A87de951974362CedCFA30.png"
   },
   {
     "network": "arbitrum",
@@ -1277,7 +1277,7 @@
     "name": "Mayor McCheese Token",
     "symbol": "McCHEESE",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6658394CA08b855De82e15A8002A8D1c4f0d05d9.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x6658394CA08b855De82e15A8002A8D1c4f0d05d9.png"
   },
   {
     "network": "arbitrum",
@@ -1285,7 +1285,7 @@
     "name": "Universal ETH",
     "symbol": "uniETH",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3d15fD46CE9e551498328B1C83071D9509E2C3a0.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x3d15fD46CE9e551498328B1C83071D9509E2C3a0.png"
   },
   {
     "network": "arbitrum",
@@ -1293,7 +1293,7 @@
     "name": "Byte",
     "symbol": "BYTE",
     "decimals": 9,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x847503FbF003cE8B005546Aa3c03B80b7C2F9771.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x847503FbF003cE8B005546Aa3c03B80b7C2F9771.png"
   },
   {
     "network": "arbitrum",
@@ -1301,7 +1301,7 @@
     "name": "OmniCat",
     "symbol": "OMNI",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9e20461bc2c4c980f62f1B279D71734207a6A356.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9e20461bc2c4c980f62f1B279D71734207a6A356.png"
   },
   {
     "network": "arbitrum",
@@ -1309,7 +1309,7 @@
     "name": "Empyreal",
     "symbol": "EMP",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x772598E9e62155D7fDFe65FdF01EB5a53a8465BE.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x772598E9e62155D7fDFe65FdF01EB5a53a8465BE.png"
   },
   {
     "network": "arbitrum",
@@ -1317,7 +1317,7 @@
     "name": "Account Abstraction Incentive",
     "symbol": "AA",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1.png"
   },
   {
     "network": "arbitrum",
@@ -1325,7 +1325,7 @@
     "name": "Launchpool token",
     "symbol": "LPOOL",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf6dAE0D2be4993b00a2673360820AF6BAfD53887.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xf6dAE0D2be4993b00a2673360820AF6BAfD53887.png"
   },
   {
     "network": "arbitrum",
@@ -1333,7 +1333,7 @@
     "name": "VNX Euro",
     "symbol": "VEUR",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4883C8f0529F37e40eBeA870F3C13cDfAD5d01f8.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x4883C8f0529F37e40eBeA870F3C13cDfAD5d01f8.png"
   },
   {
     "network": "arbitrum",
@@ -1341,7 +1341,7 @@
     "name": "The Standard USD",
     "symbol": "USDs",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d.png"
   },
   {
     "network": "arbitrum",
@@ -1349,7 +1349,7 @@
     "name": "EURA (previously agEUR)",
     "symbol": "EURA",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.png"
   },
   {
     "network": "arbitrum",
@@ -1357,7 +1357,7 @@
     "name": "CHRONOS",
     "symbol": "CHR",
     "decimals": 18,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851.png"
   },
   {
     "network": "arbitrum",
@@ -1365,7 +1365,7 @@
     "name": "Wrapped USDR",
     "symbol": "wUSDR",
     "decimals": 9,
-    "logoURI": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9483ab65847A447e36d21af1CaB8C87e9712ff93.png"
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x9483ab65847A447e36d21af1CaB8C87e9712ff93.png"
   },
   {
     "network": "arbitrum",
