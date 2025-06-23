@@ -921,6 +921,14 @@
   },
   {
     "network": "polygon",
+    "address": "0x52828daa48C1a9A06F37500882b42daf0bE04C3B",
+    "name": "cNGN",
+    "symbol": "cNGN",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x52828daa48C1a9A06F37500882b42daf0bE04C3B.png"
+  },
+  {
+    "network": "polygon",
     "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
     "name": "GAMEE",
     "symbol": "GMEE",
