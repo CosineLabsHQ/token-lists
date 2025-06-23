@@ -1537,6 +1537,14 @@
   },
   {
     "network": "smartchain",
+    "address": "0xa8AEA66B361a8d53e8865c62D142167Af28Af058",
+    "name": "cNGN",
+    "symbol": "cNGN",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xa8AEA66B361a8d53e8865c62D142167Af28Af058.png"
+  },
+  {
+    "network": "smartchain",
     "address": "0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2",
     "name": "pTokens CGG",
     "symbol": "CGG",

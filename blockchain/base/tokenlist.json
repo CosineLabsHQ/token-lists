@@ -697,6 +697,14 @@
   },
   {
     "network": "base",
+    "address": "0x46C85152bFe9f96829aA94755D9f915F9B10EF5F",
+    "name": "cNGN",
+    "symbol": "cNGN",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x46C85152bFe9f96829aA94755D9f915F9B10EF5F.png"
+  },
+  {
+    "network": "base",
     "address": "0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8",
     "name": "XPRT native asset",
     "symbol": "XPRT",

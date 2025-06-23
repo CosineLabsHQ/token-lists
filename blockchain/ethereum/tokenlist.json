@@ -1929,6 +1929,14 @@
   },
   {
     "network": "ethereum",
+    "address": "0x17CDB2a01e7a34CbB3DD4b83260B05d0274C8dab",
+    "name": "cNGN",
+    "symbol": "cNGN",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x17CDB2a01e7a34CbB3DD4b83260B05d0274C8dab.png"
+  },
+  {
+    "network": "ethereum",
     "address": "0x196c81385Bc536467433014042788Eb707703934",
     "name": "CTASK Token",
     "symbol": "CTASK",
