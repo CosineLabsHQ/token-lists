@@ -1,0 +1,16 @@
+{
+  "name": "token-lists",
+  "version": "1.0.0",
+  "description": "We manages an open source token list using a JSON schema, ideal for integration into various app interfaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
