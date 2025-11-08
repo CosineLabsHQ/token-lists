@@ -1,0 +1,12 @@
+# Protected branches
+protected_branches="main"
+# Get the branch
+current_branch="$(git rev-parse --abbrev-ref HEAD)"
+
+if echo "$protected_branches" | grep -w "$current_branch" > /dev/null; then
+  echo "❌ Merge not allowed into '$current_branch' branch!"
+  echo "👉 Use Pull Requests to merge into protected branches."
+  exit 1
+fi
+
+exit 0
