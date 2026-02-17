@@ -65,6 +65,14 @@
   },
   {
     "network": "ethereum",
+    "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8.png"
+  },
+  {
+    "network": "ethereum",
     "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
     "name": "ChainLink Token",
     "symbol": "LINK",
@@ -366,14 +374,6 @@
     "symbol": "Bonk",
     "decimals": 5,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x1151CB3d861920e07a38e03eEAd12C32178567F6.png"
-  },
-  {
-    "network": "ethereum",
-    "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
-    "name": "PayPal USD",
-    "symbol": "PYUSD",
-    "decimals": 6,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8.png"
   },
   {
     "network": "ethereum",
