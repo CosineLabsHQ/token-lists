@@ -97,6 +97,14 @@
   },
   {
     "network": "arbitrum",
+    "address": "0x46850aD61C2B7d64d08c9C754F45254596696984",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x46850aD61C2B7d64d08c9C754F45254596696984.png"
+  },
+  {
+    "network": "arbitrum",
     "address": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
     "name": "Aave Token",
     "symbol": "AAVE",
