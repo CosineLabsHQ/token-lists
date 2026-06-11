@@ -489,6 +489,30 @@
   },
   {
     "network": "base",
+    "address": "0x1111111111166b7FE7bd91427724B487980aFc69",
+    "name": "Zora",
+    "symbol": "ZORA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x1111111111166b7FE7bd91427724B487980aFc69.png"
+  },
+  {
+    "network": "base",
+    "address": "0xC729777d0470F30612B1564Fd96E8Dd26f5814E3",
+    "name": "Sapien",
+    "symbol": "SAPIEN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0xC729777d0470F30612B1564Fd96E8Dd26f5814E3.png"
+  },
+  {
+    "network": "base",
+    "address": "0x293d36b129F1E6538A036318499d83BD06eB17E9",
+    "name": "dAUD",
+    "symbol": "dAUD",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x293d36b129F1E6538A036318499d83BD06eB17E9.png"
+  },
+  {
+    "network": "base",
     "address": "0xdCf5130274753c8050aB061B1a1DCbf583f5bFd0",
     "name": "ViciCoin",
     "symbol": "VCNT",

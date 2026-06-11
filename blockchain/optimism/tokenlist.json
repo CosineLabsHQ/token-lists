@@ -57,6 +57,14 @@
   },
   {
     "network": "optimism",
+    "address": "0x01bFF41798a0BcF287b996046Ca68b395DbC1071",
+    "name": "USD₮0",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x01bFF41798a0BcF287b996046Ca68b395DbC1071.png"
+  },
+  {
+    "network": "optimism",
     "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
     "name": "ChainLink Token",
     "symbol": "LINK",
@@ -70,6 +78,30 @@
     "symbol": "wstETH",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4.png"
+  },
+  {
+    "network": "optimism",
+    "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/optimism/0xeF4461891DfB3AC8572cCf7C794664A8DD927945.png"
   },
   {
     "network": "optimism",

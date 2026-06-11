@@ -425,6 +425,30 @@
   },
   {
     "network": "polygon",
+    "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+    "name": "PYR Token",
+    "symbol": "PYR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x430EF9263E76DAE63c84292C3409D61c598E9682.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x311434160D7537be358930def317AfB606C0D737",
+    "name": "Nakamoto.Games",
+    "symbol": "NAKA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x311434160D7537be358930def317AfB606C0D737.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0xa8719F9F4c23266a214112AAf4902c1000c02E7c",
+    "name": "XDUS",
+    "symbol": "XDUS",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xa8719F9F4c23266a214112AAf4902c1000c02E7c.png"
+  },
+  {
+    "network": "polygon",
     "address": "0x7ABE9Edf5C544A04dA83e9110CF46DBC4759170c",
     "name": "WPAY",
     "symbol": "WPAY",

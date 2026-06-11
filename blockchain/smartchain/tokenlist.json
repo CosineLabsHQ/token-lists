@@ -865,6 +865,590 @@
   },
   {
     "network": "smartchain",
+    "address": "0xB7C0007ab75350c582d5eAb1862b872B5cF53F0C",
+    "name": "pumpBTC Governance token",
+    "symbol": "PUMP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xB7C0007ab75350c582d5eAb1862b872B5cF53F0C.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x070a08BeEF8d36734dD67A491202fF35a6A16d97",
+    "name": "Smooth Love Potion",
+    "symbol": "SLP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x070a08BeEF8d36734dD67A491202fF35a6A16d97.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
+    "name": "Kyber Network Crystal",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+    "name": "Compound Coin",
+    "symbol": "COMP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x8595F9dA7b868b1822194fAEd312235E43007b49.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x44Ec807ce2F4a6F2737A92e985f318d035883e47",
+    "name": "Hashflow",
+    "symbol": "HFT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x44Ec807ce2F4a6F2737A92e985f318d035883e47.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x798aF7725376765e7F3cA86d5e0Cf1BEaEf19F34",
+    "name": "Atomic Wallet Token",
+    "symbol": "AWC",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x798aF7725376765e7F3cA86d5e0Cf1BEaEf19F34.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3",
+    "name": "Mask Network",
+    "symbol": "MASK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA",
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x67b725d7e342d7B611fa85e859Df9697D9378B2e",
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x67b725d7e342d7B611fa85e859Df9697D9378B2e.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xeA998D307ACA04D4f0A3B3036Aba84AE2E409C0A",
+    "name": "JUST",
+    "symbol": "JST",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xeA998D307ACA04D4f0A3B3036Aba84AE2E409C0A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x7f792db54B0e580Cdc755178443f0430Cf799aCa",
+    "name": "Volt Inu",
+    "symbol": "VOLT",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x7f792db54B0e580Cdc755178443f0430Cf799aCa.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x0F0df6cB17ee5E883eddFEf9153fC6036BDB4e37",
+    "name": "BNB Attestation",
+    "symbol": "BAS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x0F0df6cB17ee5E883eddFEf9153fC6036BDB4e37.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC943c5320B9c18C153d1e2d12cC3074bebfb31A2",
+    "name": "FLOW",
+    "symbol": "FLOW",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xC943c5320B9c18C153d1e2d12cC3074bebfb31A2.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe097bcEb09bfb18047Cf259F321cC129b7bEba5e",
+    "name": "TipsyCoin",
+    "symbol": "$tipsy",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xe097bcEb09bfb18047Cf259F321cC129b7bEba5e.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x595dEaad1eB5476Ff1E649fDb7EFC36F1E4679cc",
+    "name": "Block Street",
+    "symbol": "BSB",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x595dEaad1eB5476Ff1E649fDb7EFC36F1E4679cc.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4d5AC5cc4f8aBdf2EC2Cb986C00C382369f787D4",
+    "name": "Illuvium",
+    "symbol": "ILV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x4d5AC5cc4f8aBdf2EC2Cb986C00C382369f787D4.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC",
+    "name": "CryptoZoon",
+    "symbol": "ZOON",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D",
+    "name": "Poodl",
+    "symbol": "POODL",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4aCb4CC1f0A073ce4BDe893fAebc726198c14444",
+    "name": "Nasdaq666",
+    "symbol": "NDQ",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x4aCb4CC1f0A073ce4BDe893fAebc726198c14444.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x02533c1e9AbBAfE5816ed8B27c0D22a8731075E0",
+    "name": "ChangeNOW",
+    "symbol": "NOW",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x02533c1e9AbBAfE5816ed8B27c0D22a8731075E0.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9",
+    "name": "Travala.com Token",
+    "symbol": "AVA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xDf061250302E5cCae091B18CA2B45914D785F214",
+    "name": "Pop Token",
+    "symbol": "PPT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xDf061250302E5cCae091B18CA2B45914D785F214.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8443f091997f06a61670B735ED92734F5628692F",
+    "name": "Bella Protocol",
+    "symbol": "BEL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x8443f091997f06a61670B735ED92734F5628692F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+    "name": "Aster",
+    "symbol": "ASTER",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x000Ae314E2A2172a039B26378814C252734f556A.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4",
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+    "name": "Radio Caca V2",
+    "symbol": "RACA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x12BB890508c125661E03b09EC06E404bc9289040.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xB8A677E6D805c8d743e6f14c8bC9C19305b5deFC",
+    "name": "Newton",
+    "symbol": "NEWT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xB8A677E6D805c8d743e6f14c8bC9C19305b5deFC.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07",
+    "name": "StakeStone",
+    "symbol": "STO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5d3A12c42E5372B2CC3264AB3cdcF660a1555238",
+    "name": "ARIA.AI",
+    "symbol": "ARIA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x5d3A12c42E5372B2CC3264AB3cdcF660a1555238.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
+    "name": "Chroma",
+    "symbol": "CHR",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xDf24f8c21Cb404B3031a450D8e049D6E39FC1fA5",
+    "name": "Billions Network Token",
+    "symbol": "BILL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xDf24f8c21Cb404B3031a450D8e049D6E39FC1fA5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD82544bf0dfe8385eF8FA34D67e6e4940CC63e16",
+    "name": "MYX",
+    "symbol": "MYX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xD82544bf0dfe8385eF8FA34D67e6e4940CC63e16.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x287880Ea252b52b63Cc5f40a2d3E5A44aa665a76",
+    "name": "ALPINE Fan Token",
+    "symbol": "ALPINE",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x287880Ea252b52b63Cc5f40a2d3E5A44aa665a76.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83",
+    "name": "Bitrise Token",
+    "symbol": "BRISE",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+    "name": "Chess",
+    "symbol": "CHESS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1633b7157e7638C4d6593436111Bf125Ee74703F",
+    "name": "Splintershards",
+    "symbol": "SPS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x1633b7157e7638C4d6593436111Bf125Ee74703F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE",
+    "name": "0G",
+    "symbol": "0G",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xC3afDe95B6Eb9ba8553cDAea6645D45fB3a7FAF5",
+    "name": "Kiba Inu",
+    "symbol": "KIBA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xC3afDe95B6Eb9ba8553cDAea6645D45fB3a7FAF5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB",
+    "name": "AVNRich Token",
+    "symbol": "AVN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967",
+    "name": "Haedal",
+    "symbol": "HAEDAL",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+    "name": "Ankr",
+    "symbol": "ANKR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xf307910A4c7bbc79691fD374889b36d8531B08e3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA177BdD433AEa3702beb46652aDcFc64248d4aB3",
+    "name": "Probinex Token",
+    "symbol": "PBX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xA177BdD433AEa3702beb46652aDcFc64248d4aB3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x02fF5065692783374947393723dbA9599e59F591",
+    "name": "YOOSHI",
+    "symbol": "YOOSHI",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x02fF5065692783374947393723dbA9599e59F591.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA3aBE68db1B8467B44715eb94542B20DC134f005",
+    "name": "Fluffy Coin",
+    "symbol": "FLUF",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xA3aBE68db1B8467B44715eb94542B20DC134f005.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xBc7d6B50616989655AfD682fb42743507003056D",
+    "name": "Alchemy",
+    "symbol": "ACH",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xBc7d6B50616989655AfD682fb42743507003056D.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAe2DF9F730c54400934c06a17462c41C08a06ED8",
+    "name": "DogeBonk.com",
+    "symbol": "DOBO",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xAe2DF9F730c54400934c06a17462c41C08a06ED8.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9cfAE8067322394e34E6b734c4a3F72aCC4a7Fe5",
+    "name": "DecentralGPT",
+    "symbol": "DGC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x9cfAE8067322394e34E6b734c4a3F72aCC4a7Fe5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA49fA5E8106E2d6d6a69E78df9B6A20AaB9c4444",
+    "name": "donkey",
+    "symbol": "DONKEY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xA49fA5E8106E2d6d6a69E78df9B6A20AaB9c4444.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+    "name": "FLOKI",
+    "symbol": "FLOKI",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xfb5B838b6cfEEdC2873aB27866079AC55363D37E.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE37DbF20A4fFf3B88233e456355dc49B76B6fe19",
+    "name": "Love Earn Enjoy",
+    "symbol": "LEE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xE37DbF20A4fFf3B88233e456355dc49B76B6fe19.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xD7730681B1DC8f6F969166B29D8A5EA8568616a3",
+    "name": "Nafter",
+    "symbol": "NAFT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xD7730681B1DC8f6F969166B29D8A5EA8568616a3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x00312400303d02c323295f6E8b7309bc30FB6BcE",
+    "name": "Caldera",
+    "symbol": "ERA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x00312400303d02c323295f6E8b7309bc30FB6BcE.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x495205d4c6307A73595C5C11B44Bee9B3418Ac69",
+    "name": "Gafa",
+    "symbol": "GAFA",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x495205d4c6307A73595C5C11B44Bee9B3418Ac69.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x405FBc9004D857903bFD6b3357792D71a50726b0",
+    "name": "Plasma",
+    "symbol": "XPL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x405FBc9004D857903bFD6b3357792D71a50726b0.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46",
+    "name": "VELO",
+    "symbol": "VELO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xe56842Ed550Ff2794F010738554db45E60730371",
+    "name": "Binemon",
+    "symbol": "BIN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xe56842Ed550Ff2794F010738554db45E60730371.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F",
+    "name": "TRVL",
+    "symbol": "TRVL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1b9A8C4f2DF5Dc7B8744B1A170d8d727360C67eE",
+    "name": "Momento",
+    "symbol": "MOMENTO",
+    "decimals": 9,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x1b9A8C4f2DF5Dc7B8744B1A170d8d727360C67eE.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xFeA292e5ea4510881bDB840E3CeC63aBd43f936f",
+    "name": "Cornucopias [via ChainPort.io]",
+    "symbol": "COPI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xFeA292e5ea4510881bDB840E3CeC63aBd43f936f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "name": "USDe",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x77d547256A2cD95F32F67aE0313E450Ac200648d",
+    "name": "FC Lazio Fan Token",
+    "symbol": "LAZIO",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x77d547256A2cD95F32F67aE0313E450Ac200648d.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x13Ab6739368a4e4abf24695bf52959224367391f",
+    "name": "Yield Guild Games Token",
+    "symbol": "YGG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x13Ab6739368a4e4abf24695bf52959224367391f.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x92aa03137385F18539301349dcfC9EbC923fFb10",
+    "name": "SKYAI",
+    "symbol": "SKYAI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x92aa03137385F18539301349dcfC9EbC923fFb10.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9840652DC04fb9db2C43853633f0F62BE6f00f98",
+    "name": "ChainGPT",
+    "symbol": "CGPT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x9840652DC04fb9db2C43853633f0F62BE6f00f98.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xd5d0322b6bAb6a762C79f8c81A0B674778E13aeD",
+    "name": "Firo",
+    "symbol": "FIRO",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xd5d0322b6bAb6a762C79f8c81A0B674778E13aeD.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x19Ed254efa5E061D28d84650891a3db2A9940C16",
+    "name": "Superp",
+    "symbol": "$SUP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x19Ed254efa5E061D28d84650891a3db2A9940C16.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xA1E6c58D503e4EeE986167f45a063853CeFe08c3",
+    "name": "Sun Token",
+    "symbol": "SUN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xA1E6c58D503e4EeE986167f45a063853CeFe08c3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAfF2e841851700D1Fc101995Ee6b81Ae21Bb87D7",
+    "name": "Spark",
+    "symbol": "SPK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xAfF2e841851700D1Fc101995Ee6b81Ae21Bb87D7.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2c3a8Ee94dDD97244a93Bc48298f97d2C412F7Db",
+    "name": "AKE",
+    "symbol": "AKE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x2c3a8Ee94dDD97244a93Bc48298f97d2C412F7Db.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x2407F9136dF8dDF84fd9bDe34D48cFc32305447B",
+    "name": "Hamdan Coin",
+    "symbol": "HMC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x2407F9136dF8dDF84fd9bDe34D48cFc32305447B.png"
+  },
+  {
+    "network": "smartchain",
     "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
     "name": "JoeToken",
     "symbol": "JOE",
