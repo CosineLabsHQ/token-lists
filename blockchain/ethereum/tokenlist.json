@@ -6782,5 +6782,1317 @@
     "symbol": "FSW",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x89233399708C18Ac6887F90A2B4Cd8Ba5fEdD06e",
+    "name": "Abbott xStock",
+    "symbol": "ABTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x89233399708C18Ac6887F90A2B4Cd8Ba5fEdD06e.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xfBF2398dF672cEE4aFcC2A4A733222331c742a6A",
+    "name": "AbbVie xStock",
+    "symbol": "ABBVx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xfBF2398dF672cEE4aFcC2A4A733222331c742a6A.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x05473ceA3774D898C7b6dDa21e1876D6Bca7277b",
+    "name": "abrdn Physical Palladium Shares xStock",
+    "symbol": "PALLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x05473ceA3774D898C7b6dDa21e1876D6Bca7277b.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x8e9e4a8d7f1C65dcB42D9103832b27E75946055D",
+    "name": "abrdn Physical Platinum Shares xStock",
+    "symbol": "PPLTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x8e9e4a8d7f1C65dcB42D9103832b27E75946055D.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x03183Ce31b1656B72A55fa6056e287f50C35BbEB",
+    "name": "Accenture xStock",
+    "symbol": "ACNx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x03183Ce31b1656B72A55fa6056e287f50C35BbEB.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x16E0B579be45bAaE54cEddd52e742B6457A7fE12",
+    "name": "Adobe xStock",
+    "symbol": "ADBEx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x16E0B579be45bAaE54cEddd52e742B6457A7fE12.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xe92f673Ca36C5E2Efd2DE7628f815f84807e803F",
+    "name": "Alphabet xStock",
+    "symbol": "GOOGLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xe92f673Ca36C5E2Efd2DE7628f815f84807e803F.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x3557Ba345B01EFa20A1bdDC61F573BFD87195081",
+    "name": "Amazon.com xStock",
+    "symbol": "AMZNx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x3557Ba345B01EFa20A1bdDC61F573BFD87195081.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x2f9a35aB5dDFBc49927BFdEab98A86c53DC6E763",
+    "name": "Amber xStock",
+    "symbol": "AMBRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x2f9a35aB5dDFBc49927BFdEab98A86c53DC6E763.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x3522513E5F146a2006e2901b05f16B2821485E19",
+    "name": "AMD xStock",
+    "symbol": "AMDx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x3522513E5F146a2006e2901b05f16B2821485E19.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x9d275685dC284C8eB1C79f6ABA7a63Dc75ec890a",
+    "name": "Apple xStock",
+    "symbol": "AAPLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x9d275685dC284C8eB1C79f6ABA7a63Dc75ec890a.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x9F7371F5b85443EE59457468eDe9D244A71C08d6",
+    "name": "Applied Digital Corporation xStock",
+    "symbol": "APLDx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x9F7371F5b85443EE59457468eDe9D244A71C08d6.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xe9FA01197B7E836982a1cab03FE591F7e331E313",
+    "name": "Applied Materials, Inc. xStock",
+    "symbol": "AMATx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xe9FA01197B7E836982a1cab03FE591F7e331E313.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x50a1291F69D9d3853Def8209cFb1AF0b46927BE1",
+    "name": "AppLovin xStock",
+    "symbol": "APPx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x50a1291F69D9d3853Def8209cFb1AF0b46927BE1.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x27aD5CC5242f4258030D81A5639098ce0a96820F",
+    "name": "Arista Networks, Inc. xStock",
+    "symbol": "ANETx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x27aD5CC5242f4258030D81A5639098ce0a96820F.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xC0B417e7F83db438631Eb5E096684dd742E5294F",
+    "name": "ASML xStock",
+    "symbol": "ASMLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xC0B417e7F83db438631Eb5E096684dd742E5294F.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x89b2607878ae19baB8020b8140eD550Ef3E953bb",
+    "name": "AST SpaceMobile xStock",
+    "symbol": "ASTSx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x89b2607878ae19baB8020b8140eD550Ef3E953bb.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x5D642505FE1a28897eb3BaBA665F454755D8daA2",
+    "name": "AstraZeneca xStock",
+    "symbol": "AZNx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x5D642505FE1a28897eb3BaBA665F454755D8daA2.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x314938c596F5ce31C3f75307d2979338C346D7F2",
+    "name": "Bank of America xStock",
+    "symbol": "BACx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x314938c596F5ce31C3f75307d2979338C346D7F2.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x12992613fDd35aBe95DEc5a4964331b1ee23B50d",
+    "name": "Berkshire Hathaway xStock",
+    "symbol": "BRK.Bx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x12992613fDd35aBe95DEc5a4964331b1ee23B50d.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x22E1991e5f82736A2a990322a46aac0e95826c5B",
+    "name": "Bit Digital xStock",
+    "symbol": "BTBTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x22E1991e5f82736A2a990322a46aac0e95826c5B.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x60Ae7D760a1C7B528C0384Bc945fadF1438F47A5",
+    "name": "Bitgo xStock",
+    "symbol": "BTGOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x60Ae7D760a1C7B528C0384Bc945fadF1438F47A5.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xaeB681B69E5094E04d11BCeF51A71358A374C3ED",
+    "name": "Bitmine xStock",
+    "symbol": "BMNRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xaeB681B69E5094E04d11BCeF51A71358A374C3ED.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xE0F324A026ca55492637009d98034103Db4a6967",
+    "name": "Brera xStock",
+    "symbol": "SLMTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xE0F324A026ca55492637009d98034103Db4a6967.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x38BAC69cbBd28156796e4163B2B6dcb81E336565",
+    "name": "Broadcom xStock",
+    "symbol": "AVGOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x38BAC69cbBd28156796e4163B2B6dcb81E336565.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xdce993F8a6DbcE7F27434874F5DFe9A8d58509c9",
+    "name": "Cheniere Energy xStock",
+    "symbol": "LNGx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xdce993F8a6DbcE7F27434874F5DFe9A8d58509c9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xad5cdc3340904285B8159089974A99a1A09EB4C0",
+    "name": "Chevron xStock",
+    "symbol": "CVXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xad5cdc3340904285B8159089974A99a1A09EB4C0.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB",
+    "name": "Circle xStock",
+    "symbol": "CRCLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x053C784cD87B74f42e0c089f98643E79c1A3ff16",
+    "name": "Cisco xStock",
+    "symbol": "CSCOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x053C784cD87B74f42e0c089f98643E79c1A3ff16.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xD0194F0f077968DA8ca59811e9407f54AE6c9432",
+    "name": "CleanSpark xStock",
+    "symbol": "CLSKx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xD0194F0f077968DA8ca59811e9407f54AE6c9432.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x995dB25F900E38851CF4e67a05960E66F774530D",
+    "name": "Cloudflare xStock",
+    "symbol": "NETx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x995dB25F900E38851CF4e67a05960E66F774530D.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xdCC1a2699441079dA889B1F49e12B69cC791129b",
+    "name": "Coca-Cola xStock",
+    "symbol": "KOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xdCC1a2699441079dA889B1F49e12B69cC791129b.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x364f210f430eC2448Fc68A49203040F6124096F0",
+    "name": "Coinbase xStock",
+    "symbol": "COINx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x364f210f430eC2448Fc68A49203040F6124096F0.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xBC7170a1280Be28513B4e940C681537EB25e39f4",
+    "name": "Comcast xStock",
+    "symbol": "CMCSAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xBC7170a1280Be28513B4e940C681537EB25e39f4.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x7636244Bab612264e1B2dFd4bA6E26d0311b1Eb7",
+    "name": "Constellation Energy Corporation xStock",
+    "symbol": "CEGx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x7636244Bab612264e1B2dFd4bA6E26d0311b1Eb7.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6a668332825450ACD2e449372057d31b3de16a1E",
+    "name": "Core MSCI Emerging Markets xStock",
+    "symbol": "IEMGx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6a668332825450ACD2e449372057d31b3de16a1E.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x51eD5b74A05F256DbD9Ebb4e4f68Bb41ba10160b",
+    "name": "Core Scientific xStock",
+    "symbol": "CORZx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x51eD5b74A05F256DbD9Ebb4e4f68Bb41ba10160b.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x214151022C2a5E380aB80CdaC31f23Ae554a7345",
+    "name": "CrowdStrike xStock",
+    "symbol": "CRWDx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x214151022C2a5E380aB80CdaC31f23Ae554a7345.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xdbA228936F4079DaF9Aa906fd48a87f2300405F4",
+    "name": "Danaher xStock",
+    "symbol": "DHRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xdbA228936F4079DaF9Aa906fd48a87f2300405F4.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x2782dF1cC877F720C81B4f6568Db64563F1D3AA3",
+    "name": "Dell Technologies Inc. xStock",
+    "symbol": "DELLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x2782dF1cC877F720C81B4f6568Db64563F1D3AA3.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x521860bB5dF5468358875266B89BFE90d990C6e7",
+    "name": "DFDV xStock",
+    "symbol": "DFDVx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x521860bB5dF5468358875266B89BFE90d990C6e7.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x53EE7F58Cf031Ea4d897FDFCDafAd124b3160689",
+    "name": "Direxion Semiconductor Bull 3X xStock",
+    "symbol": "SOXLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x53EE7F58Cf031Ea4d897FDFCDafAd124b3160689.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xBca703C64f616A17b4f2763F34f93400Dbe20F17",
+    "name": "Eaton Corporation plc xStock",
+    "symbol": "ETNx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xBca703C64f616A17b4f2763F34f93400Dbe20F17.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x19c41EA77b34BbDEe61c3A87A75D1ABDA2ED0be4",
+    "name": "Eli Lilly xStock",
+    "symbol": "LLYx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x19c41EA77b34BbDEe61c3A87A75D1ABDA2ED0be4.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xEd579847e45B0c48cfd608Da829073B2F7e65Cf0",
+    "name": "Energy Fuels Inc. xStock",
+    "symbol": "UUUUx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xEd579847e45B0c48cfd608Da829073B2F7e65Cf0.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6F75AC3b1b6Fbe8Bb5F948e25aF03620f26Ae838",
+    "name": "Energy Select Sector SPDR Fund xStock",
+    "symbol": "XLEx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6F75AC3b1b6Fbe8Bb5F948e25aF03620f26Ae838.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xe75AfF5123D9De91A1c27167C6C01B1f5b1eAb14",
+    "name": "Enhanced Group xStock",
+    "symbol": "ENHAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xe75AfF5123D9De91A1c27167C6C01B1f5b1eAb14.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xEEdb0273c5Af792745180e9fF568cD01550fFA13",
+    "name": "Exxon Mobil xStock",
+    "symbol": "XOMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xEEdb0273c5Af792745180e9fF568cD01550fFA13.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xF51565240E667176c532DB4139386E6A6E506d99",
+    "name": "Fidelity AAA CLO xStock",
+    "symbol": "FAAAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xF51565240E667176c532DB4139386E6A6E506d99.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xa96d03Fe2479fEbC69535366933Ea053D5acF9dd",
+    "name": "Franklin ClearBridge Enhanced Income xStock",
+    "symbol": "YLDEx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xa96d03Fe2479fEbC69535366933Ea053D5acF9dd.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x35B8bBd1eB42bB2B5B4894D0Fe87b2812442e186",
+    "name": "Franklin Intelligent Machines xStock",
+    "symbol": "IQMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x35B8bBd1eB42bB2B5B4894D0Fe87b2812442e186.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x44314De3E69fd4C99fb638816B58ED2a85d466D9",
+    "name": "Franklin Senior Loan xStock",
+    "symbol": "FLBLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x44314De3E69fd4C99fb638816B58ED2a85d466D9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x7e8c89a9b9B85029caB43280AabBED600D7e8D36",
+    "name": "Franklin Small Cap Enhanced xStock",
+    "symbol": "FSMLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x7e8c89a9b9B85029caB43280AabBED600D7e8D36.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x368192fEC58e3150600A1409c631c77F45745BEc",
+    "name": "Franklin U.S. Equity Index xStock",
+    "symbol": "USPXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x368192fEC58e3150600A1409c631c77F45745BEc.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x16b8feF54489A0BEb2cf09F6F16e4Cd31aEE195a",
+    "name": "Franklin U.S. Mid Cap Multi-Factor xStock",
+    "symbol": "FLQMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x16b8feF54489A0BEb2cf09F6F16e4Cd31aEE195a.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xBaC2588D2272fF6E5826E2882042Fa2926039CBa",
+    "name": "Fundrise Innovation Fund, LLC xStock",
+    "symbol": "VCXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xBaC2588D2272fF6E5826E2882042Fa2926039CBa.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xf7F4fAC56f012dE7Dd6adFF54C761986B9E0655a",
+    "name": "Galaxy Digital xStock",
+    "symbol": "GLXYx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xf7F4fAC56f012dE7Dd6adFF54C761986B9E0655a.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xE5f6d3b2405ABdfE6F660e63202B25D23763160d",
+    "name": "Gamestop xStock",
+    "symbol": "GMEx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xE5f6d3b2405ABdfE6F660e63202B25D23763160d.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x5FB4184F8B515B1C54d1baC839DCF81276d6b73e",
+    "name": "GE Vernova Inc. xStock",
+    "symbol": "GEVx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x5FB4184F8B515B1C54d1baC839DCF81276d6b73e.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x89BAB39D627A9e34f0dc782C53457e80Ee8Fb9D9",
+    "name": "Global X Copper Miners xStock",
+    "symbol": "COPXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x89BAB39D627A9e34f0dc782C53457e80Ee8Fb9D9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xFe7B11D43cfD9fd6010f1b3F9cC86e5BCDb2bc78",
+    "name": "Global X DAX Germany xStock",
+    "symbol": "DAXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xFe7B11D43cfD9fd6010f1b3F9cC86e5BCDb2bc78.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x0E6607Ab45D2CA779068Cd6D9426C409773969FD",
+    "name": "Global X Uranium ETF xStock",
+    "symbol": "URAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x0E6607Ab45D2CA779068Cd6D9426C409773969FD.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9",
+    "name": "Gold xStock",
+    "symbol": "GLDx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x3Ee7E9B3A992fD23CD1C363B0e296856B04ab149",
+    "name": "Goldman Sachs xStock",
+    "symbol": "GSx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x3Ee7E9B3A992fD23CD1C363B0e296856B04ab149.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x55600dfB3943a2db1A49b250e1E9114E4AD2174f",
+    "name": "Hims & Hers xStock",
+    "symbol": "HIMSx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x55600dfB3943a2db1A49b250e1E9114E4AD2174f.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x766b0CD6ED6D90B5d49d2c36a3761E9728501BA9",
+    "name": "Home Depot xStock",
+    "symbol": "HDx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x766b0CD6ED6D90B5d49d2c36a3761E9728501BA9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x62a48560861B0b451654bFffdb5be6E47aa8ff1B",
+    "name": "Honeywell xStock",
+    "symbol": "HONx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x62a48560861B0b451654bFffdb5be6E47aa8ff1B.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x560deb3D70Ac90064fF809349cDf9A771a06fd36",
+    "name": "Hut 8 xStock",
+    "symbol": "HUTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x560deb3D70Ac90064fF809349cDf9A771a06fd36.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xf8A80D1cb9cFD70D03D655D9dF42339846F3B3C8",
+    "name": "Intel xStock",
+    "symbol": "INTCx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xf8A80D1cb9cFD70D03D655D9dF42339846F3B3C8.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xd9913208647671Fe0F48F7F260076B2C6F310Aac",
+    "name": "International Business Machines xStock",
+    "symbol": "IBMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xd9913208647671Fe0F48F7F260076B2C6F310Aac.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xfBfc1FD14EeC970276c8a3BF5e6131cD751cC0B9",
+    "name": "IREN xStock",
+    "symbol": "IRENx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xfBfc1FD14EeC970276c8a3BF5e6131cD751cC0B9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x2daFA4732c8c1b25701a33B05F10f437F9599326",
+    "name": "iShares 0-3 Month Treasury Bond ETF xStock",
+    "symbol": "SGOVx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x2daFA4732c8c1b25701a33B05F10f437F9599326.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xebb35d5b5Bf82203812e3C02797EF0cBDBb81146",
+    "name": "iShares MSCI France xStock",
+    "symbol": "EWQx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xebb35d5b5Bf82203812e3C02797EF0cBDBb81146.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xeD2Bdd82366728C1F2A7E8B93C4dD4A58404BF65",
+    "name": "iShares MSCI Germany xStock",
+    "symbol": "EWGx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xeD2Bdd82366728C1F2A7E8B93C4dD4A58404BF65.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x299c95Eb52BFd5Bc98d924bCE17197b64864589B",
+    "name": "iShares MSCI South Korea xStock",
+    "symbol": "EWYx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x299c95Eb52BFd5Bc98d924bCE17197b64864589B.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6c5287b4EA247031da9e375573E5D1c8A12938EE",
+    "name": "iShares MSCI United Kingdom xStock",
+    "symbol": "EWUx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6c5287b4EA247031da9e375573E5D1c8A12938EE.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x7B14968D19a6C051d6613716ea71f2DaDE46DB9c",
+    "name": "iShares Semiconductor xStock",
+    "symbol": "SOXXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x7B14968D19a6C051d6613716ea71f2DaDE46DB9c.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x4833e7f4f0460f4B72A3a5879A6C9841bCC5B58B",
+    "name": "iShares Silver Trust xStock",
+    "symbol": "SLVx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x4833e7f4f0460f4B72A3a5879A6C9841bCC5B58B.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x375B9F00A83132cABcDa7aBf2bfc87c14f7AC324",
+    "name": "iShares U.S. Aerospace & Defense ETF xStock",
+    "symbol": "ITAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x375B9F00A83132cABcDa7aBf2bfc87c14f7AC324.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x3bf2E3be4A829Bb3a5f5BE450AE4c8Eb3488da71",
+    "name": "Janus Henderson AAA CLO xStock",
+    "symbol": "JAAAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x3bf2E3be4A829Bb3a5f5BE450AE4c8Eb3488da71.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xdb0482cfaD4789798623E64b15eebA01b16e917C",
+    "name": "Johnson & Johnson xStock",
+    "symbol": "JNJx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xdb0482cfaD4789798623E64b15eebA01b16e917C.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xD9FC3E075d45254a1D834fEa18AF8041207DeA0A",
+    "name": "JPMorgan Chase xStock",
+    "symbol": "JPMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xD9FC3E075d45254a1D834fEa18AF8041207DeA0A.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xE49922893496b17AC12Fdd7c74720a92010d889D",
+    "name": "JPMorgan Ultra-Short Income xStock",
+    "symbol": "JPSTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xE49922893496b17AC12Fdd7c74720a92010d889D.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xb7e2E3eF9F5c6b72a162FFc76382e4477A44D913",
+    "name": "KLA Corporation xStock",
+    "symbol": "KLACx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xb7e2E3eF9F5c6b72a162FFc76382e4477A44D913.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x0eBe5FAD0998765187FC695B75d4115c27C953A1",
+    "name": "KRAQ xStock",
+    "symbol": "KRAQx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x0eBe5FAD0998765187FC695B75d4115c27C953A1.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x4177D16A5d2465CF4bd52E07c1c56ab500243FD4",
+    "name": "Lam Research Corporation xStock",
+    "symbol": "LRCXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x4177D16A5d2465CF4bd52E07c1c56ab500243FD4.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x15059c599C16Fd8f70B633Ade165502D6402CD49",
+    "name": "Linde xStock",
+    "symbol": "LINx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x15059c599C16Fd8f70B633Ade165502D6402CD49.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xAaA9cF4E9488F5eEF064B8CFac70f5FD857669dc",
+    "name": "Lumentum Holdings Inc. xStock",
+    "symbol": "LITEx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xAaA9cF4E9488F5eEF064B8CFac70f5FD857669dc.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x9D692bffEf6f6BedF4274053ff9998EFE3B2539E",
+    "name": "MARA xStock",
+    "symbol": "MARAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x9D692bffEf6f6BedF4274053ff9998EFE3B2539E.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xeAAd46F4146Ded5a47B55AA7F6c48c191dEAEC88",
+    "name": "Marvell xStock",
+    "symbol": "MRVLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xeAAd46F4146Ded5a47B55AA7F6c48c191dEAEC88.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xb365Cd2588065F522D379AD19e903304f6B622C6",
+    "name": "Mastercard xStock",
+    "symbol": "MAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xb365Cd2588065F522D379AD19e903304f6B622C6.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x80A77a372c1e12AcCdA84299492f404902E2DA67",
+    "name": "McDonald's xStock",
+    "symbol": "MCDx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x80A77a372c1e12AcCdA84299492f404902E2DA67.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xD5859517180e639d50003fDb434e690ab1FbD21B",
+    "name": "Medline xStock",
+    "symbol": "MDLNx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xD5859517180e639d50003fDb434e690ab1FbD21B.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x0588e851ec0418d660BeE81230d6c678dAF21d46",
+    "name": "Medtronic xStock",
+    "symbol": "MDTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x0588e851ec0418d660BeE81230d6c678dAF21d46.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x17D8186Ed8F68059124190D147174D0f6697dc40",
+    "name": "Merck xStock",
+    "symbol": "MRKx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x17D8186Ed8F68059124190D147174D0f6697dc40.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x96702be57Cd9777f835117a809C7124fe4ec989A",
+    "name": "Meta xStock",
+    "symbol": "METAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x96702be57Cd9777f835117a809C7124fe4ec989A.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xf6a873BAe4Ba1B304e45dF52A4b7D176E1C6a8c4",
+    "name": "Micron Technology xStock",
+    "symbol": "MUx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xf6a873BAe4Ba1B304e45dF52A4b7D176E1C6a8c4.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x5621737f42dAE558b81269FcB9E9E70c19Aa6b35",
+    "name": "Microsoft xStock",
+    "symbol": "MSFTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x5621737f42dAE558b81269FcB9E9E70c19Aa6b35.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xAE2f842EF90C0d5213259Ab82639D5BBF649b08E",
+    "name": "MicroStrategy xStock",
+    "symbol": "MSTRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xAE2f842EF90C0d5213259Ab82639D5BBF649b08E.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xa753A7395cAe905Cd615Da0B82A53E0560f250af",
+    "name": "Nasdaq xStock",
+    "symbol": "QQQx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xa753A7395cAe905Cd615Da0B82A53E0560f250af.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xA6a65AC27E76cD53cB790473E4345c46e5eBf961",
+    "name": "Netflix xStock",
+    "symbol": "NFLXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xA6a65AC27E76cD53cB790473E4345c46e5eBf961.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xF9523E369c5f55ad72DbAA75B0a9b92B3D8b147e",
+    "name": "Novo Nordisk xStock",
+    "symbol": "NVOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xF9523E369c5f55ad72DbAA75B0a9b92B3D8b147e.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xF8228D64435B55687157a5C9b132642FE04aC381",
+    "name": "NuScale Power Corporation xStock",
+    "symbol": "SMRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xF8228D64435B55687157a5C9b132642FE04aC381.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xc845b2894dBddd03858fd2D643B4eF725fE0849d",
+    "name": "NVIDIA xStock",
+    "symbol": "NVDAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xc845b2894dBddd03858fd2D643B4eF725fE0849d.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x4b0eE7C047D43cA403239f28f42115bEdB7c0076",
+    "name": "Oklo xStock",
+    "symbol": "OKLOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x4b0eE7C047D43cA403239f28f42115bEdB7c0076.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x50343212d7AADd7a104dCc7Ed751514aA174D9dC",
+    "name": "Ondas xStock",
+    "symbol": "ONDSx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x50343212d7AADd7a104dCc7Ed751514aA174D9dC.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xbEe6b69345F376598Fe16AbD5592c6F844825E66",
+    "name": "OPEN xStock",
+    "symbol": "OPENx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xbEe6b69345F376598Fe16AbD5592c6F844825E66.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x548308E91ec9F285C7bFf05295baDBD56a6e4971",
+    "name": "Oracle xStock",
+    "symbol": "ORCLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x548308E91ec9F285C7bFf05295baDBD56a6e4971.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6d482CeC5f9dd1f05CCee9Fd3ff79B246170F8e2",
+    "name": "Palantir xStock",
+    "symbol": "PLTRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6d482CeC5f9dd1f05CCee9Fd3ff79B246170F8e2.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xe12BB32D77BE4DB10DDC82088b230D35d097E9C5",
+    "name": "Palo Alto Networks xStock",
+    "symbol": "PANWx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xe12BB32D77BE4DB10DDC82088b230D35d097E9C5.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xf706585e7e8900bE0267bEE3B9A2F70835EC6628",
+    "name": "PayPal xStock",
+    "symbol": "PYPLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xf706585e7e8900bE0267bEE3B9A2F70835EC6628.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x36c424a6EC0e264b1616102Ad63eD2aD7857413e",
+    "name": "PepsiCo xStock",
+    "symbol": "PEPx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x36c424a6EC0e264b1616102Ad63eD2aD7857413e.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x1Ac765B5BEa23184802C7d2d497f7c33f1444A9e",
+    "name": "Pfizer xStock",
+    "symbol": "PFEx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x1Ac765B5BEa23184802C7d2d497f7c33f1444A9e.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x02a6c1789c3B4FDb1a7a3DfA39F90e5d3c94F4F9",
+    "name": "Philip Morris xStock",
+    "symbol": "PMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x02a6c1789c3B4FDb1a7a3DfA39F90e5d3c94F4F9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x536825370F1159cBA953055f5c2F16DDc7B5a348",
+    "name": "Planet Labs xStock",
+    "symbol": "PLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x536825370F1159cBA953055f5c2F16DDc7B5a348.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xa90424D5D3E770e8644103AB503ed775dD1318FD",
+    "name": "Procter & Gamble xStock",
+    "symbol": "PGx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xa90424D5D3E770e8644103AB503ed775dD1318FD.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x90561f53a83D97C383E4842960969a6d9cfe1Ba9",
+    "name": "Quanta Services, Inc. xStock",
+    "symbol": "PWRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x90561f53a83D97C383E4842960969a6d9cfe1Ba9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x1FD2D7aDAc24B3f9552BC967bFFcDce3B92D31B8",
+    "name": "Red Cat xStock",
+    "symbol": "RCATx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x1FD2D7aDAc24B3f9552BC967bFFcDce3B92D31B8.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6Ac47387f0a2798dF4C4eE5bb31ab9517ac97cb8",
+    "name": "Riot Platforms xStock",
+    "symbol": "RIOTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6Ac47387f0a2798dF4C4eE5bb31ab9517ac97cb8.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xE1385FDd5ffB10081Cd52C56584F25EFa9084015",
+    "name": "Robinhood xStock",
+    "symbol": "HOODx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xE1385FDd5ffB10081Cd52C56584F25EFa9084015.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x5d8dA1417E3565eb02C9ca8cC588bE5D8F65b1c5",
+    "name": "Roblox xStock",
+    "symbol": "RBLXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x5d8dA1417E3565eb02C9ca8cC588bE5D8F65b1c5.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xdadfb355c6110eda0908740d52c834d6C2BCDDc7",
+    "name": "Russell 2000 xStock",
+    "symbol": "IWMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xdadfb355c6110eda0908740d52c834d6C2BCDDc7.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xAA28cB97D7f7E172f54deE950743886D2d65447d",
+    "name": "S&P Small Cap xStock",
+    "symbol": "IJRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xAA28cB97D7f7E172f54deE950743886D2d65447d.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x4A4073f2EAF299A1be22254DCD2C41727F6F54a2",
+    "name": "Salesforce xStock",
+    "symbol": "CRMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x4A4073f2EAF299A1be22254DCD2C41727F6F54a2.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xb63EFBc28860c8097e341DE1fCF59456161E9D98",
+    "name": "Sandisk Corporation xStock",
+    "symbol": "SNDKx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xb63EFBc28860c8097e341DE1fCF59456161E9D98.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xF6D87E523512704C29E9b7cA3e9e6226bDCE3EA1",
+    "name": "Schwab International Equity xStock",
+    "symbol": "SCHFx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xF6D87E523512704C29E9b7cA3e9e6226bDCE3EA1.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x338791c58fdED314b81EAb139A1A2Fb7967D90d6",
+    "name": "SharpLink Gaming xStock",
+    "symbol": "SBETx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x338791c58fdED314b81EAb139A1A2Fb7967D90d6.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x90A2a4c76b5D8c0bc892A69EA28Aa775a8f2dD48",
+    "name": "SP500 xStock",
+    "symbol": "SPYx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x90A2a4c76b5D8c0bc892A69EA28Aa775a8f2dD48.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x68fa48B1C2FE52b3D776E1953e0E782b5044Ce28",
+    "name": "SpaceX xStock",
+    "symbol": "SPCXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x68fa48B1C2FE52b3D776E1953e0E782b5044Ce28.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xaE6D61508125bC541E367A6a8B1f594ecC42F557",
+    "name": "SPDR EURO STOXX 50 xStock",
+    "symbol": "FEZx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xaE6D61508125bC541E367A6a8B1f594ecC42F557.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6b9Cca56e783d1345785E4aA1188Bbd673E911A2",
+    "name": "SPDR S&P Oil & Gas Exploration & Production ETF xStock",
+    "symbol": "XOPx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6b9Cca56e783d1345785E4aA1188Bbd673E911A2.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x38E0445308E7FcD5230F2DF6b52B36DD4FF313b6",
+    "name": "Strategy PP Fixed xStock",
+    "symbol": "STRKx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x38E0445308E7FcD5230F2DF6b52B36DD4FF313b6.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x1Aad217B8F78dbA5E6693460e8470F8b1A3977f3",
+    "name": "Strategy PP Variable xStock",
+    "symbol": "STRCx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x1Aad217B8F78dbA5E6693460e8470F8b1A3977f3.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x7c7445A40926152B8d24aBDb9020e219d3D3380a",
+    "name": "Strive, Inc. Series A Preferred xStock",
+    "symbol": "SATAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x7c7445A40926152B8d24aBDb9020e219d3D3380a.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x39c31fC6038490eA4Bf8A21Ca18CD18F33B8d3FB",
+    "name": "Super Micro Computer, Inc. xStock",
+    "symbol": "SMCIx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x39c31fC6038490eA4Bf8A21Ca18CD18F33B8d3FB.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x68F3DDEE8BAE33691E7CD0372984fD857E842760",
+    "name": "T-Mobile xStock",
+    "symbol": "TMUSx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x68F3DDEE8BAE33691E7CD0372984fD857E842760.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x4cbf89ED7Bb30b8a860fa86d3c96E9c72931299b",
+    "name": "TBLL xStock",
+    "symbol": "TBLLx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x4cbf89ED7Bb30b8a860fa86d3c96E9c72931299b.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x99A1a9BC796bAe48631a15B1C1889625C86B7b98",
+    "name": "Teradyne, Inc. xStock",
+    "symbol": "TERx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x99A1a9BC796bAe48631a15B1C1889625C86B7b98.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xC0c2150cf0870E2d7aBc7cDe17C20A542faFBB9B",
+    "name": "TeraWulf xStock",
+    "symbol": "WULFx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xC0c2150cf0870E2d7aBc7cDe17C20A542faFBB9B.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x8aD3c73F833d3F9A523aB01476625F269aEB7Cf0",
+    "name": "Tesla xStock",
+    "symbol": "TSLAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x8aD3c73F833d3F9A523aB01476625F269aEB7Cf0.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xAF072F109A2C173D822a4fe9af311A1B18F83d19",
+    "name": "Thermo Fisher xStock",
+    "symbol": "TMOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xAF072F109A2C173D822a4fe9af311A1B18F83d19.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xe95ab205e333443D7970336D5fD827eF9eD97608",
+    "name": "TON xStock",
+    "symbol": "TONXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xe95ab205e333443D7970336D5fD827eF9eD97608.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xfDDDb57878eF9D6f681Ec4381DCB626b9E69AC86",
+    "name": "TQQQ xStock",
+    "symbol": "TQQQx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xfDDDb57878eF9D6f681Ec4381DCB626b9E69AC86.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x9e3bf4Ecfc44EeDD624F26656B6736a3F093b073",
+    "name": "TSMC xStock",
+    "symbol": "TSMx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x9e3bf4Ecfc44EeDD624F26656B6736a3F093b073.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xdb9783Ca04bBD64fe2c6d7B9503A979b3DE30729",
+    "name": "Uber xStock",
+    "symbol": "UBERx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xdb9783Ca04bBD64fe2c6d7B9503A979b3DE30729.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x167A6375DA1eFc4a5BE0f470E73eCEfd66245048",
+    "name": "UnitedHealth xStock",
+    "symbol": "UNHx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x167A6375DA1eFc4a5BE0f470E73eCEfd66245048.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6Ee270D24B593F85863E95B6a7dd916A5957719f",
+    "name": "USA Rare Earth Inc. xStock",
+    "symbol": "USARx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6Ee270D24B593F85863E95B6a7dd916A5957719f.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x06A0138F8c3e5110fd98e34a4473Fb08F1304b87",
+    "name": "VanEck Agribusiness ETF xStock",
+    "symbol": "MOOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x06A0138F8c3e5110fd98e34a4473Fb08F1304b87.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x3a62B4259E5C2E2314E254B2C79ebaF5E57e8Cf3",
+    "name": "VanEck Gold Miners xStock",
+    "symbol": "GDXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x3a62B4259E5C2E2314E254B2C79ebaF5E57e8Cf3.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x8D512a03600981B8e86556fd5C0FbDd726Fe1821",
+    "name": "VanEck Semiconductor ETF xStock",
+    "symbol": "SMHx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x8D512a03600981B8e86556fd5C0FbDd726Fe1821.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x238C2306b77a0C33fF609e72F89bf7e1323A9999",
+    "name": "VanEck Uranium and Nuclear xStock",
+    "symbol": "NLRx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x238C2306b77a0C33fF609e72F89bf7e1323A9999.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x9337a8f11f777cDAa310B5682b09b44Ed8bdcbAD",
+    "name": "Vanguard FTSE Europe ETF xStock",
+    "symbol": "VGKx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x9337a8f11f777cDAa310B5682b09b44Ed8bdcbAD.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6e0AAfB414B620e096B9F7Fe85625D3E5cE41d3F",
+    "name": "Vanguard Growth ETF xStock",
+    "symbol": "VUGx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6e0AAfB414B620e096B9F7Fe85625D3E5cE41d3F.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xFfAE0B911CB2cb7B49FD75011D99D137C040A9eF",
+    "name": "Vanguard S&P 500 xStock",
+    "symbol": "VOOx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xFfAE0B911CB2cb7B49FD75011D99D137C040A9eF.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x91Ea54a8A5426c0A0bEA55968Dd71abcE7b92751",
+    "name": "Vanguard Total International Stock ETF xStock",
+    "symbol": "VXUSx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x91Ea54a8A5426c0A0bEA55968Dd71abcE7b92751.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6d5edEEbBc6A4099Eb8bb289EB3b80D799f7b28C",
+    "name": "Vanguard Total World xStock",
+    "symbol": "VTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6d5edEEbBc6A4099Eb8bb289EB3b80D799f7b28C.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xbD730E618bcD88C82dDeE52e10275CF2f88A4777",
+    "name": "Vanguard xStock",
+    "symbol": "VTIx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xbD730E618bcD88C82dDeE52e10275CF2f88A4777.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x0A62dB029ab8dc0B49b3E8159431728DbD23c7BF",
+    "name": "Vertiv Holdings Co xStock",
+    "symbol": "VRTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x0A62dB029ab8dc0B49b3E8159431728DbD23c7BF.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x44E49ddE02c954cD9B67923af7B1070412e8f34e",
+    "name": "Vida Global xStock",
+    "symbol": "VIDAx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x44E49ddE02c954cD9B67923af7B1070412e8f34e.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x7F8ba411ECBC0A135d669d5EaE5D15b0Ca0b0ea1",
+    "name": "Virgin Galactic xStock",
+    "symbol": "SPCEx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x7F8ba411ECBC0A135d669d5EaE5D15b0Ca0b0ea1.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x2363FD1235C1B6d3A5088DdF8dF3A0b3A30C5293",
+    "name": "Visa xStock",
+    "symbol": "Vx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x2363FD1235C1B6d3A5088DdF8dF3A0b3A30C5293.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xE1435b2f302edf42AE84a306a5e1948b270B6CCb",
+    "name": "Volatility Shares 2x Bitcoin Strategy xStock",
+    "symbol": "BITXx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xE1435b2f302edf42AE84a306a5e1948b270B6CCb.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x7AEfc9965699fBea943e03264d96e50CD4A97b21",
+    "name": "Walmart xStock",
+    "symbol": "WMTx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x7AEfc9965699fBea943e03264d96e50CD4A97b21.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xc435b3C41AE56d9Bc57b8525F4d522C978F168e8",
+    "name": "Warner Bros. Discovery xStock",
+    "symbol": "WBDx",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xc435b3C41AE56d9Bc57b8525F4d522C978F168e8.png"
   }
 ]
