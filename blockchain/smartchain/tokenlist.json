@@ -1553,6 +1553,102 @@
   },
   {
     "network": "smartchain",
+    "address": "0x039cB485212f996A9DBb85A9a75d898F94d38dA6",
+    "name": "DeXe",
+    "symbol": "DEXE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x039cB485212f996A9DBb85A9a75d898F94d38dA6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x43C934A845205F0b514417d757d7235B8f53f1B9",
+    "name": "Stellar",
+    "symbol": "XLM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x43C934A845205F0b514417d757d7235B8f53f1B9.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e",
+    "name": "ARPA Token",
+    "symbol": "ARPA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
+    "name": "Dalarnia",
+    "symbol": "DAR",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97",
+    "name": "BinaryX",
+    "symbol": "BNX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x9df90628D40c72F85137e8cEE09dde353a651266",
+    "name": "Mechaverse",
+    "symbol": "MC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x9df90628D40c72F85137e8cEE09dde353a651266.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+    "name": "FC Porto Fan Token",
+    "symbol": "PORTO",
+    "decimals": 8,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x49f2145d6366099e13B10FbF80646C0F377eE7f6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x76F3CE6aF26de7A9854dBD153ACd8f46a2Cf5133",
+    "name": "Moonbeam",
+    "symbol": "GLMR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x76F3CE6aF26de7A9854dBD153ACd8f46a2Cf5133.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x8ea2526C2373BA3fE1D0987F5DB8ac770a42DD51",
+    "name": "Everest ID",
+    "symbol": "ID",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x8ea2526C2373BA3fE1D0987F5DB8ac770a42DD51.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xAf41054C1487b0e5E2B9250C0332eCBCe6CE9d71",
+    "name": "Ellipsis X",
+    "symbol": "EPX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xAf41054C1487b0e5E2B9250C0332eCBCe6CE9d71.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
+    "name": "Prometeus",
+    "symbol": "PROM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xE36fb7548d16D1B1DDB484A322f06e4ECd3E1f68",
+    "name": "NeutralAI",
+    "symbol": "USDN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xE36fb7548d16D1B1DDB484A322f06e4ECd3E1f68.png"
+  },
+  {
+    "network": "smartchain",
     "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
     "name": "Litentry",
     "symbol": "LIT",
