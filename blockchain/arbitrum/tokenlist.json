@@ -921,6 +921,14 @@
   },
   {
     "network": "arbitrum",
+    "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+    "name": "Gains Network",
+    "symbol": "GNS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x18c11FD286C5EC11c3b683Caa813B77f5163A122.png"
+  },
+  {
+    "network": "arbitrum",
     "address": "0x083Fb956333f9c1568F66fc0d0BE451f31F8c46c",
     "name": "Rivalz Token",
     "symbol": "RIZ",
