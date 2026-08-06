@@ -1233,6 +1233,22 @@
   },
   {
     "network": "polygon",
+    "address": "0xf2dA37643c25Ca14291c2A69F51423ed9B7Ff4b0",
+    "name": "Farmsent",
+    "symbol": "FARMS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0xf2dA37643c25Ca14291c2A69F51423ed9B7Ff4b0.png"
+  },
+  {
+    "network": "polygon",
+    "address": "0x540564612Cd5DB28D985b76088Cc0c80Ce144d88",
+    "name": "NeutralAI",
+    "symbol": "USDN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/polygon/0x540564612Cd5DB28D985b76088Cc0c80Ce144d88.png"
+  },
+  {
+    "network": "polygon",
     "address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
     "name": "Wicrypt Network Token",
     "symbol": "WNT",

@@ -2753,6 +2753,102 @@
   },
   {
     "network": "smartchain",
+    "address": "0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
+    "name": "PARTI Token",
+    "symbol": "PARTI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x59264f02D301281f3393e1385c0aEFd446Eb0F00.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
+    "name": "mubarak",
+    "symbol": "mubarak",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xCAAE2A2F939F51d97CdFa9A86e79e3F085b799f3",
+    "name": "Tutorial",
+    "symbol": "TUT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xCAAE2A2F939F51d97CdFa9A86e79e3F085b799f3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+    "name": "Sign",
+    "symbol": "SIGN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x868FCEd65edBF0056c4163515dD840e9f287A4c3.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xf2b51CC1850fEd939658317a22d73d3482767591",
+    "name": "NXPC",
+    "symbol": "NXPC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xf2b51CC1850fEd939658317a22d73d3482767591.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497",
+    "name": "Holoworld AI",
+    "symbol": "HOLO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xfAB99fCF605fD8f4593EDb70A43bA56542777777",
+    "name": "ZEROBASE",
+    "symbol": "ZBT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xfAB99fCF605fD8f4593EDb70A43bA56542777777.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x15247e6E23D3923a853cCf15940A20CCdf16e94a",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x15247e6E23D3923a853cCf15940A20CCdf16e94a.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0xcE24439F2D9C6a2289F741120FE202248B666666",
+    "name": "United Stables",
+    "symbol": "U",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0xcE24439F2D9C6a2289F741120FE202248B666666.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x20d6015660b3fe52e6690a889b5C51F69902cE0e",
+    "name": "Giggle Fund",
+    "symbol": "GIGGLE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x20d6015660b3fe52e6690a889b5C51F69902cE0e.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF",
+    "name": "Lorenzo Governance Token",
+    "symbol": "BANK",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF.png"
+  },
+  {
+    "network": "smartchain",
+    "address": "0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6",
+    "name": "Genius",
+    "symbol": "GENIUS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/smartchain/0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6.png"
+  },
+  {
+    "network": "smartchain",
     "address": "0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f",
     "name": "Exeedme",
     "symbol": "XED",

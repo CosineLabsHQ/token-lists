@@ -657,6 +657,14 @@
   },
   {
     "network": "arbitrum",
+    "address": "0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e",
+    "name": "Chip",
+    "symbol": "CHIP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/arbitrum/0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e.png"
+  },
+  {
+    "network": "arbitrum",
     "address": "0x6a9896837021EA3eD83F623F655C119c54abE02c",
     "name": "ChainBounty",
     "symbol": "BOUNTY",

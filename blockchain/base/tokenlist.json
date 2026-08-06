@@ -849,6 +849,102 @@
   },
   {
     "network": "base",
+    "address": "0xB3846fD356c2149ee8D30b0449088Dc74e265459",
+    "name": "Moonbeam",
+    "symbol": "GLMR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0xB3846fD356c2149ee8D30b0449088Dc74e265459.png"
+  },
+  {
+    "network": "base",
+    "address": "0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229",
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229.png"
+  },
+  {
+    "network": "base",
+    "address": "0x43fEB74608334DDa8c1a6500D185cFC3Ea962B83",
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x43fEB74608334DDa8c1a6500D185cFC3Ea962B83.png"
+  },
+  {
+    "network": "base",
+    "address": "0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
+    "name": "PARTI Token",
+    "symbol": "PARTI",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x59264f02D301281f3393e1385c0aEFd446Eb0F00.png"
+  },
+  {
+    "network": "base",
+    "address": "0xA2c22252cDc8b7cDdEe1B0b2E242818509fCf7b8",
+    "name": "Space and Time",
+    "symbol": "SXT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0xA2c22252cDc8b7cDdEe1B0b2E242818509fCf7b8.png"
+  },
+  {
+    "network": "base",
+    "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+    "name": "Sign",
+    "symbol": "SIGN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x868FCEd65edBF0056c4163515dD840e9f287A4c3.png"
+  },
+  {
+    "network": "base",
+    "address": "0x1B4617734C43F6159F3a70b7E06d883647512778",
+    "name": "AWE Network",
+    "symbol": "AWE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x1B4617734C43F6159F3a70b7E06d883647512778.png"
+  },
+  {
+    "network": "base",
+    "address": "0x4BfAa776991E85e5f8b1255461cbbd216cFc714f",
+    "name": "Home",
+    "symbol": "HOME",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x4BfAa776991E85e5f8b1255461cbbd216cFc714f.png"
+  },
+  {
+    "network": "base",
+    "address": "0x7AaFD31a321d3627b30A8e2171264B56852187fe",
+    "name": "Mira",
+    "symbol": "MIRA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x7AaFD31a321d3627b30A8e2171264B56852187fe.png"
+  },
+  {
+    "network": "base",
+    "address": "0x696F9436B67233384889472Cd7cD58A6fB5DF4f1",
+    "name": "Avantis",
+    "symbol": "AVNT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x696F9436B67233384889472Cd7cD58A6fB5DF4f1.png"
+  },
+  {
+    "network": "base",
+    "address": "0xba12BC7B210E61e5D3110B997A63Ea216e0E18F7",
+    "name": "Chainbase Token",
+    "symbol": "C",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0xba12BC7B210E61e5D3110B997A63Ea216e0E18F7.png"
+  },
+  {
+    "network": "base",
+    "address": "0x00000000A22C618fd6b4D7E9A335C4B96B189a38",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0x00000000A22C618fd6b4D7E9A335C4B96B189a38.png"
+  },
+  {
+    "network": "base",
     "address": "0x57F5fbD3DE65DFC0bd3630F732969e5fb97E6d37",
     "name": "MAGA",
     "symbol": "TRUMP",
