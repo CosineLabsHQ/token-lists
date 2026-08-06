@@ -4185,6 +4185,326 @@
   },
   {
     "network": "ethereum",
+    "address": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
+    "name": "Pundi X Token",
+    "symbol": "PUNDIX",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+    "name": "SKY Governance Token",
+    "symbol": "SKY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x56072C95FAA701256059aa122697B133aDEd9279.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+    "name": "CyberConnect",
+    "symbol": "CYBER",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x14778860E937f509e651192a90589dE711Fb88a9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+    "name": "VANRY",
+    "symbol": "VANRY",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31",
+    "name": "PIXEL",
+    "symbol": "PIXEL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed",
+    "name": "PORTAL",
+    "symbol": "PORTAL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E",
+    "name": "USUAL",
+    "symbol": "USUAL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x4DC26fC5854e7648a064a4ABD590bBE71724C277",
+    "name": "Animecoin",
+    "symbol": "ANIME",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x4DC26fC5854e7648a064a4ABD590bBE71724C277.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x94314a14Df63779c99C0764a30e0CD22fA78fC0E",
+    "name": "Epic Chain",
+    "symbol": "EPIC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x94314a14Df63779c99C0764a30e0CD22fA78fC0E.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x7Cf9a80db3B29eE8efE3710AadB7b95270572d47",
+    "name": "Nillion",
+    "symbol": "NIL",
+    "decimals": 6,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x7Cf9a80db3B29eE8efE3710AadB7b95270572d47.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xf2c88757f8d03634671208935974B60a2a28Bdb3",
+    "name": "MyShell Token",
+    "symbol": "SHELL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xf2c88757f8d03634671208935974B60a2a28Bdb3.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x38E68A37E401F7271568CecaAc63c6B1e19130B4",
+    "name": "Banana",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x38E68A37E401F7271568CecaAc63c6B1e19130B4.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x3f80B1c54Ae920Be41a77f8B902259D48cf24cCf",
+    "name": "KERNEL",
+    "symbol": "KERNEL",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x3f80B1c54Ae920Be41a77f8B902259D48cf24cCf.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
+    "name": "Big Time",
+    "symbol": "BIGTIME",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+    "name": "Sign",
+    "symbol": "SIGN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x868FCEd65edBF0056c4163515dD840e9f287A4c3.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x1D88713b483A8E45cfF0e5CD7c2e15E5Fab4534d",
+    "name": "StakeStone",
+    "symbol": "STO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x1D88713b483A8E45cfF0e5CD7c2e15E5Fab4534d.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xD0eC028a3D21533Fdd200838F39c85B03679285D",
+    "name": "Newton",
+    "symbol": "NEWT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xD0eC028a3D21533Fdd200838F39c85B03679285D.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6B7774CB12ed7573a7586E7D0e62a2A563dDd3f0",
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6B7774CB12ed7573a7586E7D0e62a2A563dDd3f0.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x000000Fa00b200406de700041CFc6b19BbFB4d13",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x000000Fa00b200406de700041CFc6b19BbFB4d13.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x259338656198eC7A76c729514D3CB45Dfbf768A1",
+    "name": "Resolv",
+    "symbol": "RESOLV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x259338656198eC7A76c729514D3CB45Dfbf768A1.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555",
+    "name": "ZK Coin",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xFA1C09fC8B491B6A4d3Ff53A10CAd29381b3F949",
+    "name": "Falcon Finance",
+    "symbol": "FF",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xFA1C09fC8B491B6A4d3Ff53A10CAd29381b3F949.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xf0DB65D17e30a966C2ae6A21f6BBA71cea6e9754",
+    "name": "Lombard",
+    "symbol": "BARD",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xf0DB65D17e30a966C2ae6A21f6BBA71cea6e9754.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x24A3D725C37A8D1a66Eb87f0E5D07fE67c120035",
+    "name": "Eden Token",
+    "symbol": "EDEN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x24A3D725C37A8D1a66Eb87f0E5D07fE67c120035.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6e6F6d696e61decd6605bD4a57836c5DB6923340",
+    "name": "Nomina",
+    "symbol": "NOM",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6e6F6d696e61decd6605bD4a57836c5DB6923340.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xfAB99fCF605fD8f4593EDb70A43bA56542777777",
+    "name": "ZEROBASE",
+    "symbol": "ZBT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xfAB99fCF605fD8f4593EDb70A43bA56542777777.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x699F088b5DddcAFB7c4824db5B10B57B37cB0C66",
+    "name": "Enso",
+    "symbol": "ENSO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x699F088b5DddcAFB7c4824db5B10B57B37cB0C66.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x01791F726B4103694969820be083196cC7c045fF",
+    "name": "Yield Basis",
+    "symbol": "YB",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x01791F726B4103694969820be083196cC7c045fF.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9",
+    "name": "SynFutures",
+    "symbol": "F",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x66fD8de541c0594b4DccdFc13Bf3a390E50d3Afd",
+    "name": "Turtle",
+    "symbol": "TURTLE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x66fD8de541c0594b4DccdFc13Bf3a390E50d3Afd.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x086F405146Ce90135750Bbec9A063a8B20A8bfFb",
+    "name": "Brevis Token",
+    "symbol": "BREV",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x086F405146Ce90135750Bbec9A063a8B20A8bfFb.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xe1Be424F442D0687129128C6c38aAce44F8c8Dbc",
+    "name": "zkPass",
+    "symbol": "ZKP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xe1Be424F442D0687129128C6c38aAce44F8c8Dbc.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x56A3BA04E95d34268A19b2a4474DC979baBDaf76",
+    "name": "Sentient",
+    "symbol": "SENT",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x56A3BA04E95d34268A19b2a4474DC979baBDaf76.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xA12CC123ba206d4031D1c7f6223D1C2Ec249f4f3",
+    "name": "Zama",
+    "symbol": "ZAMA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xA12CC123ba206d4031D1c7f6223D1C2Ec249f4f3.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x031De51F3E8016514Bd0963d0B2AB825A591Db9A",
+    "name": "Espresso",
+    "symbol": "ESP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x031De51F3E8016514Bd0963d0B2AB825A591Db9A.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x32b4d049fE4c888D2b92eEcaf729F44DF6B1F36E",
+    "name": "Robo Token",
+    "symbol": "ROBO",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x32b4d049fE4c888D2b92eEcaf729F44DF6B1F36E.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94",
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x526526528F35AC738177003b8773B402B8Df8143",
+    "name": "Re Protocol",
+    "symbol": "RE",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x526526528F35AC738177003b8773B402B8Df8143.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0x0fc2a55d5BD13033f1ee0cdd11f60F7eFe66f467",
+    "name": "Lagrange",
+    "symbol": "LA",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0x0fc2a55d5BD13033f1ee0cdd11f60F7eFe66f467.png"
+  },
+  {
+    "network": "ethereum",
+    "address": "0xA227Cc36938f0c9E09CE0e64dfab226cad739447",
+    "name": "Open",
+    "symbol": "OPEN",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/ethereum/0xA227Cc36938f0c9E09CE0e64dfab226cad739447.png"
+  },
+  {
+    "network": "ethereum",
     "address": "0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414",
     "name": "E-RADIX",
     "symbol": "eXRD",

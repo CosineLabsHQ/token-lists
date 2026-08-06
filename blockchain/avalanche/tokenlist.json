@@ -777,6 +777,14 @@
   },
   {
     "network": "avalanche",
+    "address": "0x5E0E90E268BC247Cc850c789A0DB0d5c7621fb59",
+    "name": "NXPC",
+    "symbol": "NXPC",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/avalanche/0x5E0E90E268BC247Cc850c789A0DB0d5c7621fb59.png"
+  },
+  {
+    "network": "avalanche",
     "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
     "name": "Any Inu",
     "symbol": "AI",
