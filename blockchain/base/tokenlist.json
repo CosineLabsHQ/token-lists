@@ -225,14 +225,6 @@
   },
   {
     "network": "base",
-    "address": "0xB095274743941e953c746F9C228DA9c18Bb6ec29",
-    "name": "LAPTOP",
-    "symbol": "LAPTOP",
-    "decimals": 18,
-    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0xB095274743941e953c746F9C228DA9c18Bb6ec29.png"
-  },
-  {
-    "network": "base",
     "address": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
     "name": "Prime",
     "symbol": "PRIME",
@@ -1686,6 +1678,14 @@
     "symbol": "DEFAI",
     "decimals": 18,
     "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0xb3621cd34803Cf7065Dcb0D5BfB0f56C1834a063.png"
+  },
+  {
+    "network": "base",
+    "address": "0xB095274743941e953c746F9C228DA9c18Bb6ec29",
+    "name": "LAPTOP",
+    "symbol": "LAPTOP",
+    "decimals": 18,
+    "logo_uri": "https://token-assets.getcosine.app/blockchain/base/0xB095274743941e953c746F9C228DA9c18Bb6ec29.png"
   },
   {
     "network": "base",
